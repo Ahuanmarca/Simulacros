@@ -41,6 +41,14 @@
         background-color: #e0f7fa;
         border: 2px solid #00796b;
       }
+      .options button.correct-answer {
+        background-color: #d4edda;
+        border: 2px solid green;
+      }
+      .options button.incorrect-answer {
+        background-color: #f8d7da;
+        border: 2px solid red;
+      }
       .feedback {
         margin-top: 1em;
         font-style: italic;
@@ -127,13 +135,21 @@
         const feedbackBox = document.getElementById("feedback");
         const nextBtn = document.getElementById("nextBtn");
 
-        document.querySelectorAll(".options button").forEach((btn) => {
+        document.querySelectorAll(".options button").forEach((btn, i) => {
           btn.disabled = true;
-          btn.classList.remove("selected");
+          btn.classList.remove("selected", "correct-answer", "incorrect-answer");
+          if (i === correctaIdx) {
+            btn.classList.add("correct-answer");
+          }
         });
 
         if (selected !== null) {
-          document.getElementById(`btn${selected}`).classList.add("selected");
+          const selectedBtn = document.getElementById(`btn${selected}`);
+          if (isCorrect) {
+            selectedBtn.classList.add("selected");
+          } else {
+            selectedBtn.classList.add("incorrect-answer");
+          }
         } else {
           document.getElementById("btnPass").classList.add("selected");
         }
