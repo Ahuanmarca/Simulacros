@@ -8,7 +8,11 @@ const preguntas = [
       "d) Trenes Turísticos.",
     ],
     correcta: "c) Servicios de Cercanías.",
-    comentario: `Los Servicios Comerciales son aquellos que atienden las necesidades de demanda de movilidad del mercado y se prestan en régimen de libre competencia y pluralidad de oferta.`,
+    comentario: `Los Servicios Comerciales son aquellos que atienden las necesidades de demanda de movilidad del mercado y se prestan en régimen de libre competencia y pluralidad de oferta.
+Los servicios considerados comerciales son:
+– Alta Velocidad-Larga Distancia.
+– Larga Distancia.
+– Trenes Turísticos, cuyas Condiciones Generales de contratación se encuentran a disposición de los clientes en la web de Renfe.`,
   },
   {
     pregunta: "2. ¿Cuál de las siguientes opciones no es una de las que regulan los servicios sujetos a obligaciones de servicio público por la Administración General del Estado que debe prestar Renfe Viajeros en la red ferroviaria de interés general?",
@@ -30,6 +34,10 @@ const preguntas = [
       "d) Servicios de Cercanías que discurren por vías de ancho métrico o ibérico/red de ancho convencional.",
     ],
     correcta: "b) AVE, Avlo, Alvia, Euromed e Intercity.",
-    comentario: `Los tipos de servicios sometidos a obligaciones de servicio público son:`,
+    comentario: `Los tipos de servicios sometidos a obligaciones de servicio público son:
+– Alta Velocidad-Media Distancia.
+– Servicios de Media Distancia que circulan por vías de ancho métrico o ibérico/red de ancho convencional.
+– Servicios de Cercanías que discurren por vías de ancho métrico o ibérico/red de ancho convencional.
+Por el contrario, “b) AVE, Avlo, Alvia, Euromed e Intercity” son servicios comerciales regulados por las condiciones de mercado (tarifas y descuentos/beneficios que no pueden ser fijados por financiación pública) porque supondría una competencia desleal para el resto de operadores de transporte de viajeros.`,
   },
 ];
