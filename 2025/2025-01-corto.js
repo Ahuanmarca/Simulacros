@@ -41,3 +41,23 @@ Los servicios considerados comerciales son:
 Por el contrario, “b) AVE, Avlo, Alvia, Euromed e Intercity” son servicios comerciales regulados por las condiciones de mercado (tarifas y descuentos/beneficios que no pueden ser fijados por financiación pública) porque supondría una competencia desleal para el resto de operadores de transporte de viajeros.`,
   },
 ];
+
+
+// === VALIDACIÓN DE RESPUESTAS ===
+
+let errores = [];
+
+preguntas.forEach((pregunta, index) => {
+  const { opciones, correcta } = pregunta;
+  const coincidencia = opciones.includes(correcta);
+  if (!coincidencia) {
+    errores.push(index + 1); // sumamos 1 para que el número coincida con la pregunta real
+  }
+});
+
+if (errores.length === 0) {
+  console.log("✅ Todas las preguntas tienen una opción que coincide exactamente con la respuesta correcta.");
+} else {
+  console.log("❌ Las siguientes preguntas NO tienen una opción que coincida con la respuesta correcta:");
+  errores.forEach(num => console.log(`  - Pregunta ${num}`));
+}
