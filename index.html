@@ -1,260 +1,71 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Quiz RENFE</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background: #fefefe;
-        color: #333;
-        padding: 2em;
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simulacros RENFE</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f9f9f9;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 2em;
+    }
+    .menu {
+      max-width: 500px;
+      width: 100%;
+      background: #ffffff;
+      padding: 2em;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h1 {
+      margin-bottom: 1.5em;
+      font-size: 1.8em;
+      color: #333;
+    }
+    .menu button {
+      display: block;
+      width: 100%;
+      margin: 0.5em 0;
+      padding: 1em;
+      font-size: 1em;
+      border: none;
+      border-radius: 8px;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    .menu button:hover {
+      background-color: #0056b3;
+    }
+    @media (max-width: 500px) {
+      .menu {
+        padding: 1.5em;
       }
-      .quiz-box,
-      .summary {
-        max-width: 800px;
-        margin: auto;
-        border: 1px solid #ccc;
-        padding: 2em;
-        border-radius: 8px;
-        background: #fff;
+      h1 {
+        font-size: 1.5em;
       }
-      .question {
-        font-size: 1.1em;
-        margin-bottom: 1em;
-        white-space: pre-wrap;
-      }
-      .options {
-        margin-bottom: 1em;
-      }
-      .options button {
-        display: block;
-        width: 100%;
-        padding: 0.5em;
-        margin: 0.3em 0;
-        font-size: 1em;
-        cursor: pointer;
-        text-align: left;
-      }
-      .options button.selected {
-        background-color: #e0f7fa;
-        border: 2px solid #00796b;
-      }
-      .options button.correct-answer {
-        background-color: #d4edda;
-        border: 2px solid green;
-      }
-      .options button.incorrect-answer {
-        background-color: #f8d7da;
-        border: 2px solid red;
-      }
-      .feedback {
-        margin-top: 1em;
-        font-style: italic;
-        white-space: pre-wrap;
-      }
-      .feedback.correct {
-        color: green;
-      }
-      .feedback.incorrect {
-        color: red;
-        font-style: normal;
-      }
-      .summary h2 {
-        margin-top: 0;
-      }
-      .resumen-pregunta {
-        margin-bottom: 2em;
-        padding: 1em;
-        border: 1px solid #ddd;
-        border-radius: 6px;
-        background-color: #fafafa;
-      }
-      .resumen-pregunta.correcta {
-        border-left: 5px solid green;
-      }
-      .resumen-pregunta.incorrecta {
-        border-left: 5px solid red;
-      }
-      .resumen-pregunta.pasada {
-        border-left: 5px solid gray;
-      }
-      .correct {
-        color: green;
-      }
-      .incorrect {
-        color: red;
-      }
-      .passed {
-        color: gray;
-      }
-      #nextBtn {
-        margin-top: 1em;
-        padding: 0.5em 1em;
-        font-size: 1em;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="quiz-box" id="quizBox"></div>
-    <div class="summary" id="summary" style="display: none"></div>
-
-    <script src="2025-01.js"></script>
-    <script>
-      let current = 0;
-      const answers = [];
-      let awaitingNext = false;
-
-      function showQuestion(index) {
-        const q = preguntas[index];
-        const box = document.getElementById("quizBox");
-        box.innerHTML = `
-          <div class="question">${q.pregunta}</div>
-          <div class="options">
-            ${q.opciones
-              .map(
-                (opt, i) =>
-                  `<button onclick="submitAnswer(${i})" id="btn${i}">${opt}</button>`
-              )
-              .join("")}
-            <button onclick="submitAnswer(null)" id="btnPass">Pasar</button>
-          </div>
-          <div id="feedback"></div>
-          <button id="nextBtn" style="display:none" onclick="nextQuestion()">Siguiente</button>
-        `;
-        awaitingNext = false;
-      }
-
-      function submitAnswer(selected) {
-        if (awaitingNext) return;
-        awaitingNext = true;
-        const q = preguntas[current];
-        const correctaIdx = q.opciones.findIndex((opt) => opt === q.correcta);
-        const isCorrect = selected === correctaIdx;
-        const feedbackBox = document.getElementById("feedback");
-        const nextBtn = document.getElementById("nextBtn");
-
-        document.querySelectorAll(".options button").forEach((btn, i) => {
-          btn.disabled = true;
-          btn.classList.remove("selected", "correct-answer", "incorrect-answer");
-          if (i === correctaIdx) {
-            btn.classList.add("correct-answer");
-          }
-        });
-
-        if (selected !== null) {
-          const selectedBtn = document.getElementById(`btn${selected}`);
-          if (isCorrect) {
-            selectedBtn.classList.add("selected");
-          } else {
-            selectedBtn.classList.add("incorrect-answer");
-          }
-        } else {
-          document.getElementById("btnPass").classList.add("selected");
-        }
-
-        const formattedComment = q.comentario.replace(/\n/g, "<br>");
-
-        if (selected === null) {
-          feedbackBox.innerHTML = `<div class="feedback">Pasada. ${formattedComment}</div>`;
-          answers.push({ selected: null, correct: false });
-        } else if (isCorrect) {
-          feedbackBox.innerHTML = `<div class="feedback correct">¡Correcta!</div>`;
-          answers.push({ selected, correct: true });
-        } else {
-          feedbackBox.innerHTML = `<div class="feedback"><span class="incorrect">Incorrecta.</span> ${formattedComment}</div>`;
-          answers.push({ selected, correct: false });
-        }
-
-        nextBtn.style.display = "inline-block";
-      }
-
-      function nextQuestion() {
-        current++;
-        if (current < preguntas.length) {
-          showQuestion(current);
-        } else {
-          showSummary();
-        }
-      }
-
-      document.addEventListener("keydown", (e) => {
-        if (awaitingNext) {
-          nextQuestion();
-          return;
-        }
-        const keyMap = {
-          a: 0,
-          b: 1,
-          c: 2,
-          d: 3,
-          p: null,
-          1: 0,
-          2: 1,
-          3: 2,
-          4: 3,
-          5: null,
-        };
-        const key = e.key.toLowerCase();
-        if (key in keyMap) {
-          submitAnswer(keyMap[key]);
-        }
-      });
-
-      function showSummary() {
-        document.getElementById("quizBox").style.display = "none";
-        const summary = document.getElementById("summary");
-        const total = preguntas.length;
-        const correct = answers.filter((a) => a.correct).length;
-        const passed = answers.filter((a) => a.selected === null).length;
-        const incorrect = total - correct - passed;
-
-        summary.style.display = "block";
-        summary.innerHTML = `
-          <h2>Resumen del cuestionario</h2>
-          <p>Correctas: <strong>${correct}</strong></p>
-          <p>Incorrectas: <strong>${incorrect}</strong></p>
-          <p>Pasadas: <strong>${passed}</strong></p>
-          <h3>Resultados detallados</h3>
-          ${preguntas
-            .map((q, i) => {
-              const user = answers[i];
-              const selectedText =
-                user.selected === null ? "—" : q.opciones[user.selected];
-              const correctText = q.correcta;
-              const statusClass =
-                user.selected === null
-                  ? "pasada"
-                  : user.correct
-                  ? "correcta"
-                  : "incorrecta";
-              const statusLabel =
-                user.selected === null
-                  ? "Pasada"
-                  : user.correct
-                  ? "Correcta"
-                  : "Incorrecta";
-              const mostrarRespuestaCorrecta =
-                !user.correct && user.selected !== null;
-              return `
-              <div class="resumen-pregunta ${statusClass}">
-                <p><strong>Pregunta ${i + 1}:</strong> ${q.pregunta}</p>
-                <p><strong>Tu respuesta:</strong> ${selectedText}</p>
-                ${
-                  mostrarRespuestaCorrecta
-                    ? `<p><strong>Respuesta correcta:</strong> ${correctText}</p>`
-                    : ""
-                }
-                <p><strong>Estado:</strong> <span class="${statusClass}">${statusLabel}</span></p>
-              </div>
-            `;
-            })
-            .join("")}
-        `;
-      }
-
-      showQuestion(current);
-    </script>
-  </body>
+    }
+  </style>
+</head>
+<body>
+  <div class="menu">
+    <h1>Simulacros RENFE</h1>
+    <button onclick="location.href='cuestionarios/2025-01.html'">Simulacro 2025-01</button>
+    <button onclick="location.href='cuestionarios/2025-02.html'">Simulacro 2025-02</button>
+    <button onclick="location.href='cuestionarios/2025-03.html'">Simulacro 2025-03</button>
+    <button onclick="location.href='cuestionarios/2025-04.html'">Simulacro 2025-04</button>
+    <button onclick="location.href='cuestionarios/2025-05.html'">Simulacro 2025-05</button>
+  </div>
+</body>
 </html>
