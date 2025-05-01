@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
+    <!-- Para comportamiento tipo app en iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <link rel="apple-touch-icon" href="/icon.png" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Quiz RENFE</title>
@@ -130,10 +138,12 @@
         if (awaitingNext) return;
         awaitingNext = true;
         const q = preguntas[current];
-        
+
         // const correctaIdx = q.opciones.findIndex((opt) => opt === q.correcta);
         const correctaLetra = q.correcta.trim().charAt(0).toLowerCase();
-        const correctaIdx = q.opciones.findIndex((opt) => opt.trim().charAt(0).toLowerCase() === correctaLetra);
+        const correctaIdx = q.opciones.findIndex(
+          (opt) => opt.trim().charAt(0).toLowerCase() === correctaLetra
+        );
 
         const isCorrect = selected === correctaIdx;
         const feedbackBox = document.getElementById("feedback");
@@ -141,7 +151,11 @@
 
         document.querySelectorAll(".options button").forEach((btn, i) => {
           btn.disabled = true;
-          btn.classList.remove("selected", "correct-answer", "incorrect-answer");
+          btn.classList.remove(
+            "selected",
+            "correct-answer",
+            "incorrect-answer"
+          );
           if (i === correctaIdx) {
             btn.classList.add("correct-answer");
           }
