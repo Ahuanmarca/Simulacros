@@ -18,6 +18,14 @@ let arrowSelected = null;
 let hasMovedWithArrow = false;
 let modoReforzar = false;
 
+function actualizarBotonReforzar() {
+  const cantidadErrores = Object.values(errores).filter(v => v > 0).length;
+  const btn = document.getElementById("reforzarBtn");
+  if (btn) {
+    btn.textContent = `Reforzar errores (${cantidadErrores})`;
+  }
+}
+
 function iniciarQuiz(id) {
   preguntas = datasets[id].map((p, i) => ({ ...p, _origen: id, _index: i }));
   current = 0;
@@ -64,6 +72,7 @@ function showMenu() {
   document.getElementById("quizBox").style.display = "none";
   document.getElementById("summary").style.display = "none";
   document.getElementById("backBtn").style.display = "none";
+  actualizarBotonReforzar();
 }
 
 function showQuestion(index) {
@@ -130,6 +139,8 @@ function submitAnswer(selected) {
   } else {
     if (errores[key]) errores[key] = Math.max(0, errores[key] - 1);
   }
+
+  actualizarBotonReforzar();
 
   const formattedComment = q.comentario.replace(/\n/g, "<br>");
 
