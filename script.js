@@ -10,6 +10,7 @@ const datasets = {
 
 // const errores = {};
 const errores = JSON.parse(localStorage.getItem("errores") || "{}");
+actualizarBotonReforzar();
 
 let current = 0;
 let preguntas = [];
