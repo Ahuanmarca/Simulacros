@@ -108,6 +108,41 @@
         border: none;
         border-top: 1px solid #ccc;
       }
+
+      @media (max-width: 600px) {
+        body {
+          padding: 1em;
+          font-size: 1.1em;
+        }
+
+        .menu button,
+        #nextBtn,
+        #backBtn {
+          padding: 0.8em;
+          font-size: 1.1em;
+          max-width: 100%;
+        }
+
+        .quiz-box,
+        .summary {
+          padding: 1.2em;
+          border-width: 1px;
+        }
+
+        .question {
+          font-size: 1.2em;
+        }
+
+        .options button {
+          padding: 0.7em;
+          font-size: 1em;
+        }
+
+        .resumen-pregunta {
+          padding: 0.8em;
+          font-size: 1em;
+        }
+      }
     </style>
     <!-- AQUI -->
     <script src="cuestionarios/2025-01.js"></script>
@@ -132,7 +167,7 @@
     <div class="summary" id="summary" style="display: none"></div>
     <button
       id="backBtn"
-      style="display: none; margin: 2em auto;"
+      style="display: none; margin: 2em auto"
       onclick="showMenu()"
     >
       Volver al menú
