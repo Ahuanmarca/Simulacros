@@ -1,4 +1,4 @@
-const preguntas = [
+const preguntas_2025_02= [
   {
     pregunta: "1. ¿Puede realizarse el acceso al tren en una estación distinta de la que conste como estación de origen del viaje en el título de transporte?",
     opciones: [

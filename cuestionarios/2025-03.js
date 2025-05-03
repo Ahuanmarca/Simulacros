@@ -1,4 +1,4 @@
-const preguntas = [
+const preguntas_2025_03 = [
   {
     pregunta: "1. ¿Cuál de las siguientes afirmaciones sobre el viaje con armas no es correcta?",
     opciones: [

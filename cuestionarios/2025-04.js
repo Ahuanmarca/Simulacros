@@ -1,4 +1,4 @@
-const preguntas = [
+const preguntas_2025_04 = [
   {
     pregunta: "1. Excepto por las causas previstas por la legislación vigente, ¿a qué tendrá dereCho el cliente en caso de retraso en la llegada a destino por tiempo igual o superior a 90 minutos?",
     opciones: [

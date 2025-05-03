@@ -1,4 +1,4 @@
-const preguntas = [
+const preguntas_2025_01 = [
   {
     pregunta: "1. Los Servicios Comerciales son aquellos que atienden las necesidades de demanda de movilidad del mercado y se prestan en régimen de libre competencia y pluralidad de oferta. ¿Cuál de los siguientes no es considerado un servicio comercial?",
     opciones: [

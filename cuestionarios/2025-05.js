@@ -1,4 +1,4 @@
-const preguntas = [
+const preguntas_2025_05 = [
   {
     pregunta: "1. En AVLO, el cliente tiene la opción de añadir como servicio adicional:",
     opciones: [
