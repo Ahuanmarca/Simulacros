@@ -130,6 +130,13 @@
     </div>
     <div class="quiz-box" id="quizBox" style="display: none"></div>
     <div class="summary" id="summary" style="display: none"></div>
+    <button
+      id="backBtn"
+      style="display: none; margin: 2em auto;"
+      onclick="showMenu()"
+    >
+      Volver al menú
+    </button>
 
     <script>
       // AQUI
@@ -139,7 +146,7 @@
         "2025-03": preguntas_2025_03,
         "2025-04": preguntas_2025_04,
         "2025-05": preguntas_2025_05,
-        "test": test,
+        test: test,
       };
 
       let current = 0;
@@ -157,12 +164,14 @@
         document.getElementById("quizBox").style.display = "block";
         document.getElementById("summary").style.display = "none";
         showQuestion(current);
+        document.getElementById("backBtn").style.display = "block";
       }
 
       function showMenu() {
         document.getElementById("menu").style.display = "block";
         document.getElementById("quizBox").style.display = "none";
         document.getElementById("summary").style.display = "none";
+        document.getElementById("backBtn").style.display = "none";
       }
 
       function showQuestion(index) {
@@ -213,10 +222,13 @@
 
         if (selected !== null) {
           const selectedBtn = document.getElementById(`btn${selected}`);
-          if (isCorrect) selectedBtn.classList.add("selected");
-          else selectedBtn.classList.add("incorrect-answer");
+          if (selectedBtn) {
+            if (isCorrect) selectedBtn.classList.add("selected");
+            else selectedBtn.classList.add("incorrect-answer");
+          }
         } else {
-          document.getElementById("btnPass").classList.add("selected");
+          const passBtn = document.getElementById("btnPass");
+          if (passBtn) passBtn.classList.add("selected");
         }
 
         const formattedComment = q.comentario.replace(/\n/g, "<br>");
@@ -280,6 +292,7 @@
       })
       .join("")}
   `;
+        document.getElementById("backBtn").style.display = "block";
       }
 
       document.addEventListener("keydown", (e) => {
