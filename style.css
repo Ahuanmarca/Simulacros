@@ -1,0 +1,132 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fefefe;
+  color: #333;
+  padding: 2em;
+}
+.menu {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+.menu button {
+  display: block;
+  margin: 1em auto;
+  padding: 1em;
+  width: 100%;
+  max-width: 300px;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+.quiz-box,
+.summary {
+  max-width: 800px;
+  margin: auto;
+  border: 1px solid #ccc;
+  padding: 2em;
+  border-radius: 8px;
+  background: #fff;
+}
+.question {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+  white-space: pre-wrap;
+}
+.options {
+  margin-bottom: 1em;
+}
+.options button {
+  display: block;
+  width: 100%;
+  padding: 0.5em;
+  margin: 0.3em 0;
+  font-size: 1em;
+  cursor: pointer;
+  text-align: left;
+}
+.options button.selected {
+  background-color: #e0f7fa;
+  border: 2px solid #00796b;
+}
+.options button.correct-answer {
+  background-color: #d4edda;
+  border: 2px solid green;
+}
+.options button.incorrect-answer {
+  background-color: #f8d7da;
+  border: 2px solid red;
+}
+.options button.highlighted {
+  outline: 2px solid #00796b;
+  background-color: #e0f7fa;
+}
+.feedback {
+  margin-top: 1em;
+  font-style: italic;
+  white-space: pre-wrap;
+}
+.feedback.correct {
+  color: green;
+}
+.feedback.incorrect {
+  color: red;
+  font-style: normal;
+}
+#nextBtn {
+  margin-top: 1em;
+  padding: 0.5em 1em;
+  font-size: 1em;
+}
+.resumen-pregunta {
+  margin-bottom: 2em;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #fafafa;
+}
+.resumen-pregunta.incorrecta {
+  border-left: 5px solid red;
+}
+.resumen-pregunta.pasada {
+  border-left: 5px solid gray;
+}
+hr {
+  margin-top: 1.5em;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1em;
+    font-size: 1.1em;
+  }
+
+  .menu button,
+  #nextBtn,
+  #backBtn {
+    padding: 0.8em;
+    font-size: 1.1em;
+    max-width: 100%;
+  }
+
+  .quiz-box,
+  .summary {
+    padding: 1.2em;
+    border-width: 1px;
+  }
+
+  .question {
+    font-size: 1.2em;
+  }
+
+  .options button {
+    padding: 0.7em;
+    font-size: 1em;
+  }
+
+  .resumen-pregunta {
+    padding: 0.8em;
+    font-size: 1em;
+  }
+}
