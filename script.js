@@ -8,7 +8,8 @@ const datasets = {
   test: test,
 };
 
-const errores = {};
+// const errores = {};
+const errores = JSON.parse(localStorage.getItem("errores") || "{}");
 
 let current = 0;
 let preguntas = [];
@@ -156,6 +157,7 @@ function submitAnswer(selected) {
   }
 
   nextBtn.style.display = "inline-block";
+  localStorage.setItem("errores", JSON.stringify(errores));
 }
 
 function nextQuestion() {
@@ -256,3 +258,10 @@ document.addEventListener("keydown", (e) => {
     submitAnswer(arrowSelected);
   }
 });
+
+function borrarErrores() {
+  localStorage.removeItem("errores");
+  for (const k in errores) delete errores[k];
+  actualizarBotonReforzar();
+  alert("Errores borrados.");
+}
