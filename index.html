@@ -29,15 +29,18 @@
       <button onclick="iniciarQuiz('2025-04')">2025-04</button>
       <button onclick="iniciarQuiz('2025-05')">2025-05</button>
       <button onclick="iniciarQuiz('test')">test</button>
+      <button onclick="iniciarReforzar()">🔁 Reforzar errores</button>
     </div>
     <div class="quiz-box" id="quizBox" style="display: none"></div>
     <div class="summary" id="summary" style="display: none"></div>
+
     <button
       id="backBtn"
-      style="display: none; margin: 2em auto"
+      class="back-floating"
       onclick="showMenu()"
+      title="Volver al menú"
     >
-      Volver al menú
+      ↩
     </button>
 
     <script src="script.js"></script>

@@ -8,17 +8,50 @@ const datasets = {
   test: test,
 };
 
+const errores = {};
+
 let current = 0;
 let preguntas = [];
 let answers = [];
 let awaitingNext = false;
 let arrowSelected = null;
 let hasMovedWithArrow = false;
+let modoReforzar = false;
 
 function iniciarQuiz(id) {
-  preguntas = datasets[id];
+  preguntas = datasets[id].map((p, i) => ({ ...p, _origen: id, _index: i }));
   current = 0;
   answers = [];
+  modoReforzar = false;
+  document.getElementById("menu").style.display = "none";
+  document.getElementById("quizBox").style.display = "block";
+  document.getElementById("summary").style.display = "none";
+  showQuestion(current);
+  document.getElementById("backBtn").style.display = "block";
+}
+
+function iniciarReforzar() {
+  const erroresOrdenados = Object.entries(errores)
+    .sort((a, b) => b[1] - a[1])
+    .map(([k]) => {
+      const [origen, index] = k.split("::");
+      return { ...datasets[origen][index], _origen: origen, _index: parseInt(index) };
+    });
+
+  const usados = new Set(erroresOrdenados.map(p => p._origen + "::" + p._index));
+
+  const resto = Object.entries(datasets)
+    .flatMap(([origen, arr]) =>
+      arr.map((p, i) => ({ ...p, _origen: origen, _index: i }))
+    )
+    .filter(p => !usados.has(p._origen + "::" + p._index));
+
+  const seleccion = erroresOrdenados.concat(resto.sort(() => 0.5 - Math.random()));
+
+  preguntas = seleccion.slice(0, 60);
+  current = 0;
+  answers = [];
+  modoReforzar = true;
   document.getElementById("menu").style.display = "none";
   document.getElementById("quizBox").style.display = "block";
   document.getElementById("summary").style.display = "none";
@@ -90,6 +123,14 @@ function submitAnswer(selected) {
     if (passBtn) passBtn.classList.add("selected");
   }
 
+  const key = q._origen + "::" + q._index;
+
+  if (selected === null || !isCorrect) {
+    errores[key] = (errores[key] || 0) + 1;
+  } else {
+    if (errores[key]) errores[key] = Math.max(0, errores[key] - 1);
+  }
+
   const formattedComment = q.comentario.replace(/\n/g, "<br>");
 
   if (selected === null) {
@@ -139,15 +180,15 @@ ${preguntas
         const statusLabel = user.selected === null ? "Pasada" : "Incorrecta";
         const comentario = q.comentario?.replace(/\n/g, "<br>") || "";
         return `
-    <div class="resumen-pregunta ${statusClass}">
-      <p><strong>Pregunta ${i + 1}:</strong> ${q.pregunta}</p>
-      <p><strong>Tu respuesta:</strong> ${selectedText}</p>
-      <p><strong>Respuesta correcta:</strong> ${correctText}</p>
-      <p><strong>Estado:</strong> <span class="${statusClass}">${statusLabel}</span></p>
-      <div class="comentario"><em>${comentario}</em></div>
-      <hr>
-    </div>
-  `;
+  <div class="resumen-pregunta ${statusClass}">
+    <p><strong>Pregunta ${i + 1}:</strong> ${q.pregunta}</p>
+    <p><strong>Tu respuesta:</strong> ${selectedText}</p>
+    <p><strong>Respuesta correcta:</strong> ${correctText}</p>
+    <p><strong>Estado:</strong> <span class="${statusClass}">${statusLabel}</span></p>
+    <div class="comentario"><em>${comentario}</em></div>
+    <hr>
+  </div>
+`;
       })
       .join("")}
 `;
