@@ -84,15 +84,15 @@ Por el contrario, “b) AVE, Avlo, Alvia, Euromed e Intercity” son servicios c
 = La información sobre los seguros u otros afianzamientos Mercantiles que el ser- vicio tenga cubiertos.
 = La hora límite, si la hubiere, de presentación en los controles de seguridad para el acceso al tren, si el administrador de infraestructuras lo estableciera.
 = Indicación de que el transporte queda sometido a las Reglas Uniformes relativas al contrato de transporte internacional de viajeros y equipajes de ferrocarril (CIV)”:
----------- TO FIX ----------`,
+`,
   },
   {
-    pregunta: "7. Desde el punto de vista tarifario, ¿cómo estructura Renfe Viajeros el servicio que ofrece a los viajeros? A a b C d En servicios públicos y privados. En servicios de baja, media o alta velocidad. En servicios comerciales y servicios sujetos a obligaciones de servicio público. En servicios de precios populares y servicios de primera clase.",
+    pregunta: "7. Desde el punto de vista tarifario, ¿cómo estructura Renfe Viajeros el servicio que ofrece a los viajeros?",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) En servicios públicos y privados.",
+      "b) En servicios de baja, media o alta velocidad.",
+      "c) En servicios comerciales y servicios sujetos a obligaciones de servicio público.",
+      "d) En servicios de precios populares y servicios de primera clase.",
     ],
     correcta: "c) En servicios comerciales y servicios sujetos a obligaciones de servicio público  “Desde el punto de vista tarifario. Renfe Viajeros estructura el servicio que ofrece a  los viajeros en: servicios comerciales y servicios sujetos a obligaciones de servicio público”.",
     comentario: ``,

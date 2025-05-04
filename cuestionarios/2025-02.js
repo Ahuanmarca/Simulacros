@@ -163,15 +163,15 @@ const preguntas_2025_02= [
     ],
     correcta: "a) Regularizará su pago en ruta.",
     comentario: `“En los servicios de Cercanías, el cliente provisto de título válido podrá prolongar su viaje dentro y fuera del Núcleo, previa comunicación y regularización de su pago en la estación de origen. Únicamente en el caso de que la estación de origen no tenga venta asistida, la regularización del pago se hará en ruta”.
----------- TO FIX ----------`,
+`,
   },
   {
-    pregunta: "16. ¿Puede un viajero con Título Multiviaje prolongar su recorrido fuera del Núcleo? Sí, debiendo regularizar su pago en ruta. Sí, previa comunicación y regularización de su pago en la estación de origen. No, la prolongación del recorrido está prohibida para todos los títulos y servicios. No, los Títulos Multiviaje no admiten prolongación del recorrido fuera del Núcleo. a b C o d ==",
+    pregunta: "16. ¿Puede un viajero con Título Multiviaje prolongar su recorrido fuera del Núcleo?",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) Sí, debiendo regularizar su pago en ruta.",
+      "b) Sí, previa comunicación y regularización de su pago en la estación de origen.",
+      "c) No, la prolongación del recorrido está prohibida para todos los títulos y servicios.",
+      "d) No, los Títulos Multiviaje no admiten prolongación del recorrido fuera del Núcleo.",
     ],
     correcta: "d) No, los Títulos Multiviaje no admiten prolongación del recorrido fuera del Núcleo.",
     comentario: `“Los Títulos Multiviaje y los emitidos por los Consorcios de Transporte o asimilados no admiten prolongación del recorrido fuera del Núcleo”.`,
@@ -258,15 +258,15 @@ const preguntas_2025_02= [
 Ser considerados como peligrosos.
 Dañar, molestar o manchar a los demás viajeros y a sus equipajes.
 Dañar el material ferroviario, obstaculizar la explotación ferroviaria o poner en peligro la seguridad del transporte”.
----------- TO FIX ----------`,
+`,
   },
   {
-    pregunta: "24. En los casos en que Rede Viajeros decida limitar o excluir el transporte de mascotas, ¿cuándo debe informar al cliente de esta circunstancia? == a b C d Durante el trayecto. Antes de la compra del viaje. Antes de acceder al tren. Antes de acceder a la estación de origen. a A E",
+    pregunta: "24. En los casos en que Rede Viajeros decida limitar o excluir el transporte de mascotas, ¿cuándo debe informar al cliente de esta circunstancia?",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) Durante el trayecto.",
+      "b) Antes de la compra del viaje.",
+      "c) Antes de acceder al tren.",
+      "d) Antes de acceder a la estación de origen.",
     ],
     correcta: "b) Antes de la compra del viaje.",
     comentario: `“Renfe Viajeros ofrece la posibilidad de realizar el viaje con animales de compañía en los trenes, según las condiciones comerciales específicas de cada servicio ferroviario.
@@ -609,15 +609,15 @@ Esta época se destacó por la importancia de la experiencia del cliente y la cr
     correcta: "c) Atracción y captación.",
     comentario: `“El ciclo de vida del cliente es un concepto central en la gestión de relaciones con los clientes que abarca desde el primer contacto con la marca hasta la lealtad continua.
 Antes de que un cliente potencial se convierta en un cliente adquirido, existe una fase crucial de atracción y captación”.
----------- TO FIX ----------`,
+`,
   },
   {
-    pregunta: "52. Una vez que un cliente potencial muestra interés en la marca o producto, comienza una fase en la que es esencial que la experiencia de compra sea fluida y satisfactoria, ¿cómo se denomina esa fase? a b C d map Fase de adquisición. Fase de consolidación. Apertura a nuevos mercados. Atracción y captación.",
+    pregunta: "52. Una vez que un cliente potencial muestra interés en la marca o producto, comienza una fase en la que es esencial que la experiencia de compra sea fluida y satisfactoria, ¿cómo se denomina esa fase?",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) Fase de adquisición.",
+      "b) Fase de consolidación.",
+      "c) Apertura a nuevos mercados.",
+      "d) Atracción y captación.",
     ],
     correcta: "a) Fase de adquisición.",
     comentario: `“Una vez que un cliente potencial muestra interés en la marca o producto, comienza la fase de adquisición. Este es el momento en el que el cliente realiza la primera com- pra o contratación de servicios. Es esencial que la experiencia de compra sea fluida y satisfactoria en esta etapa, ya que sienta las bases para la relación continua entre el cliente y la marca”:`,
