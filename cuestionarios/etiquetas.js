@@ -61,7 +61,8 @@ async function main() {
     console.log("\n📝 Comentario:");
     console.log(item.comentario || "(sin comentario)");
 
-    console.log(`\n🔖 Etiquetas existentes: ${verde}${[...etiquetasGlobales].join(" ")}${reset}`);
+    // console.log(`\n🔖 Etiquetas existentes: ${verde}${[...etiquetasGlobales].join(" ")}${reset}`);
+    console.log(`\n🔖 Etiquetas existentes: ${verde}${[...etiquetasGlobales].sort().join(" ")}${reset}`);
     const respuesta = await preguntar("\nEscribe las etiquetas que deseas agregar (separadas por espacio): ");
     const nuevas = respuesta.trim().split(/\s+/).filter(Boolean);
 

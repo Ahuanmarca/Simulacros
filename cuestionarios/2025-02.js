@@ -9,7 +9,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) No, el acceso al tren debe realizarse en la estación de origen del viaje que figure en el título de transporte.",
     "comentario": "“El acceso al tren debe realizarse en la estación de origen del viaje que figure en el título de transporte”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "2. En caso de que el cliente no ocupe la plaza a la que tenga derecho en la estación de origen del viaje, ¿puede Renfe Viajeros hacer uso de la plaza disponible?",
@@ -21,7 +24,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Renfe Viajeros podrá hacer uso de la plaza en los servicios de Alta Velocidad- Larga Distancia, Larga Distancia-, Alta Velocidad-Media Distancia y Media Distancia Convencional con asignación de plaza.",
     "comentario": "“En caso de no ser ocupada la plaza a la que se tenga derecho, en función del título adquirido en dicha estación de origen, en los servicios de Alta Velocidad-Larga Distancia, Larga Distancia, Alta Velocidad-Media Distancia y Media Distancia Convencional con asignación de plaza, Renfe Viajeros podrá hacer uso de la plaza disponible, sin que el cliente tenga derecho a reintegro alguno”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "3. En caso de que el cliente no ocupe la plaza a la que tenga derecho en la estación de origen del viaje y el tipo de servicio habilite a Renfe Viajeros a poder hacer uso de la plaza disponible, ¿tiene derecho el cliente a algún tipo de reintegro?",
@@ -33,7 +39,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) No, en aquellos servicios que contemplan que Renfe Viajeros pueda hacer uso de la plaza disponible por no haber sido ocupada por el cliente en la estación de origen no existirá derecho a reintegro alguno.",
     "comentario": "“En caso de no ser ocupada la plaza a la que se tenga derecho, en función del título adquirido en dicha estación de origen, en los servicios de Alta Velocidad-Larga Distancia, Larga Distancia, Alta Velocidad-Media Distancia y Media Distancia Convencional con asignación de plaza, Renfe Viajeros podrá hacer uso de la plaza disponible, sin que el cliente tenga derecho a reintegro alguno”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "4. ¿En qué momentos puede el personal encargado de la supervisión, u otro personal autorizado por Renfe Viajeros, requerir al viajero el documento que acredite su identidad, en relación con el título de transporte?",
@@ -45,7 +54,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Todas las anteriores son correctas.",
     "comentario": "“El personal encargado de la supervisión, u otro personal autorizado por Renfe Viajeros, podrá requerir al viajero el documento que acredite su identidad, en relación con el título de transporte, en el control de acceso, al acceder al tren, durante su recorrido o antes de abandonar la estación de destino”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "5. Un viajero a bordo sin título de transporte que hubiera accedido al tren en una estación sin posibilidad de venta de título de transporte deberá:",
@@ -57,7 +69,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Regularizar su situación ante el personal encargado de la supervisión o intervención en ruta.",
     "comentario": "“El viajero a bordo sin título de transporte que hubiera accedido al tren en una estación sin posibilidad de venta de título de transporte deberá regularizar su situación ante el personal encargado de la supervisión o intervención en ruta, u otro agente que Renfe Viajeros haya autorizado”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "6. ¿Tiene derecho a reintegro el viajero que voluntariamente decide interrumpir el viaje en una estación intermedia?",
@@ -69,7 +84,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) No tendrá derecho a ningún reintegro respecto del trayecto no utilizado, quedando invalidado el título para viajar.",
     "comentario": "“Si el viajero decide voluntariamente interrumpir el viaje en una estación intermedia, no tendrá derecho a ningún reintegro respecto del trayecto no utilizado, quedando invalidado el título para viajar”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "7. Una vez iniciado el viaje, ¿puede realizarse un cambio de plaza dentro del mismo tipo de asiento o clase o a una inferior?",
@@ -81,7 +99,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Sí, previa solicitud al personal encargado de la supervisión o intervención en ruta y siempre que existan plazas disponibles.",
     "comentario": "“Se podrá realizar un cambio de plaza dentro del mismo tipo de asiento o clase o a una inferior, previa solicitud al personal encargado de la supervisión o intervención en ruta y siempre que existan plazas disponibles. Si se realiza el cambio de plaza, a una de inferior tipo de asiento o clase, el cliente no tendrá derecho a reintegro alguno”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "8. En los supuestos de cambio de plaza decididos por el personal encargado de la supervisión o intervención en ruta, como consecuencia de una incidencia relacionada con la prestación del servicio y le sea concedida al viajero una plaza más cara, ¿deberá abonar la diferencia de precio?",
@@ -93,7 +114,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) No, no abonará diferencia de precio alguna por la acomodación en plaza más cara.",
     "comentario": "“Cuando el cambio de plaza fuera decidido por el personal encargado de la supervisión o intervención en ruta, como consecuencia de una incidencia relacionada con la prestación del servicio el viajero no abonará diferencia de precio alguna por la acomodación en plaza más cara\".",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "9. En los supuestos de cambio de plaza decididos por el personal encargado de la supervisión o intervención en ruta, como consecuencia de una incidencia relacionada con la prestación del servicio y le sea concedida al viajero una plaza de menor coste, ¿se le devolverá al cliente la diferencia de precio?",
@@ -105,7 +129,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Sí, se devolverá al cliente la diferencia de precio.",
     "comentario": "“Cuando el cambio de plaza fuera decidido por el personal encargado de la supervisión o intervención en ruta, como consecuencia de una incidencia relacionada con la prestación del servicio el viajero no abonará diferencia de precio alguna por la acomodación en plaza más cara. Si el cambio se realiza a Una plaza de menor coste, se devolverá al cliente la diferencia de precio”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "10. ¿Cuándo puede el cliente solicitar la mejora de tipo de asiento?",
@@ -117,7 +144,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Cuando ostente un título válido, previa solicitud al personal encargado de la supervisión o intervención en ruta, autorizándose siempre que lo permitan las condiciones del tren, las plazas, la opción de precio, o tarifa aplicada en el título de transporte.",
     "comentario": "“El cliente que ostente un título válido podrá solicitar la mejora de tipo de asiento, de tarifa, opción de precio o de clase, previa solicitud al personal encargado de la supervisión o intervención en ruta, autorizándose siempre que lo permitan las condiciones del tren, las plazas, la opción de precio, o tarifa aplicada en el título de transporte”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "11. Si un cliente solicita la mejora de asiento y el personal encargado de la supervisión o intervención en ruta se lo autoriza, ¿deberá abonar alguna cantidad?",
@@ -129,7 +159,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Sí, deberá abonar en el acto, la diferencia de precio, conforme a las condiciones establecidas y las tarifas vigentes para el título de transporte con el que viajaba en el momento de la solicitud.",
     "comentario": "“El cliente que ostente un título válido podrá solicitar la mejora de tipo de asiento, de tarifa, opción de precio o de clase, previa solicitud al personal encargado de la supervisión o intervención en ruta, autorizándose siempre que lo permitan las condiciones   del tren, las plazas, la opción de precio, o tarifa aplicada en el título de transporte. En tal caso, el cliente deberá abonar en el acto, la diferencia de previo, conforme a las  condiciones establecidas y las tarifas vigentes para el título de transporte con el que viajaban en el momento de la solicitud”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "12. ¿Puede el cliente, una vez iniciado el viaje prolongar el recorrido del mismo?",
@@ -141,7 +174,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Sí, en los servicios que lo contemplen, previa comunicación al personal encargado de la supervisión o intervención en ruta, autorizándose siempre que lo permitan las condiciones del tren, la disponibilidad de plazas y la opción de precio o tarifa aplicada en el título de transporte, abonándose en el acto el precio adicional del nuevo trayecto.",
     "comentario": "“En los servicios de Alta Velocidad-Larga Distancia, Larga Distancia, Alta Velocidad- Media Distancia y Media Distancia Convencional, el viajero que desee prolongar el recorrido, lo deberá comunicar previamente al personal encargado de la supervisión o intervención en ruta, autorizándose siempre que lo permitan las condiciones del tren, la disponibilidad de plazas y la opción de precio o tarifa aplicada en el título  de transporte. En tal caso, el cliente deberá abonar en el acto el precio adicional del nuevo trayecto”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "13. En los servicios de Cercanías, ¿puede el cliente provisto de título válido podrá prolongar su viaje dentro y fuera del Núcleo?",
@@ -153,7 +189,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Sí, previa comunicación y regularización de su pago en la estación de origen.",
     "comentario": "“En los servicios de Cercanías, el cliente provisto de título válido podrá prolongar su viaje dentro y fuera del Núcleo, previa comunicación y regularización de su pago en la estación de origen. Únicamente en el caso de que la estación de origen no tenga venta asistida, la regularización del pago se hará en ruta”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "14. Si en el servicio de Cercanías un cliente provisto de título válido decide prolongar su viaje dentro y fuera del Núcleo, ¿dónde debe regularizar su pago?",
@@ -165,7 +204,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) En la estación de origen.",
     "comentario": "“En los servicios de Cercanías, el cliente provisto de título válido podrá prolongar su viaje dentro y fuera del Núcleo, previa comunicación y regularización de su pago en la estación de origen. Únicamente en el caso de que la estación de origen no tenga venta asistida, la regularización del pago se hará en ruta\".",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "15. Si en el servicio de Cercanías un cliente provisto de título válido decide prolongar su viaje dentro y fuera del Núcleo, y la estación de origen no dispone de venta asistida, ¿dónde debe regularizar su pago?",
@@ -177,7 +219,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Regularizará su pago en ruta.",
     "comentario": "“En los servicios de Cercanías, el cliente provisto de título válido podrá prolongar su viaje dentro y fuera del Núcleo, previa comunicación y regularización de su pago en la estación de origen. Únicamente en el caso de que la estación de origen no tenga venta asistida, la regularización del pago se hará en ruta”.\n",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "16. ¿Puede un viajero con Título Multiviaje prolongar su recorrido fuera del Núcleo?",
@@ -189,7 +234,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) No, los Títulos Multiviaje no admiten prolongación del recorrido fuera del Núcleo.",
     "comentario": "“Los Títulos Multiviaje y los emitidos por los Consorcios de Transporte o asimilados no admiten prolongación del recorrido fuera del Núcleo”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "17. En los servicios de Alta Velocidad-Larga Distancia, Larga Distancia y Alta Velocidad-Media Distancia, ¿qué menores de edad deben de disponer de título de transporte válido?",
@@ -201,7 +249,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Todos los menores de edad.",
     "comentario": "“Con independencia de la edad de los menores, todos deben disponer de un título de transporte válido en Alta Velocidad-Larga Distancia, Larga Distancia y Alta Velocidad-Media Distancia. En esto servicios, los menores de 14 años deberán viajar con la compañía de una persona adulta”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "18. ¿Puede un menor de 13 años viajar solo en el servicio de Alta Velocidad-Larga Distancia?",
@@ -213,7 +264,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) No, en el servicio de Alta Velocidad-Larga Distancia los menores de 14 años deben ir acompañados de un adulto.",
     "comentario": "“Con independencia de la edad de los menores, todos deben disponer de un título de transporte válido en Alta Velocidad-Larga Distancia, Larga Distancia y Alta Veloci- dad-Media Distancia. En esto servicios, los menores de 14 años deberán viajar con la compañía de una persona adulta”,",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "19. ¿Quién ostenta la responsabilidad de los menores de 18 años que viajen sin su madre, padre o tutor legal?",
@@ -225,7 +277,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Su madre, padre o tutor legal, con independencia de que no los acompañen en el viaje.",
     "comentario": "“Para todos los servicios, los menores de 18 años que viajen sin su madre, padre o tutor legal lo harán siempre bajo la responsabilidad de estos”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "20. ¿Pueden las personas con discapacidad o movilidad reducida viajar sin ir acompañados de otra persona?",
@@ -237,7 +292,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Sí, salvo que sea estrictamente necesario para garantizar que el viaje se desarrolle en condiciones adecuadas de seguridad, atendiendo a la normativa aplicable.",
     "comentario": "“Las personas con discapacidad o movilidad reducida podrán hacer reservas u obtener títulos de transporte sin necesidad de viajar acompañados de otra persona, a menos que sea estrictamente necesario para garantizar que el viaje se desarrolle en condiciones adecuadas de seguridad, atendiendo a la normativa aplicable”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "21. ¿Cómo se denomina el servicio prestado por el Administrador de Infraestructuras Ferroviarias especializado para facilitarles el transporte en ferrocarril a personas con discapacidad o movilidad reducida?",
@@ -249,7 +307,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) “Servicio de Asistencia”  “Para determinados trenes, servicios y estaciones está disponible el denominado “Servicio de Asistencia”, prestado por el Administrador de Infraestructuras Ferroviarias, que es un servicio especializado para facilitarles el transporte en ferrocarril a personas con discapacidad o movilidad reducida”.",
     "comentario": "",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "22. ¿Cómo se denomina el equipaje, animales de compañía, elementos de movilidad individual y cualquier bulto que el viajero pueda válidamente llevar consigo?",
@@ -261,7 +322,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Servicios complementarios.",
     "comentario": "“Se consideran servicios complementarios el transporte de: equipaje, animales de compañía, elementos de movilidad individual y cualquier bulto que el viajero pueda válidamente llevar consigo”,",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "23. ¿Cuál de los siguientes objetos sí puede llevar el viajero?",
@@ -273,7 +335,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Animales de compañía (mascotas).",
     "comentario": "“Renfe Viajeros ofrece la posibilidad de realizar el viaje con animales de compañía en los trenes, según las condiciones comerciales específicas de cada servicio ferroviario”.\n“El viajero no podrá llevar consigo:\n- Materiales susceptibles de explosión o inflamación.\n-  Bultos que por su naturaleza, tamaño, tipología, volumen, olor o contenido puedan:\nSer considerados como peligrosos.\nDañar, molestar o manchar a los demás viajeros y a sus equipajes.\nDañar el material ferroviario, obstaculizar la explotación ferroviaria o poner en peligro la seguridad del transporte”.\n",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "24. En los casos en que Rede Viajeros decida limitar o excluir el transporte de mascotas, ¿cuándo debe informar al cliente de esta circunstancia?",
@@ -285,7 +350,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Antes de la compra del viaje.",
     "comentario": "“Renfe Viajeros ofrece la posibilidad de realizar el viaje con animales de compañía en los trenes, según las condiciones comerciales específicas de cada servicio ferroviario.\nEn algunos casos, Renfe Viajeros podrá limitar o excluir el transporte de mascotas, informando al cliente antes de la compra de esta circunstancia”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "25. En el transporte con animales de compañía (mascotas), ¿quién es el responsable de la mascota cumpla las condiciones higiénico-sanitarias y de seguridad?",
@@ -297,7 +365,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) La persona que viaje con la mascota.",
     "comentario": "“La persona que viaje con la mascota será responsable de que esta cumpla las condiciones higiénico-sanitarias y de seguridad, y disponer durante el viaje de la documentación preceptiva, conforme a la legislación vigente”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "26. ¿Cómo es considerado todo bulto de mano que contenga prendas y objetos de uso personal o profesional que el cliente lleve consigo, cuya naturaleza no contravenga las disposiciones de seguridad establecidas en la legislación vigente, y no suponga peligro para la seguridad del transporte, ni obstaculice la explotación ferroviaria, ni represente peligro o molestia para otros viajeros?",
@@ -309,7 +380,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Equipaje admisible.",
     "comentario": "“Se considerará equipaje admisible todo bulto de mano que contenga prendas y objetos de uso personal o profesional que el cliente lleve consigo, cuya naturaleza no contravenga las disposiciones de seguridad establecidas en la legislación vigente, y no suponga peligro para la seguridad del transporte, ni obstaculice la explotación ferroviaria, ni represente peligro o molestia para otros viajeros”,",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "27. ¿Cuál de los siguientes puede llevar consigo el viajero?",
@@ -321,7 +393,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Mascotas, según las condiciones comerciales específicas de cada servicio ferroviario.",
     "comentario": "“El viajero no podrá llevar consigo:\n- Materiales susceptibles de explosión o inflamación.\n-  Bultos que por su naturaleza, tamaño, tipología, volumen, olor o contenido puedan:\n*  Serconsiderados como peligrosos.\nDañar, molestar o manchar a los demás viajeros y a sus equipajes.\nDañar el material ferroviario, obstaculizar la explotación ferroviaria o poner en peligro la seguridad del transporte”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "28. ¿Quién responderá por la pérdida, deterioro o daños a los equipajes?",
@@ -333,7 +408,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Renfe Viajeros, en los supuestos y en los términos previstos en el Título IX “Responsabilidad de Renfe Viajeros” de las presentes Condiciones Generales.",
     "comentario": "“Renfe Viajeros responderá por la pérdida, deterioro o daños a los equipajes en los supuestos y en los términos previstos en el Título IX“Responsabilidad de Renfe Viajeros” de las presentes Condiciones Generales”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "29. ¿Cómo se considera el equipaje que por sus dimensiones o características no cumpla los requisitos para ser considerado equipaje de mano?",
@@ -345,7 +423,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Equipaje especial.",
     "comentario": "“El equipaje que por sus dimensiones o características no cumpla los requisitos para ser considerado equipaje de mano se considerará “equipaje especial”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "30. ¿Cómo es definido el acoso por razón de sexo?",
@@ -357,7 +436,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Cualquier comportamiento realizado en función del sexo de una persona, desarrollado en el ámbito de organización y dirección de la Empresa por quien pertenece a la misma, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.",
     "comentario": "“4. Definiciones de las conductas prohibidas  Acoso por razón de sexo: Cualquier comportamiento realizado en función del sexo de una persona, desarrollado en el ámbito de organización y dirección de la Empresa por quien pertenece a la misma, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "31. ¿A cuál de los siguientes términos pertenece la siguiente definición? “Cualquier comportamiento, verbal o físico, de naturaleza sexual, desarrollado en el ámbito de organización y dirección de la Empresa por quien pertenece a la misma, que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo”.",
@@ -369,7 +449,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Acoso sexual.",
     "comentario": "“4 Acoso sexual: Cualquier comportamiento, verbal o físico, de naturaleza sexual, desarrollado en el ámbito de organización y dirección de la Empresa por quien pertenece a la misma, que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "32. En función de los sujetos que intervienen en el acoso moral o psicológico (mobbing), ¿cuándo será calificada como “descendente”?",
@@ -381,7 +462,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Cuando el acosador/a es una persona que ocupa un cargo superior a la víctima.",
     "comentario": "“4. Definiciones de las conductas prohibidas  En función de los sujetos que intervienen, estas conductas pueden ser calificadas como:\nDescendente: Si el acosador/a es una persona que ocupa un cargo superior al de la víctima.\nHorizontal: Cuando se produce entre compañeros del mismo nivel jerárquico. Ascendente: Cuando el acosador/a es una persona que ocupa un puesto de inferior nivel jerárquico al de la víctima”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "33. En función de los sujetos que intervienen en el acoso moral o psicológico (mobbing), ¿cuándo será calificada como “horizontal”?",
@@ -393,7 +475,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Cuando el acosadores una persona que ocupa un puesto de inferior nivel jerárquico que la víctima.",
     "comentario": "“4. Definiciones de las conductas prohibidas  En función de los sujetos que intervienen, estas conductas pueden ser calificadas como:\nDescendente: Si el acosador/a es una persona que ocupa un cargo superior al de la víctima.\nHorizontal: Cuando se produce entre compañeros del mismo nivel jerárquico. Ascen-  dente: Cuando el acosador/a es una persona que ocupa un puesto de inferior nivel jerárquico al de la víctima”,",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "34. ¿Cuál de las siguientes conductas no es un ejemplo de acoso sexual?",
@@ -405,7 +488,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Actuaciones reiteradas dirigidas a desacreditar profesionalmente a la persona.",
     "comentario": "“4, Definiciones de las conductas prohibidas Ejemplos de conducta de acoso sexual:\n- Observaciones sugerentes, bromas o comentarios sobre la apariencia o condición sexual del trabajador/a.\n-  Elenvío reiterado de gráficos, viñetas, dibujos, fotografías o imágenes de contenido sexualmente explícito.\nLlamadas telefónicas, cartas, mensajes sms o mensajes de correo electrónico de carácter ofensivo y de contenido explícitamente sexual, siempre que sea de modo no consentido por quien lo recibe.\n- El contacto físico deliberado no deseado ni solicitado, o un acercamiento físico excesivo o innecesario.\n-— Cualquier tipo de chantaje sexual.\n- Cualquier otro comportamiento que tenga como causa o como objetivo la discriminación, el abuso, la vejación o la humillación del trabajador/a por razón de su condición sexual.\nEjemplos de conducta de acoso moral o psicológico (mobbing), cuando se produzcan reiteradamente:\n- Conductas dirigidas a menospreciar a la persona.\n- Actuaciones dirigidas a desacreditar profesionalmente a la persona.\n- Comportamientos tendentes a causar un daño físico o psicológico a la persona”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": [
+      "listas"
+    ]
   },
   {
     "pregunta": "35. ¿Cuál de los siguientes elementos no es preceptivo que incluya la denuncia formulada por una persona que cree que está siendo víctima de acoso?",
@@ -417,7 +503,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Firma de abogado.",
     "comentario": "“6.2.1 Fase preliminar  La persona de la Empresa que cree que está siendo víctima de acoso deberá remitir al Responsable de la Jefatura de Recursos Humanos una denuncia en materia de acoso   mediante declaración escrita, que deberá incluir los siguientes detalles: el nombre del denunciante y la manera de comunicarse con él/ella, la naturaleza de la reclamación en materia de acoso que se somete; si el denunciante no le importa mantener una reunión con el/la denunciado/a, así como cualquier otro detalle que el/la denunciante desee facilitar”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "36. ¿En qué formato debe formular la denuncia la persona de la Empresa que cree que está siendo víctima de acoso?",
@@ -429,7 +518,10 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Mediante declaración escrita.",
     "comentario": "\"6.2.1 Fase preliminar  La persona de la Empresa que cree que está siendo víctima de acoso deberá remitir al Responsable de la Jefatura de Recursos Humanos una denuncia en materia de acoso mediante declaración escrita, que deberá incluir los siguientes detalles: el nombre del denunciante y la manera de comunicarse con él/ella, la naturaleza de la reclamación en materia de acoso que se somete; si el denunciante no le importa mantener una reunión con el/la denunciado/a, así como cualquier otro detalle que el/la denunciante desee facilitar”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "37. La denuncia de la persona de la Empresa que cree que está siendo víctima de acoso, ¿a quién debe remitirse?",
@@ -441,7 +533,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Al responsable de la Jefatura de Recursos Humanos.",
     "comentario": "“6.2.1 Fase preliminar  La persona de la Empresa que cree que está siendo víctima de acoso deberá remitir al Responsable de la Jefatura de Recursos Humanos una denuncia en materia de acoso mediante declaración escrita, que deberá incluir los siguientes detalles: el nombre del denunciante y la manera de comunicarse con él/ella, la naturaleza de la reclamación en materia de acoso que se somete; si el denunciante no le importa mantener una reunión con el/la denunciado/a, así como cualquier otro detalle que el/la denunciante desee facilitar”",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "38. Recibida una denuncia de una persona de la Empresa que cree que está siendo víctima de acoso por el responsable de la Jefatura de Recursos Humanos, este debe proceder a convocar una reunión. ¿Cuál de las siguientes personas no se encuentra entre las que deben asistir a dicha reunión?",
@@ -453,7 +546,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) El Director General de la empresa.",
     "comentario": "“6.2.1 Fase preliminar  A estos efectos, se convocará una reunión informal en el plazo máximo de cinco días hábiles desde que el trabajador/a afectado lo hubiera puesto en conocimiento del responsable de la Jefatura de Recursos Humanos a la que asistirán: el Responsable de la Jefatura de Recursos Humanos, el trabajador/a afectado por la conducta de acoso, y el trabajador/a que presuntamente está realizando este comportamiento no deseado. En esta reunión, estas dos personas podrán estar o no en la misma sala de reuniones, previa petición de uno de ellos”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "39. ¿Qué principio de Cultura de Seguridad del Grupo Renfe se fundamenta en la creencia de que la seguridad es un valor irrenunciable y prevalente, consustancial a toda actividad, que conlleva un comportamiento asociado basado en que las personas demuestran que la seguridad no puede supeditarse a ningún otro objetivo?",
@@ -465,7 +559,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Seguridad como valor esencial.",
     "comentario": "“Nuestros principios:\nP1. Seguridad como valor esencial.\nEn el Grupo Renfe valoramos la seguridad por encima de cualquier otro objetivo:\n-  Creencia: que la seguridad es un valor irrenunciable y prevalente, consustancial a toda actividad.\n- Comportamiento asociado: las personas demuestran que la seguridad no puede supeditarse a ningún otro objetivo”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "40. ¿Qué principio de Cultura de Seguridad del Grupo Renfe se fundamenta en la creencia de que la forma de liderazgo influye, para bien o para mal, en el comportamiento de los grupos, lo que conlleva un comportamiento asociado basado en que las personas demuestran en su quehacer diario su compromiso con la seguridad?",
@@ -477,7 +572,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Compromiso y liderazgo.",
     "comentario": "“Nuestros principios: (...) P2. Compromiso y liderazgo.\nCreemos que el liderazgo en la gestión de los riesgos de la operación evidencia nuestro compromiso con la seguridad:\n-  Creencia: la forma de liderazgo influye, para bien o para mal, en el comportamiento de los grupos.\n- Comportamiento asociado: las personas demuestran en su quehacer diario su compromiso con la seguridad”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "41. ¿Qué principio de Cultura de Seguridad del Grupo Renfe se fundamenta en la creencia de que la seguridad es una responsabilidad individual, lo que conlleva un comportamiento asociado basado en que las personas son proactivas en la gestión de la seguridad?",
@@ -489,7 +585,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Responsabilidad personal.",
     "comentario": "“Nuestros principios: (...) P3. Responsabilidad personal.\nActuamos bajo la premisa de la responsabilidad individual en la práctica profesional, como reflejo de nuestro compromiso personal para mejorar la gestión de la seguridad:\n-  Creencia: la seguridad es una responsabilidad individual.\n- Comportamiento asociado: las personas son proactivas en la gestión de la seguridad”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "42. ¿Qué principio de Cultura de Seguridad del Grupo Renfe se fundamenta en la creencia de que el respeto y la cooperación, en un clima de confianza mutua, fomenta la seguridad operacional?",
@@ -501,7 +598,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Apertura y confianza.",
     "comentario": "“Nuestros principios: (...) P4. Apertura y confianza.\nCreemos que el respeto y la cooperación, en un clima de confianza mutua, fomenta la seguridad operacional”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "43. ¿Qué principio de Cultura de Seguridad del Grupo Renfe se fundamenta en la creencia de que la seguridad se puede y se debe medir, lo que conlleva, como comportamiento asociado, que la organización utilice indicadores para valorar el nivel de riesgo?",
@@ -513,7 +611,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Vigilancia de la seguridad.",
     "comentario": "“Nuestros principios: (...) P5. Vigilancia de la seguridad.\nLa gestión de riesgos establece sistemas efectivos y continuos de control y vigilancia de la operación para comprobar que esta se realiza de manera segura:\n-  Creencia: la seguridad se puede y se debe medir.\n- Comportamiento asociado: la organización utiliza indicadores para valorar el nivel de riesgo”,",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "44. ¿Qué principio de Cultura de Seguridad del Grupo Renfe se fundamenta en la creencia de que la experiencia adquirida permite mejorar el nivel de seguridad, por lo que la organización cambia en función de la evolución de los indicadores de seguridad y de las amenazas detectadas?",
@@ -525,7 +624,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Aprendizaje y mejora continua.",
     "comentario": "“Nuestros principios: (...)  P6. Aprendizaje y mejora continua.\nAprendemos de nuestros resultados y convertimos las lecciones aprendidas en palancas para la mejora de la seguridad:\n-  Creencia: la experiencia adquirida permite mejorar el nivel de seguridad.\n- Comportamiento asociado: la organización cambia en función de los indicadores de seguridad y de las amenazas detectadas”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "45. ¿Cuál de los siguientes no es uno de los factores clave del modelo de cultura de seguridad del Grupo Renfe?",
@@ -537,7 +637,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Movilidad geográfica.",
     "comentario": "“F1. Compromiso con los gestores y gestoras (...).\nF2. Colaboración y participación (...).\nF3. Cultura justa y notificación (...).\nF4. Comunicación y aprendizaje (...)  F5. Gestión de riesgos (...)  F6. Compromiso entre compañeros y compañeras (...) F7. Personal y equipamiento (...)  F8. Procedimiento y formación (...)”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "46. ¿Cómo se denomina la era caracterizada por una atención sin precedentes a las demandas y expectativas de los consumidores, que destaca por la importancia de la experiencia del cliente y la creación de relaciones duraderas?",
@@ -549,7 +650,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Era del cliente.",
     "comentario": "“A medida que avanzamos hacia el nuevo milenio, emergió la era del cliente, caracterizada por una atención sin precedentes a las demandas y expectativas de los consumidores, ejemplificada por empresas líderes como Macy's, Salesforce y Amazon, que priorizaron la satisfacción del cliente como principio rector de sus operaciones.\nEsta época se destacó por la importancia de la experiencia del cliente y la creación de relaciones duraderas, donde las empresas se esforzaron por comprender y anticipar las necesidades de sus clientes, ofreciendo un servicio excepcional y construyendo una reputación sólida basada en la confianza y la lealtad”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "47. ¿Cómo se denomina la era donde la diferenciación se encuentra en la capacidad de una marca para crear conexiones emocionales profundas con sus clientes, y donde la calidad del servicio y la Experiencia de Cliente son los pilares fundamentales que impulsan el éxito empresarial?",
@@ -561,7 +663,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Era de las experiencias.",
     "comentario": "“Hoy en día, estamos inmersos en la era de las experiencias, donde la diferenciación se encuentra en la capacidad de una marca para crear conexiones emocionales profundas con sus clientes, y donde la calidad del servicio y la Experiencia de Cliente son los pilares fundamentales que impulsan el éxito empresarial. En un panorama saturado de opciones, los consumidores buscan algo más que simplemente un producto o servicio; buscan experiencias que les emocionen y conecten a un nivel personal, estableciendo así un nuevo estándar para la excelencia empresarial”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "48. ¿Cómo se denominan las entidades abstractas y construcciones sociales que se forman a través de las interacciones y percepciones de los clientes?",
@@ -573,7 +676,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Marcas.",
     "comentario": "“Las marcas no son simplemente entidades abstractas; son construcciones sociales que se forman a través de las interacciones y percepciones de los clientes”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "49. ¿Cómo se denominan las interacciones que el cliente tiene con la empresa, desde la primera impresión hasta el servicio posventa y más allá?",
@@ -585,7 +689,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Interacción con la empresa a lo largo de todo el ciclo de vida del cliente.",
     "comentario": "“Otro elemento clave en la experiencia del cliente es la interacción con la empresa a lo largo de todo el ciclo de vida del cliente. Esto incluye todas las interacciones que el cliente tiene con la empresa, desde la primera impresión hasta el servicio postventa y más allá”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "50. ¿Cómo se denomina el concepto central en la gestión de relaciones con los clientes que abarca desde el primer contacto con la marca hasta la lealtad continua?",
@@ -597,7 +702,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Ciclo de vida del cliente.",
     "comentario": "“El ciclo de vida del cliente es un concepto central en la gestión de relaciones con los clientes que abarca desde el primer contacto con la marca hasta la lealtad continua”:",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "51. Antes de que un cliente potencial se convierta en un cliente adquirido, existe una fase crucial; ¿en qué consiste?",
@@ -609,7 +715,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Atracción y captación.",
     "comentario": "“El ciclo de vida del cliente es un concepto central en la gestión de relaciones con los clientes que abarca desde el primer contacto con la marca hasta la lealtad continua.\nAntes de que un cliente potencial se convierta en un cliente adquirido, existe una fase crucial de atracción y captación”.\n",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "52. Una vez que un cliente potencial muestra interés en la marca o producto, comienza una fase en la que es esencial que la experiencia de compra sea fluida y satisfactoria, ¿cómo se denomina esa fase?",
@@ -621,7 +728,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Fase de adquisición.",
     "comentario": "“Una vez que un cliente potencial muestra interés en la marca o producto, comienza la fase de adquisición. Este es el momento en el que el cliente realiza la primera compra o contratación de servicios. Es esencial que la experiencia de compra sea fluida y satisfactoria en esta etapa, ya que sienta las bases para la relación continua entre el cliente y la marca”:",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "53. Tras la fase de adquisición, comienza una fase de retención y compromiso. ¿Qué busca la marca en esta fase?",
@@ -633,7 +741,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Todas las anteriores son correctas.",
     "comentario": "“Después de la adquisición, comienza la fase de retención y compromiso. En este punto, la marca busca mantener la relación con el cliente, proporcionando un excelente servicio postventa, comunicación regular y ofreciendo incentivos para compras repetidas”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "54. ¿Cuál de las siguientes opciones no encontrarías dentro de las estrategias de retención?",
@@ -645,7 +754,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) Anuncios en televisión en prime time.",
     "comentario": "“Después de la adquisición, comienza la fase de retención y compromiso. En este punto, la marca busca mantener la relación con el cliente, proporcionando un excelente servicio postventa, comunicación regular y ofreciendo incentivos para compras repetidas. Las estrategias de retención pueden incluir el envío de correos electrónicos personalizados, la oferta de descuentos exclusivos para clientes frecuentes o la participación en programas de recompensas”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "55. ¿Qué fase es fundamental para recopilar retroalimentación del cliente y utilizarla para mejorar continuamente la experiencia el cliente y fortalecer la relación?",
@@ -657,7 +767,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) La fase de retención y compromiso.",
     "comentario": "“Después de la adquisición, comienza la fase de retención y compromiso. En este punto, la marca busca mantener la relación con el cliente, proporcionando un excelente servicio postventa, comunicación regular y ofreciendo incentivos para compras        repetidas. Las estrategias de retención pueden incluir el envío de correos electrónicos personalizados, la oferta de descuentos exclusivos para clientes frecuentes o la participación en programas de recompensas. El objetivo es mantener al cliente comprometido y satisfecho, lo que aumenta la probabilidad de que permanezca leal a la marca a largo plazo. Además, esta etapa es fundamental para recopilar retroalimentación del cliente y utilizarla para mejorar continuamente la experiencia del cliente y fortalecer la relación”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "56. ¿Cómo se denomina la fase que es el objetivo final del ciclo de vida del cliente, en que la relación entre el cliente y la marca se ha fortalecido y el cliente repite sus compras de manera habitual?",
@@ -669,7 +780,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Fase de fidelización.",
     "comentario": "“Finalmente, llegamos a la fase de fidelización, que es el objetivo final del ciclo de vida del cliente. En esta etapa, la relación entre el cliente y la marca se ha fortalecido considerablemente, y el cliente elige repetir sus compras de manera habitual y recomendar la marca a otros”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "57. Dentro de los factores que incluyen en la experiencia del cliente, ¿con qué término hacemos referencia a comprender las preocupaciones, necesidades y emociones del cliente, poniéndonos en su lugar, y generando una conexión más profunda y significativa?",
@@ -681,7 +793,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Empatía.",
     "comentario": "“Entre estos aspectos, la empatía es pilar crucial en la relación con el cliente. Ponerse en el lugar del cliente y comprender sus preocupaciones, necesidades y emociones puede generar una conexión más profunda y significativa. La empatía crea un ambiente de confianza y cuidado mutuo, lo cual es esencial para una relación sólida y duradera con el cliente”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "58. Dentro de los factores que incluyen en la experiencia del cliente, ¿con qué término hacemos referencia a tratar al cliente como único, con sus necesidades y preferencias individuales, adaptando el servicio a estas necesidades específicas?",
@@ -693,7 +806,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Personalización.",
     "comentario": "“La personalización emerge como uno de los más relevantes. Cada cliente es único, con necesidades y preferencias individuales. Por lo tanto, adaptar tu enfoque y servicio a estas necesidades específicas puede marcar una gran diferencia en la percepción del cliente”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "59. Dentro de los factores que incluyen en la experiencia del cliente, ¿con qué término hacemos referencia a mantener una comunicación clara, transparente y proactiva, evitando malentendidos y construyendo una relación de confianza, proporcionando información relevante y actualizada sobre productos, servicios y políticas?",
@@ -705,7 +819,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Comunicación efectiva.",
     "comentario": "“La comunicación efectiva es una herramienta que debe estar presente en cualquier interacción con el cliente. Mantener una comunicación clara, transparente y proactiva puede evitar malentendidos y construir una relación de confianza. Proporcionar información relevante y actualizada sobre productos, servicios y políticas, así como comunicar cualquier cambio o problema de manera oportuna y profesional, demuestra al cliente que valoras su tiempo y su negocio. Además, la comunicación efectiva también implica escuchar activamente las preocupaciones y comentarios del cliente, asegurándote de abordarlas de manera adecuada y oportuna”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "60. Dentro de los factores que incluyen en la experiencia del cliente, ¿con qué término hacemos referencia a escuchar las preocupaciones del cliente con atención, mostrar disposición para encontrar soluciones creativas y trabajar en colaboración para resolver el problema de manera satisfactoria pueden convertir una experiencia negativa en una oportunidad para fortalecer la relación?",
@@ -717,7 +832,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Capacidad para resolver problemas.",
     "comentario": "“La capacidad para resolver problemas o desafíos cuando surgen de manera rápida y efectiva es primordial. Escuchar las preocupaciones del cliente con atención, mostrar disposición para encontrar soluciones creativas y trabajar en colaboración para resolver el problema de manera satisfactoria pueden convertir una experiencia negativa   en una oportunidad para fortalecer la relación. La resolución exitosa de problemas no solo demuestra el compromiso con la satisfacción del cliente, sino que también puede generar un mayor nivel de confianza y lealtad hacia la marca”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "61. ¿Cuándo es posible el acceso a los trenes con bicicletas?",
@@ -729,7 +845,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "d) Todas las anteriores son correctas.",
     "comentario": "“Solo estará permitido el acceso a los trenes con bicicletas y otros elementos de movilidad individual, en su caso, previo pago, cuando así se establezca expresamente para determinados servicios o trenes, en los términos indicados en las condiciones comerciales específicas, y siempre que sean fácilmente manejables, no afecten de manera adversa al servicio ferroviario, y se cumplan los requisitos establecidos en las citadas condiciones”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "62. Recibida una denuncia de una persona de la Empresa que cree que está siendo víctima de acoso por el Responsable de la Jefatura de Recursos Humanos, este debe proceder a convocar una reunión informal, ¿en qué plazo?",
@@ -741,7 +858,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "b) En el plazo máximo de cinco días hábiles desde que el trabajador/a afectado lo hubiera puesto en su conocimiento.",
     "comentario": "“6.2.1 Fase preliminar  A estos efectos, se convocará una reunión informal en el plazo máximo de cinco días hábiles desde que el trabajador/a afectado lo hubiera puesto en conocimiento del Responsable de la Jefatura de Recursos Humanos a la que asistirán: el responsable de la Jefatura de Recursos Humanos, el trabajador/a afectado por la conducta de acoso, y el trabajador/a que presuntamente está realizando este comportamiento no deseado. En esta reunión, estas dos personas podrán estar o no en la misma sala de reuniones, previa petición de uno de ellos”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "63. ¿Cuál de los siguientes no es uno de los factores clave del modelo de cultura de seguridad del Grupo Renfe?",
@@ -753,7 +871,8 @@ const preguntas_2025_02 = [
     ],
     "correcta": "c) Unidad de mando.",
     "comentario": "“F1. Compromiso con los gestores y gestoras (...).\nF2. Colaboración y participación (...).\nF3. Cultura justa y notificación (...).\nF4. Comunicación y aprendizaje (...)  F5. Gestión de riesgos (...)  F6. Compromiso entre compañeros y compañeras (...) F7. Personal y equipamiento (...)  F8. Procedimiento y formación (...)”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "64. Cuando hablamos de gestionar y diseñar la experiencia de cliente, ¿cómo se denomina la herramienta o metodología encaminada a la búsqueda de muestras representativas y estadísticas, como encuestas numéricas?",
@@ -765,6 +884,7 @@ const preguntas_2025_02 = [
     ],
     "correcta": "a) Investigación cuantitativa.",
     "comentario": "“Cuando hablamos de gestionar y diseñar la experiencia de cliente, lo primero que debemos tener claro es qué herramientas y metodologías son más útiles para recoger,   medir, analizar y accionar el feedback (opiniones, sensaciones y percepciones) de los clientes. Esta metodología abarca diversas herramientas para las que se pueden utilizar diversas técnicas de investigación, tanto a nivel cuantitativo como cualitativo.\nPor un lado, la investigación cuantitativa busca muestras representativas y usa estadísticas. Algunas de las técnicas más usadas son las encuestas numéricas o el análisis de datos estadísticos de otros canales”,",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   }
 ];

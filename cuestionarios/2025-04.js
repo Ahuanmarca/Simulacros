@@ -9,7 +9,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) A una indemnización equivalente al 100 por ciento del precio del título de transporte utilizado.",
     "comentario": "“Excepto por las causas previstas por la legislación vigente, en caso de retraso en la llegada a destino por tiempo igual o superior a 60 minutos, el cliente tendrá derecho a una indemnización equivalente al 50 por ciento del precio del título de transporte utilizado. Cuando el retraso supere los 90 minutos, la indemnización será equivalente  al total de dicho precio”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "2. Renfe Viajeros garantiza el enlace entre sus trenes con excepción de:",
@@ -21,7 +22,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Los servicios de Cercanías.",
     "comentario": "“Renfe Viajeros garantiza el enlace entre sus trenes en las condiciones indicadas a continuación, con excepción de lo establecido para los trenes de Cercanías y aquellos otros servicios o productos cuando así lo indiquen sus condiciones específicas. (....)  En los Servicios de Cercanías no se garantiza el enlace en ningún caso”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "3. ¿Cuál es la fecha de entrada en vigor de la versión vigente de las Condiciones Generales de Renfe Viajeros?",
@@ -33,7 +37,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) 12 de diciembre de 2023.",
     "comentario": "“La presente versión de Condiciones Generales entrará en vigor el 12 de diciembre de 2023”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "fechas"
+    ]
   },
   {
     "pregunta": "4. ¿Cuál de las siguientes afirmaciones sobre las clases y gama tarifaria de AVLO es correcta?",
@@ -45,7 +52,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) El producto AVLO se comercializa en clase Básica, plazas sentadas y con asignación de plaza.",
     "comentario": "“El producto AVLO se comercializa en clase Básica, plazas sentadas y con asignación de plaza”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "avlo"
+    ]
   },
   {
     "pregunta": "5. ¿Cuál de las siguientes afirmaciones acerca del billete de AVLO es correcta?",
@@ -57,7 +67,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) El billete de AVLO es nominativo, imprimiéndose en el billete el nombre del viajero.",
     "comentario": "“Todos los billetes son nominativos, imprimiéndose en el billete el nombre del viaje-  ro, por lo que es obligatorio introducir los datos personales solicitados en el momento de la compra”. :",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "avlo"
+    ]
   },
   {
     "pregunta": "6. ¿Cuál de los siguientes animales no está permitido en el servicio de AVLO?",
@@ -69,7 +82,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Serpientes.",
     "comentario": "“Se admite un animal de compañía por viajero, siendo las mascotas admitidas: perros, gatos, hurones, aves no de corral, cobayas, hámsteres y conejos”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "avlo"
+    ]
   },
   {
     "pregunta": "7. ¿Qué peso máximo no debe exceder la mascota que porte el viajero en el servicio de AVLO?",
@@ -81,7 +97,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) No debe exceder de 10 kg.",
     "comentario": "“El peso máximo no debe exceder de 10 kg y el viaje lo deben efectuar obligatoriamente y durante todo el trayecto dentro de una jaula, transportín u otro tipo de contenedor cerrado, sin ocupar una plaza de asiento, a los pies o encima del viajero”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "avlo"
+    ]
   },
   {
     "pregunta": "8. El servicio CombinadoCercanías permite la utilización gratuita de los servicios de Cercanías, tanto en origen como en destino, en combinación con:",
@@ -93,7 +112,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Todas las anteriores son correctas.",
     "comentario": "“CombinadoCercanías permite, con la compra de un billete AVE, Alvia, Euromed o Intercity, la utilización gratuita de los servicios de Cercanías, tanto en origen como en destino, mediante: (...)”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "9. En el servicio CombinadoCercanías, ¿durante qué periodo de tiempo, previo a la hora de salida de origen y siguiente a la hora de llegada a destino del tren AVE, Alvia, Euromed o Intercity, puede utilizarse el billete de Cercanías?",
@@ -105,7 +125,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Durante las 4 horas previas a la hora de salida de origen y durante las 4 horas siguientes a la hora de llegada a destino del tren AVE, Alvia, Euromed o Intercity.",
     "comentario": "“Los servicios de Cercanías, con emisión de billete o a través de la lectura del código impreso en el billete, podrán utilizarse durante las 4 horas previas a la hora de salida de origen y durante las cuatro horas siguientes a la hora de llegada a destino del tren AVE, Alvia, Euromed o Intercity”:",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "10. ¿Cuál es la actual denominación de los Puntos Renfe desde el 26 de junio de 2024?",
@@ -117,7 +138,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Renfecitos.",
     "comentario": "“A partir del 26 de junio de 2024 se cambia la denominación de los Puntos Renfe a “Renfecitos”, manteniendo su valor 1 Punto Renfe = 1 Renfecito. Esta sustitución se irá efectuando de forma paulatina, por lo que habrá soportes en los que por algún tiempo seguirán mostrándose las antiguas denominaciones”.\n",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": [
+      "ez"
+    ]
   },
   {
     "pregunta": "11. ¿Cuál de las siguientes opciones no pertenece a uno de los niveles de la tarjeta Más Renfe?",
@@ -129,7 +153,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Tarjeta Más Renfe Diamante.",
     "comentario": "“Niveles de la Tarjeta Más Renfe:\n- Tarjeta Más Renfe Clásica.\n- Tarjeta Más Renfe Plata.\n- Tarjeta Más Renfe Oro.\n- Tarjeta Más Renfe Platino”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "12. ¿Qué consumo por parte del titular se requiere en un periodo de 12 meses consecutivos para ser beneficiario de la Tarjeta Más Renfe Plata?",
@@ -141,7 +166,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Entre 1.000 y 3.000.-€.",
     "comentario": "“Tarjeta Más Renfe Plata  El Titular que realice un consumo entre 1.000 y 3.000 € en un periodo máximo de 12 meses consecutivos en viajes bonificables, pasará a ser Titular de la Tarjeta Más Renfe Plata, que recibirá automáticamente en su domicilio en formato físico (plástico), estando también disponible en formato PDF/PassBook a través de la página web de Renfe, apartado específico del Programa de Fidelización”",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "13. ¿En qué periodo de tiempo debe el titular consumir más de 3.000.-€ para ser beneficiario de la Tarjeta Más Renfe Oro?",
@@ -153,7 +179,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) En un periodo máximo de 12 meses.",
     "comentario": "“Tarjeta Más Renfe Oro  El Titular que realice un consumo de más de 3.000 € en un periodo máximo de 12 meses consecutivos en viajes bonificables, pasará a ser Titular de la Tarjeta Más Renfe Oro, que recibirá automáticamente en su domicilio en formato físico (plástico), estando también disponible en formato PDF/PassBook a través de la página web www.\nrenfe.com, apartado específico del Programa de Fidelización”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "14. ¿Pueden los clientes de Cercanías acceder a las Salas Club?",
@@ -165,7 +192,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) No, únicamente está permitido el acceso a las Salas Club a los clientes de Servicios AVE, Alvia, Euromed, Intercity, AVLO, Avant, Media Distancia Convencional y Trenes Turísticos de Lujo.",
     "comentario": "“Ámbito de aplicación:\nServicios AVE, Alvia, Euromed, Intercity, AVLO, Avant, Media Distancia Convencional y Trenes Turísticos de Lujo, en las estaciones señaladas en el Anexo”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "15. El servicio “Viaje de menores sin acompañante”, de carácter voluntario, permite que un cliente en realice el viaje solo cuando su edad esté comprendida:",
@@ -177,7 +205,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Entre 6 y 13 años, ambos inclusive.",
     "comentario": "“Descripción:\nEn determinados servicios AVE y Larga Distancia, Renfe ofrece el servicio de “Viaje de menores sin acompañante”, de carácter voluntario, con la posibilidad de que un  cliente de edad comprendida entre los 6 y los 13 años (ambos inclusive) realice el viaje solo”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "16. ¿Quiénes pueden adquirir la Tarjeta Más Renfe Joven?",
@@ -189,7 +218,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Aquellas personas que tengan entre los 14 y 25 años en la fecha de la compra o renovación de la misma.",
     "comentario": "“Pueden adquirir la Tarjeta Más Renfe Joven aquellas personas que tengan entre los 14 y 25 años en la fecha de la compra o renovación de la misma, pudiendo disfrutar  durante un año de sus ventajas, aunque se cumplan 26 años durante el periodo de validez de la tarjeta”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "17. ¿En cuál de los siguientes servicios nacionales de Renfe Viajeros puede utilizarse la Tarjeta Más Renfe Joven?",
@@ -201,7 +231,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Todas las anteriores son correctas.",
     "comentario": "“Se puede utilizar en todos los servicios nacionales de Renfe Viajeros excepto: Media Distancia Convencional (ancho métrico), Cercanías (ancho métrico), AVLO y trenes turísticos. También aplicable en AVE Internacional España-Francia”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "18. ¿Qué opciones tiene el viajero si se cancela su viaje antes de las 48 horas de la hora prevista?",
@@ -213,7 +244,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) El viajero tiene derecho al reintegro del precio pagado por el billete o al cambio sin gastos del título de transporte para otro tren u otra fecha.",
     "comentario": "“Opciones del cliente en caso de cancelación del viaje  Si la cancelación se produce antes de las 48 horas, el viajero tiene derecho al reinte-  gro del precio pagado por el billete o al cambio sin gastos del título de transporte para otro tren u otra fecha”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "19. ¿Qué opciones tiene el viajero si se cancela su viaje dentro de las 48 horas de la hora prevista?",
@@ -225,7 +257,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) El viajero tiene derecho a que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas.",
     "comentario": "“Si la cancelación se produce en las 48 horas previas a la hora de salida que figura en el billete, el viajero tiene derecho a que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "20. Si como consecuencia de la cancelación se prevé un retraso mínimo de una hora en la llegada a destino, Renfe:",
@@ -237,7 +270,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Ofrecerá gratuitamente comidas y refrigerios, en una medida adecuada al tiempo de espera.",
     "comentario": "“Asistencia en caso de cancelación del viaje  Si como consecuencia de la cancelación se prevé un retraso mínimo de una hora en la llegada a destino, Renfe ofrecerá gratuitamente comidas y refrigerios, en una medida adecuada al tiempo de espera, si están disponibles en el tren o la estación O si pueden razonablemente suministrarse teniendo en cuenta factores tales como la distancia del suministrador, el tiempo necesario para el suministro y el coste”:",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "21. ¿Cuándo garantiza Renfe el enlace entre todos los trenes AVE, AVLO, Larga Distancia, Avant y Media Distancia convencional cuando la llegada y salida sea en la misma estación del mismo municipio?",
@@ -249,7 +283,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Cuando el intervalo entre la llegada y salida sea igual o superior a 60 minutos.",
     "comentario": "“Pérdida de enlace  Renfe garantiza el enlace entre todos los trenes AVE, AVLO, Larga Distancia, Avant y Media Distancia convencional, cuando el intervalo entre la llegada y salida sea igual o superior a 60 minutos o 90 minutos cuando la llegada y salida sea en distinta estación del mismo municipio y exista enlace ferroviario”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "22. Si como consecuencia de la interrupción se prevé un retraso mínimo de una hora en la llegada a destino, Renfe:",
@@ -261,7 +296,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Ofrecerá gratuitamente comidas y refrigerios, en una medida adecuada al tiempo de espera, si están disponibles en el tren o la estación.",
     "comentario": "“Asistencia en caso de pérdida de enlace  Si como consecuencia de la interrupción se prevé un retraso mínimo de una hora en la llegada a destino, Renfe ofrecerá gratuitamente comidas y refrigerios, en una medida adecuada al tiempo de espera, si están disponibles en el tren o la estación o si pueden razonablemente suministrarse teniendo en cuenta factores tales como la distancia del suministrador, el tiempo necesario para el suministro y el coste”,",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "23. ¿A quién corresponde decidir y comunicar en cada momento la incidencia que puede ser objeto de indemnización?",
@@ -273,7 +309,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) A los Centros de Gestión.",
     "comentario": "“Gestión de reclamaciones  Los Centros de Gestión serán los responsables de decidir y comunicar en cada momento, y en los casos relevantes en coordinación con los responsables de las Gerencias y la Dirección de Experiencia de Cliente y Accesibilidad, la incidencia que puede ser objeto de indemnización”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "24. ¿Quiénes pueden adquirir la Tarjeta Dorada?",
@@ -285,7 +322,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Los mayores de 60 años, pensionistas y personas con discapacidades importantes.",
     "comentario": "“Descripción:\nEs una tarjeta nominativa e intransferible, que pueden adquirir los mayores de 60  años, pensionistas y personas con discapacidades importantes, que da derecho a obtener descuentos en las condiciones establecidas”,",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "25. ¿Cuál es el precio de compra o renovación de la Tarjeta Dorada por periodo de un año?",
@@ -297,7 +335,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) 6 euros.",
     "comentario": "“Precio:\nLos precios por compra o renovación de la tarjeta, en función de su periodo de validez, son los siguientes:\n=  laño:6euros.\n-  2años: 12 euros.\n-  3años: 15 euros (ahorro del 16%)”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "26. ¿En qué plazo puede ser anulados por error los billetes de servicios Media Distancia (ancho ibérico), Cercanías y Rodalies emitidos por un sistema no centralizado de plazas?",
@@ -309,7 +348,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Antes de transcurridas dos horas desde su adquisición.",
     "comentario": "“Apartado A: anulaciones  Los billetes de servicios Media Distancia (ancho ibérico), Cercanías y Rodalies emiti-  dos por un sistema no centralizado de plazas únicamente podrán ser anulados por error antes de transcurridas dos horas desde su adquisición”,",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "27. En la anulación de un billete de AVANT, como condición general, ¿qué cantidad se deducirá del precio del billete en conceto de gastos de anulación?",
@@ -321,7 +361,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) El 15% del precio del billete anulado.",
     "comentario": "“Servicios AVANT, Media Distancia Convencional (ancho ibérico), Cercanías y Rodalíes  Como condición general, en la anulación de un billete, en concepto de gastos de anulación, se deducirá el 15% del precio del billete anulado”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "28. ¿Qué significan las siglas FIP?",
@@ -333,7 +374,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Facilidades Internacionales al Personal.",
     "comentario": "“Los viajes internacionales del personal ferroviario, tanto en activo como pensionista, así como para determinados familiares, están regulados por unos acuerdos recípro-  cos entre empresas ferroviarias, en el marco de un reglamento común denominado FIP (Facilidades Internacionales al Personal)”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "29. ¿Cómo se denomina pase que permite viajar en las compañías participantes de 33 países europeos y tránsito marítimo entre Italia y Grecia, según las características de la modalidad escogida?",
@@ -345,7 +387,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Interrail.",
     "comentario": "“Es un pase que permite viajar en las compañías participantes de 33 países europeos  y tránsito marítimo entre Italia y Grecia, según las características de la modalidad escogida”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "30. ¿De cuántos representantes se compone la Comisión de Igualdad del Grupo Renfe?",
@@ -357,7 +400,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) De 8 representantes por cada una de las partes, estando constituida la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y distribuidos de manera proporcional a la representación que ostentan en el Grupo.",
     "comentario": "“7.3. Procedimiento de modificación e interpretación del PIGGR (...)  La comisión de igualdad se compone de 8 representantes por cada una de las partes, estando constituida la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y distribuidos de manera proporcional a la representación que ostentan en el Grupo, en función de los resultados electorales y de acuerdo al Convenio Colectivo en vigor”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "31. ¿Cómo se denominan las medidas específicas, aplicables mientras subsista la desigualdad, aplicables en favor de las mujeres para corregir situaciones de desigualdad respecto a los hombres?",
@@ -369,7 +413,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Acción positiva.",
     "comentario": "“8. Anexo: Glosario de términos.\nAcción Positiva  Son medidas específicas en favor de las mujeres para corregir situaciones de desigualdad respecto a los hombres. El fi n es hacer efectivo el derecho constitucional a la igualdad. Son acciones temporales —aplicables mientras subsista la desigualdad—, habrán de ser razonables y proporcionadas en relación a su objetivo. (art. 11 LOIEMH). (P. ej. “En igualdad de condiciones se priorizará la contratación de mujeres en aquellos puestos de trabajo en los que se encuentren subrepresentadas”)”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "32. ¿Con qué concepto se hace referencia a las diferencias salariales entre mujeres y hombres, tanto en el desempeño de trabajos iguales como la producida en los trabajos “feminizados”?",
@@ -381,7 +426,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Brecha salarial.",
     "comentario": "“Brecha salarial  Se refiere a las diferencias salariales entre mujeres y hombres, tanto en el desempeño de trabajos iguales como la producida en los trabajos “feminizados”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "33. ¿Con qué concepto se hace referencia a las desigualdades entre mujeres y hombres en la formación y en el uso de las nuevas tecnologías?",
@@ -393,7 +439,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Brecha tecnológica.",
     "comentario": "“Brecha tecnológica  Se utiliza para designar las desigualdades entre mujeres y hombres en la formación y en el uso de las nuevas tecnologías”..\n",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "34. ¿Con qué hacemos referencia a propiciar las condiciones para lograr un adecuado equilibrio entre las responsabilidades personales, familiares y laborales?",
@@ -405,7 +452,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Conciliación.",
     "comentario": "“Conciliación Supone propiciar las condiciones para lograr un adecuado equilibrio entre las responsabilidades personales, familiares y laborales”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "35. ¿Cómo se denomina a la recogida de datos e información estadística por sexo, que hace posible un análisis comparativo de la situación de las mujeres respecto a la de los hombres?",
@@ -417,7 +465,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Datos desagregados/desglosados por sexo.",
     "comentario": "“Datos desagregados/desglosados por sexo  Recogida de datos e información estadística por sexo, que hace posible un análisis comparativo de la situación de las mujeres respecto a la de los hombres. El uso de        estos datos revela dónde se encuentran y cuáles son las posibles causas de discriminación o desigualdad\".",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "36. ¿Con qué termino se denomina la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable?",
@@ -429,7 +478,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Discriminación directa por razón de sexo.",
     "comentario": "“Discriminación directa por razón de sexo  Se considera a la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable (LOEIMH, art. 6.1)”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "37. Cuando se produce cuando una disposición, criterio o práctica aparentemente neutros que pone a personas de un sexo en desventaja respecto al otro, salvo que dicha disposición, criterio o práctica, puedan justificarse objetivamente, en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuado, hablamos de:",
@@ -441,7 +491,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Discriminación indirecta.",
     "comentario": "“Discriminación indirecta  Se produce cuando una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja respecto al otro. Salvo que dicha disposición, criterio o práctica, puedan justificarse objetivamente, en atención a una finalidad le-  gítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados (LOIEMH, art. 6.2)”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "38. ¿Cómo de denomina a la participación de aproximadamente el mismo número de mujeres y hombres dentro de una actividad u organización?",
@@ -453,7 +504,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Equilibrio de género.",
     "comentario": "“Equilibrio de género  Se refiere a la participación de aproximadamente el mismo número de mujeres y hombres dentro de una actividad u organización. Algunos ejemplos son: representaciones en comités, estructuras de toma de decisiones o proporción de mujeres y hombres en la plantilla”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "39. ¿Cuál de las siguientes no es una de las cuatro fases de que consta el Ciclo de mejora continua?",
@@ -465,7 +517,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Gestión del riesgo.",
     "comentario": "“Un ciclo de mejora continua debe tener periodicidad anual preferentemente, siendo un proceso iteractivo de ciclos que evalúe la madurez y solidez de la Cultura de Seguridad durante el Plan de Transformación. Cada ciclo de mejora continua consta de cuatro fases (figura 10) que se describen a continuación.\nFase 1. Análisis de la cultura.\nFase 2. Diagnóstico de la cultura.\nFase 3. Planificación de mejoras.\nFase 4. Implantación de actividades”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "40. Dentro de la Fase 1. Análisis de la cultura, del Ciclo de mejora continua, ¿qué dos tipos de herramientas existen?",
@@ -477,7 +530,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Medidas cualitativas y medidas cuantitativas.",
     "comentario": "“Al iniciar un ciclo de mejora continua se realizará una valoración de la Cultura de Seguridad existente. Las herramientas de medición disponibles pueden agruparse, con carácter general, en dos tipos:\n—- Medidas cualitativas (...).\n- Medidas cuantitativas (...)”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "41. Dentro del Ciclo de mejora continua, una vez definido el diagnóstico de la cultura se deben definir las diferentes acciones de refuerzo de la Cultura de Seguridad. ¿En qué fase se lleva a cabo?",
@@ -489,7 +543,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) En la planificación de mejoras.",
     "comentario": "\"Fase 3. Planificación de mejoras. Una vez establecido el diagnóstico de la cultura se deben definir las diferentes acciones de refuerzo de la Cultura de Seguridad”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "42. Para superar las resistencias al cambio y alcanzar la Cultura de Seguridad, debe garantizarse un ejercicio de liderazgo efectivo. ¿En qué ámbitos debe desarrollarse este liderazgo efectivo?",
@@ -501,7 +556,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Tanto el ámbito directivo como en el ámbito operativo.",
     "comentario": "\"Para superar las resistencias al cambio y alcanzar la Cultura de Seguridad deseada, debemos garantizar: (...)  Un ejercicio del liderazgo efectivo, tanto directivo como operativo”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "43. ¿Cuál es el resultado deseado para un ejercicio de liderazgo efectivo?",
@@ -513,7 +569,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Un comportamiento ejemplarizante acorde con las responsabilidades de seguridad a todos los niveles de la organización y especialmente, del personal directivo en la gestión de los recursos y en la organización.",
     "comentario": "“Un ejercicio del liderazgo efectivo, tanto directivo como operativo.\nPosibles resistencias: falta de capacitación o desinterés para asumir las responsabilidades en materia de seguridad.\nMedidas: formación y motivación de las personas.\nResultados deseados: un comportamiento ejemplarizante acorde con las responsabilidades de seguridad a todos los niveles de la organización y especialmente, del personal directivo en la gestión de los recursos y en la organización”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "44. ¿Cuál es la posible resistencia al cambio dentro del ámbito de la distribución de funciones y competencias de seguridad en todos los niveles de la organización?",
@@ -525,7 +582,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Dificultades en la asignación de funciones de seguridad por la complejidad y tamaño organizativo del Grupo.",
     "comentario": "“Una distribución de las funciones y competencias de seguridad en todos los niveles de la organización.\nPosibles resistencias: dificultades en la asignación de funciones de seguridad por la complejidad y tamaño organizativo del Grupo. (...)”",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "45. ¿Cuál es la posible resistencia al cambio dentro de los especialistas para la gestión de los riesgos?",
@@ -537,7 +595,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Falta de conocimientos en gestión de riesgos e incomodidad en la toma de decisiones relativas a la seguridad.",
     "comentario": "“Especialistas en la gestión de los riesgos.\nPosibles resistencias: falta de conocimientos en gestión de riesgos e incomodidad en la toma de decisiones relativas a la seguridad. (...)”",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "46. Dentro de las habilidades y competencias para la atención al cliente el empleo de la voz es importante, ya que con ella generamos determinadas sensaciones en los clientes. ¿Cómo es recomendable emplearla?",
@@ -549,7 +608,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Es recomendable vocalizar usando un tono de voz adecuado, evitando elevar la voz y utilizar un tono monótono.",
     "comentario": "“La definición de voz hace referencia a la potencia, el timbre, la modulación, el tono y otras propiedades que tienen un impacto sobre lo que comunicamos generando determinadas sensaciones en nuestros clientes. Es recomendable vocalizar usando un tono de voz adecuado, evitando elevar la voz y utilizar un tono monótono”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "47. Dentro de las habilidades y competencias para la atención al cliente, ¿cuál de las siguientes opciones relacionadas con el lenguaje es correcta?",
@@ -561,7 +621,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) El mensaje deber ser claro, conciso y objetivo, evitando tanto coloquialismos       como tecnicismos.",
     "comentario": "“Utilizar bien el lenguaje nos aproxima a los clientes, favorece la negociación y la gestión de los conflictos, reduce incidentes y errores en la interpretación. El mensaje deber ser claro, conciso y objetivo, evitando tanto coloquialismos como tecnicismos”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "48. Dentro de las recomendaciones básicas sobre cómo dirigirse a los clientes, ¿es conveniente tutear al cliente?",
@@ -573,7 +634,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) No, lo correcto es referirse al cliente como “usted”,  “A continuación algunas recomendaciones básicas sobre cómo dirigirse a los clientes:",
     "comentario": "-— Buenos días / Buenas tardes / Buenas noches\n- Porfavor\n- Muchas gracias\n- Perdone...\n— ¿En qué puedo ayudarle?\n- ¿Me permite su documentación?\n-  Leagradezco su comprensión.\n- Disculpe, ¿sería tan amable de...?\n- Nose preocupe...”",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "49. ¿Cómo se denomina a una interacción entre un usuario/cliente y una organización a través de tecnologías digitales como: sitios web, aplicaciones móviles, sitios de comercio electrónico, redes sociales y otros dispositivos inteligentes?",
@@ -585,7 +647,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Experiencia de Cliente Digital.",
     "comentario": "“La Experiencia de Cliente Digital se refiere a una interacción entre un usuario/cliente y una organización a través de tecnologías digitales como: sitios web, aplicaciones móviles, sitios de comercio electrónico, redes sociales y otros dispositivos inteligentes”.\n",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "50. ¿Cómo se denomina la entrega por la empresa de una experiencia unificada, integrada y conectada a través de todos los canales, ya sea que el cliente esté interactuando desde un dispositivo electrónico o en un lugar físico?",
@@ -597,7 +660,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Omnicanalidad.",
     "comentario": "“Hoy en día es de vital importancia que las empresas estén y se adapten a todos los canales, asegurando la OMNICANALIDAD: entrega de una experiencia unificada, integrada y conectada a través de todos los canales, ya sea que el cliente esté interactuando desde un dispositivo electrónico o en un lugar físico”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "51. ¿Con qué término nos referimos a la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana?",
@@ -609,7 +673,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Inteligencia Artificial (IA).",
     "comentario": "“La Inteligencia Artificial (IA) se refiere a la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana. Esto incluye la capacidad de aprender de la experiencia, adaptarse a nuevas situaciones, comprender y responder al lenguaje natural y procesar grandes cantidades de datos de manera eficiente”:",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "52. ¿Con qué término denominamos el asistente virtual diseñado para ayudar a los clientes a encontrar y comprar productos con el que los clientes pueden interactuar?",
@@ -621,7 +686,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Chatbots.",
     "comentario": "“Otro ejemplo es el chatbot de Asistente Virtual de Ikea, diseñado para ayudar a los clientes a encontrar y comprar productos. Los clientes pueden interactuar con el asistente para buscar productos, obtener recomendaciones de diseño y recibir asistencia en la planificación de muebles para su hogar”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "53. ¿Cómo se denomina la capacidad de las empresas para utilizar datos sobre el comportamiento, las preferencias y las características de los clientes para ofrecer experiencias personalizadas y relevantes?",
@@ -633,7 +699,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Personalización basada en datos.",
     "comentario": "“La personalización basada en datos es otra área donde la tecnología está desempeñando un papel crucial en la mejora de la Experiencia de Cliente. Se refiere a la capacidad de las empresas para utilizar datos sobre el comportamiento, las preferencias y las características de los clientes para ofrecer experiencias personalizadas y relevantes. Un ejemplo destacado es el enfoque de Amazon en la personalización del comercio electrónico. Utilizando algoritmos de lA, Amazon analiza el historial de compras y navegación de un usuario para generar recomendaciones de productos que se adapten a sus intereses y necesidades”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "54. ¿Cómo se denomina la herramienta que utiliza datos sobre las compras y preferencias de los clientes para ofrecer ofertas y recompensas personalizadas?",
@@ -645,7 +712,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Programa de fidelización.",
     "comentario": "“Otro ejemplo es el programa de fidelización de Starbucks, que utiliza datos sobre las compras y preferencias de los clientes para ofrecer ofertas y recompensas personalizadas. Los clientes reciben ofertas exclusivas y puntos de recompensa basados en sus hábitos de compra y visitas a tiendas, lo que aumenta la lealtad y el compromiso con la marca”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "55. ¿Cuál de las siguientes no corresponde a las estrategias para la resolución de problemas y conflictos con clientes?",
@@ -657,7 +725,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Derivar la responsabilidad.",
     "comentario": "“Escucha activa  Mantener la calma  Asumir la responsabilidad y reconocer el problema Ofrecer soluciones creativas  Ofrecer un punto de contacto directo”,",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "56. Dentro de las estrategias para la resolución de problemas y conflictos con clientes, ¿cuál de las siguientes no se corresponde con la escucha activa?",
@@ -669,7 +738,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Trasladar al cliente que no es experto en la materia y puede estar equivocado.",
     "comentario": "“Escucha activa: una de las habilidades más importantes en la resolución de problemas y conflictos es la capacidad de escuchar activamente al cliente. Esto implica prestar atención a lo que el cliente está diciendo, mostrando empatía hacia sus preocupaciones y asegurándoles que sus problemas son importantes para la empresa.\nPara practicar una escucha activa efectiva:\n- No interrumpir, es importante permitir que el cliente exprese sus preocupaciones completamente antes de responder.\n= Validar sus sentimientos, reconocer las emociones del cliente y demostrar empatía hacia su situación.\n- Repetir lo que han dicho, parafrasea lo que el cliente ha dicho para demostrar que se ha entendido correctamente.\n- Hacer preguntas clarificadoras, si no se está seguro de algo, preguntar para obtener más información y clarificar la situación”;",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": [
+      "listas"
+    ]
   },
   {
     "pregunta": "57. Dentro de las estrategias para la resolución de problemas y conflictos con clientes, ¿cuál de las siguientes no se encuentra entre las relacionadas con mantener la calma?",
@@ -681,7 +753,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Tomarlo como algo personal. Implicarnos a fondo en el problema para hacer ver al cliente que sus problemas son también los nuestros.",
     "comentario": "“Mantener la calma: es importante mantener la calma y la compostura, incluso en situaciones difíciles. Esto ayuda a evitar que la situación se agrave y permite abordar el problema de manera más efectiva. Algunas formas de mantener la calma incluyen:\n- Respirar profundamente y relajarse antes de actuar.\nMantener un tono de voz tranquilo. Hablar en un tono de voz calmado y amable, incluso si el cliente está molesto o enojado.\nEvitar tomarlo como algo personal. Recordar que el cliente está molesto con la situación, no con los empleados que le atienden. Mantener la distancia emocional para poder abordar el problema de manera objetiva”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "58. Dentro de las estrategias para la resolución de problemas y conflictos con clientes, ¿cuál de las siguientes no se encuentra entre las relacionadas con asumir la responsabilidad y reconocer el problema?",
@@ -693,7 +766,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "a) Mostrar educadamente al cliente que el problema ha sido causado por su falta de diligencia, sin que existe un comportamiento reprochable a la empresa.",
     "comentario": "“Asumir la responsabilidad y reconocer el problema: asumir la responsabilidad por los problemas o errores es una parte clave de la resolución efectiva de conflictos. Esto demuestra al cliente que la empresa se preocupa por su satisfacción, estando dispuestos a hacer lo necesario para solucionar el problema. Al asumir la responsabilidad:\n- Ofrecer disculpas sinceras. Reconocer el problema y ofrecer una disculpa sincera por cualquier inconveniente que haya causado al cliente.\n- Proporcionar soluciones concretas para abordar el problema y restaurar la satisfacción del cliente.\n- Tomar medidas correctivas para corregir el error y evitar que vuelva a ocurrir en el futuro”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "59. ¿Cuál de las siguientes no se encuentra entre las estrategias para una respuesta rápida u proactiva a las quejas y reclamaciones de los clientes?",
@@ -705,7 +779,10 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Posponer la respuesta a la reclamación. Es probable que tras haber sido escuchado el cliente no desee continuar con la misma.",
     "comentario": "“Algunas estrategias para una respuesta rápida y proactiva incluyen:\n- Establecer procedimientos claros: tener un proceso claro y bien definido para manejar quejas y reclamaciones, incluyendo tiempos de respuesta específicos.\n- Designar un punto de contacto: designar a una persona o equipo responsable  de manejar quejas y reclamaciones para garantizar una respuesta rápida y consistente.\n- Comunicación Transparente: Mantener al cliente informado sobre el progreso de la resolución y proporcionar plazos realistas para la solución del problema”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": [
+      "listas"
+    ]
   },
   {
     "pregunta": "60. ¿Cuál de las siguientes no se encuentra entre las estrategias para una solución adecuada a las quejas y reclamaciones de los clientes?",
@@ -717,7 +794,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Mostrar al cliente que, pese a su reclamación, nuestro producto o servicio es mejor que el de otras marcas de la competencia.",
     "comentario": "“Algunas estrategias para ofrecer una solución adecuada incluyen:\n- Ofrecer la compensación reglamentaria.\n- Tomar medidas para corregir el error que causó la queja y garantizar que no vuel-  va a ocurrir en el futuro.\n- Realizar un seguimiento con el cliente después de la resolución para asegurar-  se de que esté satisfecho con la solución y para ofrecer ayuda adicional si fuera necesario”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   },
   {
     "pregunta": "61. ¿Cómo se denomina el pase personal e intransferible que permite realizar 4, 6, 8, o 10 viajes en los trenes de Renfe Viajeros, en función del número de viajes escogido, durante el periodo de validez y de utilización, dirigido a clientes con residencia permanente fuera de España?",
@@ -729,7 +807,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "c) Spain Rail Pass.",
     "comentario": "“Descripción:\nPase personal e intransferible que permite realizar 4, 6, 8, o 10 viajes en los trenes de Renfe Viajeros, en función del número de viajes escogido, durante el periodo de va-  lidez y de utilización. Dirigido a clientes con residencia permanente fuera de España, con precios diferentes para adultos y niños”.",
-    "libro": "Condiciones Generales"
+    "libro": "Condiciones Generales",
+    "etiquetas": []
   },
   {
     "pregunta": "62. ¿Con qué concepto se hace referencia a las diferencias sociales (por oposición a las biológicas) entre hombres y mujeres que han sido aprendidas, cambian con el tiempo y presentan grandes variaciones tanto entre diversas culturas como dentro de una misma cultura?",
@@ -741,7 +820,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "b) Género.",
     "comentario": "“Género  Es un concepto que hace referencia a las diferencias sociales (por oposición a las biológicas) entre hombres y mujeres que han sido aprendidas, cambian con el tiempo y presentan grandes variaciones tanto entre diversas culturas como dentro de una misma cultura”.",
-    "libro": "Plan de Igualdad de Género"
+    "libro": "Plan de Igualdad de Género",
+    "etiquetas": []
   },
   {
     "pregunta": "63. ¿Cuál es la posible resistencia al cambio en la vigilancia efectiva a través de indicadores de implantación y eficacia?",
@@ -753,7 +833,8 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Falta de capacidad para la definición y gestión de indicadores, menosprecio hacia la recogida de datos y la importancia de los indicadores que se obtienen de esos datos.",
     "comentario": "“Una vigilancia efectiva a través de indicadores de implantación y eficacia.\nPosibles resistencias: falta de capacidad para la definición y gestión de indicadores, menosprecio hacia la recogida de datos y la importancia de los indicadores que se obtienen de esos datos, dificultad en la obtención de indicadores por la falta de integración entre las aplicaciones de gestión y las fuentes de información relacionadas con la operación y su vigilancia, falta de fuentes de información útiles, falta de confianza en los indicadores, obstrucción de la información necesaria para realizar el control de su desempeño profesional y bloqueo de los canales de información para convertirse en fuente de consulta imprescindible”.",
-    "libro": "Cultura de Seguridad"
+    "libro": "Cultura de Seguridad",
+    "etiquetas": []
   },
   {
     "pregunta": "64. ¿Cuál de las siguientes no se encuentra entre estrategias efectivas que las empresas pueden utilizar para fidelizar a sus clientes y fortalecer su relación con ellos a largo plazo?",
@@ -765,6 +846,7 @@ const preguntas_2025_04 = [
     ],
     "correcta": "d) Todas las anteriores son correctas.",
     "comentario": "“Existen varias estrategias efectivas que las empresas pueden utilizar para fidelizar a  sus clientes y fortalecer su relación con ellos a largo plazo. Algunas de estas estrategias incluyen:\nOfrecer programas de lealtad que recompensen a los clientes por realizar compras repetidas y fomenten la retención a largo plazo.\nUtilizar datos de clientes para ofrecer ofertas y promociones personalizadas que se adapten a sus necesidades y preferencias individuales.\nMantener una comunicación proactiva con los clientes a través de correos electrónicos, mensajes de texto y redes sociales para mantenerlos informados sobre nuevas ofertas, productos y eventos.\nSolicitar retroalimentación regularmente a los clientes sobre su experiencia con .to . ., . cd Y la empresa y utilizar esa información para mejorar los productos y servicios”.",
-    "libro": "Experiencia de Cliente"
+    "libro": "Experiencia de Cliente",
+    "etiquetas": []
   }
 ];
