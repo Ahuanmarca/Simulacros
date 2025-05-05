@@ -61,8 +61,14 @@ async function main() {
     console.log("\n📝 Comentario:");
     console.log(item.comentario || "(sin comentario)");
 
-    // console.log(`\n🔖 Etiquetas existentes: ${verde}${[...etiquetasGlobales].join(" ")}${reset}`);
-    console.log(`\n🔖 Etiquetas existentes: ${verde}${[...etiquetasGlobales].sort().join(" ")}${reset}`);
+    // console.log(`\n🔖 Etiquetas existentes: ${verde}${[...etiquetasGlobales].sort().join(" ")}${reset}`);
+
+    const amarillo = '\x1b[33m';
+    const etiquetasItem = Array.isArray(item.etiquetas) ? [...item.etiquetas].sort() : [];
+    console.log(`\n🏷️ Etiquetas del ítem:     ${amarillo}${etiquetasItem.join(" ")}${reset}`);
+    console.log(`🔖 Etiquetas disponibles: ${verde}${[...etiquetasGlobales].sort().join(" ")}${reset}`);
+    
+
     const respuesta = await preguntar("\nEscribe las etiquetas que deseas agregar (separadas por espacio): ");
     const nuevas = respuesta.trim().split(/\s+/).filter(Boolean);
 
