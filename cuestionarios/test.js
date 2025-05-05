@@ -23,7 +23,7 @@ Trenes Turísticos, cuyas Condiciones Generales de contratación se encuentran a
       "d) Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.",
     ],
     correcta: "d) Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba  el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.",
-    comentario: `Los servicios sujetos a obligaciones de servicio público por la Administración General del Estado, que debe prestar Renfe Viajeros en la red ferroviaria de interés general son los definidos en Acuerdo del Consejo de Ministros, de conformidad con el Reglamento (CE) 1370/2007 del Parlamento y Consejo, de 23 de octubre de 2007 sobre los servicios públi- cos de transporte de viajeros por ferrocarril y carretera y con lo dispuesto en el artículo 59.1 de la Ley 38/2015, de 29 de septiembre del sector ferroviario”.`,
+    comentario: `Los servicios sujetos a obligaciones de servicio público por la Administración General del Estado, que debe prestar Renfe Viajeros en la red ferroviaria de interés general son los definidos en Acuerdo del Consejo de Ministros, de conformidad con el Reglamento (CE) 1370/2007 del Parlamento y Consejo, de 23 de octubre de 2007 sobre los servicios públicos de transporte de viajeros por ferrocarril y carretera y con lo dispuesto en el artículo 59.1 de la Ley 38/2015, de 29 de septiembre del sector ferroviario”.`,
   },
   {
     pregunta: "3. ¿Cuál de las siguientes opciones no es uno de los servicios de Renfe Viajeros sometidos a obligaciones de servicio público?",

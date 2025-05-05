@@ -9,9 +9,9 @@ const preguntas_2025_03 = [
     ],
     correcta: "d) Renfe Viajeros no admitirá viajeros que porten armas en los trenes en ningún caso.",
     comentario: `“Renfe Viajeros únicamente admitirá viajeros que porten armas en los trenes, cuando se cumplan todos los siguientes requisitos:
-- Que se trate de armas de deportistas o armas reglamentarias, según su defini- ción legal.
+- Que se trate de armas de deportistas o armas reglamentarias, según su definici legal.
 - Que vayan desmontadas o dentro de sus cajas o fundas.
-- Que vayan acompañadas de las correspondientes guías, licencias y demás docu- mentación exigida legalmente”.`,
+- Que vayan acompañadas de las correspondientes guías, licencias y demás documentación exigida legalmente”.`,
   },
   {
     pregunta: "2. Cuando el personal de las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado, del Servicio de Vigilancia Aduanera o de personal de empresas de seguridad que realicen funciones de custodia o vigilancia porten armas, ¿qué es necesario?",
@@ -22,7 +22,7 @@ const preguntas_2025_03 = [
       "d) Autorización del maquinista.",
     ],
     correcta: "a) La exhibición de su guía de pertenencia y su Tarjeta de Identidad Militar o, en su caso, el carné profesional.",
-    comentario: `“Cuando se trate de personal de las Fuerzas Armadas, Fuerzas y Cuerpos de Seguri- dad del Estado, del Servicio de Vigilancia Aduanera o de personal de empresas de seguridad que realicen funciones de custodia o vigilancia, bastará con la exhibición de su guía de pertenencia y su Tarjeta de Identidad Militar o, en su caso, el carné profesional. En caso de viajar fuera de servicio deberán portar el arma desmontada y dentro de su caja o funda”.`,
+    comentario: `“Cuando se trate de personal de las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado, del Servicio de Vigilancia Aduanera o de personal de empresas de seguridad que realicen funciones de custodia o vigilancia, bastará con la exhibición de su guía de pertenencia y su Tarjeta de Identidad Militar o, en su caso, el carné profesional. En caso de viajar fuera de servicio deberán portar el arma desmontada y dentro de su caja o funda”.`,
   },
   {
     pregunta: "3. Cuando el personal de las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado, del Servicio de Vigilancia Aduanera o de personal de empresas de seguridad viajen fuera de servicio portando armas, ¿qué es necesario?",
@@ -44,7 +44,7 @@ const preguntas_2025_03 = [
       "d) La exhibición del título de viaje.",
     ],
     correcta: "c) La justificación de su propiedad.",
-    comentario: `“Los objetos olvidados, perdidos o abandonados por los clientes, que sean halla- dos en los trenes, andenes u otras dependencias de la estación, serán entregados al responsable del ámbito correspondiente para su custodia, durante un periodo de tiempo determinado y durante el cual estarán a disposición de los clientes para su entrega, previa justificación de su propiedad".`,
+    comentario: `“Los objetos olvidados, perdidos o abandonados por los clientes, que sean hallados en los trenes, andenes u otras dependencias de la estación, serán entregados al responsable del ámbito correspondiente para su custodia, durante un periodo de tiempo determinado y durante el cual estarán a disposición de los clientes para su entrega, previa justificación de su propiedad".`,
   },
   {
     pregunta: "5. Conocer los asientos o plazas disponibles es:",
@@ -58,7 +58,7 @@ const preguntas_2025_03 = [
     comentario: `“Los viajeros de Renfe Viajeros tienen, entre otros, los siguientes derechos:
 Nr. 3. Arecibir antes del viaje, cuando así lo soliciten, la siguiente información:
 - Horarios y condiciones del viaje más rápido y de las opciones de precio y tarifas más económicas.
-- Accesibilidad, condiciones de acceso y disponibilidad de instalaciones para per- sonas con discapacidad o movilidad reducida.
+- Accesibilidad, condiciones de acceso y disponibilidad de instalaciones para personas con discapacidad o movilidad reducida.
 - Asientos o plazas disponibles”.`,
   },
   {
@@ -69,7 +69,7 @@ Nr. 3. Arecibir antes del viaje, cuando así lo soliciten, la siguiente informac
       "c) Sí, el viajero tiene derecho a recibir información durante su viaje de la estación siguiente con parada.",
       "d) No es un derecho, pero Renfe Viajeros suele ofrecer esa posibilidad.",
     ],
-    correcta: "c) Sí, el viajero tiene derecho a recibir información durante su viaje de la esta- ción siguiente con parada.",
+    correcta: "c) Sí, el viajero tiene derecho a recibir información durante su viaje de la estación siguiente con parada.",
     comentario: `“Los viajeros de Renfe Viajeros tienen, entre otros, los siguientes derechos:
 Nr.4. A recibir durante el viaje información sobre:
 - Servicios a bordo.
@@ -84,7 +84,7 @@ Nr.4. A recibir durante el viaje información sobre:
       "d) Abstenerse de mendigar.",
     ],
     correcta: "c) A ser informaos de las pólizas de seguro y afianzamiento que Renfe Viajeros tenga contratada para garantizar su responsabilidad.",
-    comentario: `Mientras que las respuestas a, b y d se encuentran entre las obligaciones de los viaje- ros del Capítulo 2 del Título VIII, la opción c) se encuentra contemplada en el Capítulo 1 sobre los derechos de los viajeros.`,
+    comentario: `Mientras que las respuestas a, b y d se encuentran entre las obligaciones de los viajeros del Capítulo 2 del Título VIII, la opción c) se encuentra contemplada en el Capítulo 1 sobre los derechos de los viajeros.`,
   },
   {
     pregunta: "8. ¿Debe el viajero permanecer únicamente en las instalaciones ferroviarias en el horario en que esté prevista su utilización para los clientes?",
@@ -96,7 +96,7 @@ Nr.4. A recibir durante el viaje información sobre:
     ],
     correcta: "a) Sí, es una obligación del viajero.",
     comentario: `Los viajeros deberán cumplir las siguientes obligaciones:
-Nr. 2. Atender las indicaciones que les formule el personal de Renfe Viajeros o el personal autorizado por esta en relación con la correcta prestación del servicio, así como lo indicado en los carteles colocados a la vista en instalaciones y trenes, y permanecer únicamente en las instalaciones ferroviarias en el horario en que esté prevista su uti- lización para los clientes”,
+Nr. 2. Atender las indicaciones que les formule el personal de Renfe Viajeros o el personal autorizado por esta en relación con la correcta prestación del servicio, así como lo indicado en los carteles colocados a la vista en instalaciones y trenes, y permanecer únicamente en las instalaciones ferroviarias en el horario en que esté prevista su utilización para los clientes”,
 `,
   },
   {
@@ -109,7 +109,7 @@ Nr. 2. Atender las indicaciones que les formule el personal de Renfe Viajeros o 
     ],
     correcta: "b) No, el viajero tiene la obligación de abstenerse de fumar.",
     comentario: `Los viajeros deberán cumplir las siguientes obligaciones:
-Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, organizar ri- fas o juegos de azar con ánimo de lucro y vender bienes o servicios en los trenes, instalaciones y dependencias de Renfe, sin autorización expresa previa y por escrito de Renfe Viajeros, así como realizar cualquier otra acción prohibida por la legislación vigente”:`,
+Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, organizar rifas o juegos de azar con ánimo de lucro y vender bienes o servicios en los trenes, instalaciones y dependencias de Renfe, sin autorización expresa previa y por escrito de Renfe Viajeros, así como realizar cualquier otra acción prohibida por la legislación vigente”:`,
   },
   {
     pregunta: "10. ¿Es posible distribuir publicidad en las instalaciones y dependencias de Renfe, sin autorización expresa previa?",
@@ -121,7 +121,7 @@ Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, org
     ],
     correcta: "b) No, el viajero tiene la obligación de abstenerse de distribuir publicidad.",
     comentario: `Los viajeros deberán cumplir las siguientes obligaciones:
-Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, organizar ri- fas o juegos de azar con ánimo de lucro y vender bienes o servicios en los trenes, instalaciones y dependencias de Renfe, sin autorización expresa previa y por escrito  de Renfe Viajeros, así como realizar cualquier otra acción prohibida por la legislación vigente”.`,
+Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, organizar rifas o juegos de azar con ánimo de lucro y vender bienes o servicios en los trenes, instalaciones y dependencias de Renfe, sin autorización expresa previa y por escrito  de Renfe Viajeros, así como realizar cualquier otra acción prohibida por la legislación vigente”.`,
   },
   {
     pregunta: "11. ¿Qué consecuencias puede tener el incumplimiento por el viajero de sus obligaciones recogidas en el Título VIII de las Condiciones Generales?",
@@ -132,7 +132,7 @@ Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, org
       "d) Todas las anteriores son correctas.",
     ],
     correcta: "d) Todas las anteriores son correctas.",
-    comentario: `“El incumplimiento de alguna de las obligaciones por el viajero, indicadas en el Ca- pítulo 2 del Título VIII, podrá determinar el cese de la obligación para Renfe Viajeros de transporte del viajero y los objetos que porte, sin derecho a devolución de impor- te alguno y la exigencia de la indemnización de daños y perjuicios pertinente, sin perjuicio de la sanción administrativa o de otro orden que, en su caso, pudiera ser impuesta por la Administración o Autoridad judicial competente”.`,
+    comentario: `“El incumplimiento de alguna de las obligaciones por el viajero, indicadas en el Capítulo 2 del Título VIII, podrá determinar el cese de la obligación para Renfe Viajeros de transporte del viajero y los objetos que porte, sin derecho a devolución de importe alguno y la exigencia de la indemnización de daños y perjuicios pertinente, sin perjuicio de la sanción administrativa o de otro orden que, en su caso, pudiera ser impuesta por la Administración o Autoridad judicial competente”.`,
   },
   {
     pregunta: "12. ¿Cuál es la penalización prevista para el cliente de Alta Velocidad-Larga Distancia desprovisto de título de transporte válido que accede al tren desde una estación con venta de billetes donde era posible su adquisición?",
@@ -143,7 +143,7 @@ Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, org
       "d) Deberá abonar una penalización de 100 euros en lugar de título de transporte.",
     ],
     correcta: "a) Deberá abonar el importe del título de transporte del trayecto, incluyendo los gastos de gestión establecidos por Renfe Viajeros y una penalización por acceder de forma indebida de 300 euros.",
-    comentario: `“Si el cliente está desprovisto de título de transporte válido o carece de derecho al- guno para las bonificaciones o reducciones obtenidas y accede al tren sin que concu- rran las circunstancias descritas en el párrafo 1.1 anterior, deberá abonar el importe del título de transporte del trayecto correspondiente al previo de referencia o a la Tarifa General/Base, incluyendo los gastos de gestión establecidos por Renfe Viajeros, además de las siguientes penalizaciones por acceder al tren de forma indebida:
+    comentario: `“Si el cliente está desprovisto de título de transporte válido o carece de derecho alguno para las bonificaciones o reducciones obtenidas y accede al tren sin que concurran las circunstancias descritas en el párrafo 1.1 anterior, deberá abonar el importe del título de transporte del trayecto correspondiente al previo de referencia o a la Tarifa General/Base, incluyendo los gastos de gestión establecidos por Renfe Viajeros, además de las siguientes penalizaciones por acceder al tren de forma indebida:
 - Alta Velocidad-Larga Distancia y Larga Distancia 300 Euros”.`,
   },
   {
@@ -155,7 +155,7 @@ Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, org
       "d) Deberá abonar una penalización de 100 euros en lugar de título de transporte.",
     ],
     correcta: "b) Deberá abonar el importe del título de transporte del trayecto, incluyendo  los gastos de gestión establecidos por Renfe Viajeros y una penalización por acceder de forma indebida de 200 euros.",
-    comentario: `“si el cliente está desprovisto de título de transporte válido o carece de derecho al- guno para las bonificaciones o reducciones obtenidas y accede al tren sin que concu- rran las circunstancias descritas en el párrafo 1.1 anterior, deberá abonar el importe del título de transporte del trayecto correspondiente al previo de referencia o a la Tarifa General/Base, incluyendo los gastos de gestión establecidos por Renfe Viajeros, además de las siguientes penalizaciones por acceder al tren de forma indebida:
+    comentario: `“si el cliente está desprovisto de título de transporte válido o carece de derecho alguno para las bonificaciones o reducciones obtenidas y accede al tren sin que concurran las circunstancias descritas en el párrafo 1.1 anterior, deberá abonar el importe del título de transporte del trayecto correspondiente al previo de referencia o a la Tarifa General/Base, incluyendo los gastos de gestión establecidos por Renfe Viajeros, además de las siguientes penalizaciones por acceder al tren de forma indebida:
 - Alta Velocidad-Larga Distancia y Larga Distancia  301 Euros.
 - Alta Velocidad-Media Distancia 200 euros.
 - Media Distancia Convencional 200 euros.
@@ -170,7 +170,7 @@ Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, org
       "d) Deberá abonar una penalización de 100 euros en lugar de título de transporte.",
     ],
     correcta: "b) Deberá abonar el importe del título de transporte del trayecto, incluyendo    los gastos de gestión establecidos por Renfe Viajeros y una penalización por acceder de forma indebida de 100 euros.",
-    comentario: `“Si el cliente está desprovisto de título de transporte válido o carece de derecho alguno para las bonificaciones o reducciones obtenidas y accede al tren sin que concurran las circunstancias descritas en el párrafo 1.1 anterior, deberá abonar el importe del título de transporte del trayecto correspondiente al previo de referen- cia O a la Tarifa General/Base, incluyendo los gastos de gestión establecidos por Renfe Viajeros, además de las siguientes penalizaciones por acceder al tren de for- ma indebida:
+    comentario: `“Si el cliente está desprovisto de título de transporte válido o carece de derecho alguno para las bonificaciones o reducciones obtenidas y accede al tren sin que concurran las circunstancias descritas en el párrafo 1.1 anterior, deberá abonar el importe del título de transporte del trayecto correspondiente al previo de referencia O a la Tarifa General/Base, incluyendo los gastos de gestión establecidos por Renfe Viajeros, además de las siguientes penalizaciones por acceder al tren de forma indebida:
 - Alta Velocidad-Larga Distancia y Larga Distancia 302 Euros. :
 - Alta Velocidad-Media Distancia 200 euros.
 - Media Distancia Convencional 200 euros.
@@ -184,8 +184,8 @@ Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, org
       "c) Sí, se aplicará una reducción del 75% de la cantidad a pagar por estas penalizaciones, conforme a las normas, procedimientos particulares y en los canales de venta que se establezcan para cada servicio ferroviario.",
       "d) No, no es posible beneficiarse de ninguna reducción por pronto pago.",
     ],
-    correcta: "b) Sí, se aplicará una reducción del 50% de la cantidad a pagar por estas pena- lizaciones, conforme a las normas, procedimientos particulares y en los canales de venta que se establezcan para cada servicio ferroviario.",
-    comentario: `“Si el abono se realiza en un plazo inferior a 30 días naturales, se aplicará una reduc- ción del 50% de la cantidad a pagar por estas penalizaciones, conforme a las normas,  procedimientos particulares y en los canales de venta que se establezcan para cada servicio ferroviario”,`,
+    correcta: "b) Sí, se aplicará una reducción del 50% de la cantidad a pagar por estas penalizaciones, conforme a las normas, procedimientos particulares y en los canales de venta que se establezcan para cada servicio ferroviario.",
+    comentario: `“Si el abono se realiza en un plazo inferior a 30 días naturales, se aplicará una reducción del 50% de la cantidad a pagar por estas penalizaciones, conforme a las normas,  procedimientos particulares y en los canales de venta que se establezcan para cada servicio ferroviario”,`,
   },
   {
     pregunta: "16. ¿Cuál de los siguientes vehículos no tiene prohibido el acceso a los vehículos de Renfe Viajeros?",
@@ -197,7 +197,7 @@ Nr. 4. Abstenerse de fumar, distribuir publicidad, pegar carteles, mendigar, org
     ],
     correcta: "b) Bicicletas eléctricas.",
     comentario: `“Queda prohibido el acceso a los vehículos con patinetes, monociclos o cualesquiera otros dispositivos de movilidad personal eléctricos o dotados de baterías, por consi-  derarse que constituyen un peligro para la seguridad y el buen funcionamiento de la explotación del transporte y de los viajeros.
-En todo caso, se excluyen de esta prohibición los vehículos para personas con movi- lidad reducida, así como las bicicletas eléctricas”.`,
+En todo caso, se excluyen de esta prohibición los vehículos para personas con movilidad reducida, así como las bicicletas eléctricas”.`,
   },
   {
     pregunta: "17. Si un viajero es obligado a abandonar el tren por haber accedido al mismo con un patinete dotado de batería, ¿tiene derecho al reembolso del precio pagado?",
@@ -240,7 +240,7 @@ En todo caso, se excluyen de esta prohibición los vehículos para personas con 
       "c) La responsabilidad civil en que pueda incurrir Renfe Viajeros por los daños causados a los viajeros y al equipaje no está sujeta a plazo.",
       "d) Cualquier daño causado a los viajeros y al equipaje se presume que es responsabilidad de Renfe Viajeros.",
     ],
-    correcta: "b) Renfe Viajeros tiene garantizada la cobertura de la responsabilidad civil en la que pueda incurrir, en particular, la derivada de los daños causados a los viaje- ros y al equipaje.",
+    correcta: "b) Renfe Viajeros tiene garantizada la cobertura de la responsabilidad civil en la que pueda incurrir, en particular, la derivada de los daños causados a los viajeros y al equipaje.",
     comentario: `“Renfe Viajeros tiene garantizada la cobertura de la responsabilidad civil en la que pueda incurrir, en particular, la derivada de los daños causados a los viajeros y al equipaje”.`,
   },
   {
@@ -274,7 +274,7 @@ En todo caso, se excluyen de esta prohibición los vehículos para personas con 
       "d) Interrupción del viaje.",
     ],
     correcta: "b) Cancelación del viaje.",
-    comentario: `"Se entiende por cancelación del viaje la no realización de este, es decir, la im- posibilidad de que se lleve a cabo en las condiciones previstas en el título de transporte”.
+    comentario: `"Se entiende por cancelación del viaje la no realización de este, es decir, la imposibilidad de que se lleve a cabo en las condiciones previstas en el título de transporte”.
 `,
   },
   {
@@ -296,7 +296,7 @@ En todo caso, se excluyen de esta prohibición los vehículos para personas con 
       "c) A que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas.",
       "d) No tiene derecho a compensación alguna por cancelaciones con esa antelación a la salida.",
     ],
-    correcta: "c) A que se le reintegre el precio pagado o a que se le proporcione el transpor- te en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas.",
+    correcta: "c) A que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas.",
     comentario: `“Sila cancelación se produce en las 48 horas previas a la hora de salida que figura en el billete, el viajero tiene derecho a que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas”.`,
   },
   {
@@ -318,7 +318,7 @@ En todo caso, se excluyen de esta prohibición los vehículos para personas con 
       "c) Se considera retraso el tiempo transcurrido entre la hora programada de llegada del viajero, según el horario publicado, y la hora real de llegada a la estación del destino indicada en el billete, siempre que este no obedezca a circunstancias climatológicas.",
       "d) Se considera retraso el tiempo transcurrido entre la hora anunciada en las pantallas de la estación y la hora real de llegada a la estación del destino indicada en el billete.",
     ],
-    correcta: "a) Se considera retraso el tiempo transcurrido entre la hora programada de lle-  gada del viajero, según el horario publicado, y la hora real de llegada a la esta- ción del destino indicada en el billete.",
+    correcta: "a) Se considera retraso el tiempo transcurrido entre la hora programada de lle-  gada del viajero, según el horario publicado, y la hora real de llegada a la estación del destino indicada en el billete.",
     comentario: `“Se considera retraso el tiempo transcurrido entre la hora programada de llegada del viajero, según el horario publicado, y la hora real de llegada a la estación del destino indicada en el billete”.`,
   },
   {
@@ -329,8 +329,8 @@ En todo caso, se excluyen de esta prohibición los vehículos para personas con 
       "c) A continuar el viaje en el mismo tren.",
       "d) A la concesión de un billete del mismo tipo de servicio al adquirido para consumir en los tres meses siguientes.",
     ],
-    correcta: "d) A la concesión de un billete del mismo tipo de servicio al adquirido para con- sumir en los tres meses siguientes.",
-    comentario: `“Cuando se prevea que el tren saldrá de origen con retraso respecto al horario publi- cado, el cliente tendrá derecho a una de las siguientes opciones:
+    correcta: "d) A la concesión de un billete del mismo tipo de servicio al adquirido para consumir en los tres meses siguientes.",
+    comentario: `“Cuando se prevea que el tren saldrá de origen con retraso respecto al horario publicado, el cliente tendrá derecho a una de las siguientes opciones:
 - Al cambio sin gastos del título de transporte para otro tren u otra fecha.
 -  Alreintegro del precio pagado por el viaje no realizado.
 -  Acontinuar el viaje en el mismo tren”.`,
@@ -380,8 +380,8 @@ El procedimiento terminará con un informe final, que incluirá la denuncia, la 
     ],
     correcta: "d) Retribución de las víctimas.",
     comentario: `“7. Medidas complementarias
--> a) Asistencia psicológica. -En el supuesto de que se haya constatado la existencia de acoso, y a petición de la persona afectada, el Responsable de Psicología Labo- ral de la Empresa determinará la necesidad o no de asistencia psicológica tanto de la persona que haya sido víctima de la conducta de acoso, como de la persona que ha realizado este comportamiento no deseado.
--> b) Restitución de las víctimas. -En el caso de haberse constatado represalias o per- juicios de carácter laboral para la víctima durante el acoso, esta tendrá derecho a ser restituida en las condiciones en que se encontraba antes del mismo, sin perjuicio de las facultades organizativas de la Empresa e igualmente sin perjuicio para la víctima.
+-> a) Asistencia psicológica. -En el supuesto de que se haya constatado la existencia de acoso, y a petición de la persona afectada, el Responsable de Psicología Laboral de la Empresa determinará la necesidad o no de asistencia psicológica tanto de la persona que haya sido víctima de la conducta de acoso, como de la persona que ha realizado este comportamiento no deseado.
+-> b) Restitución de las víctimas. -En el caso de haberse constatado represalias o perjuicios de carácter laboral para la víctima durante el acoso, esta tendrá derecho a ser restituida en las condiciones en que se encontraba antes del mismo, sin perjuicio de las facultades organizativas de la Empresa e igualmente sin perjuicio para la víctima.
 -> c) Seguimiento de incidentes de acoso. -Si en la aplicación del presente Protocolo se produjera alguna duda sobre su interpretación, la Comisión de Igualdad de Oportunidades será competente para la resolución de la misma”.`,
   },
   {
@@ -393,7 +393,7 @@ El procedimiento terminará con un informe final, que incluirá la denuncia, la 
       "d) En su artículo 136.",
     ],
     correcta: "a) En su artículo 14.",
-    comentario: `“En España, la Constitución de 1978 proclama en su artículo 14 el derecho a la igual- dad y la no discriminación por razón de sexo y sobre esta base se construyó la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, considerada esencial en materia de igualdad, ya que sienta las bases, desde diferen- tes campos, para la construcción de una sociedad basada en la igualdad de oportu- nidades entre mujeres y hombres”.`,
+    comentario: `“En España, la Constitución de 1978 proclama en su artículo 14 el derecho a la igualdad y la no discriminación por razón de sexo y sobre esta base se construyó la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, considerada esencial en materia de igualdad, ya que sienta las bases, desde diferentes campos, para la construcción de una sociedad basada en la igualdad de oportunidades entre mujeres y hombres”.`,
   },
   {
     pregunta: "34. ¿Cuál de los siguientes no es un principio rector del Plan de Igualdad del Grupo Renfe?",
@@ -407,8 +407,8 @@ El procedimiento terminará con un informe final, que incluirá la denuncia, la 
     comentario: `“Es un conjunto ordenado de medidas y acciones negociadas con la representación de los trabajadores y las trabajadoras, que se guían por los siguientes principios:
 - Diseñado para todas las personas que conforman la totalidad de la plantilla.
 - Aplica la igualdad de género como estrategia transversal para hacer efectiva la igualdad entre mujeres y hombres.
-- Innovación y mejora continua para la implementación inmediata de medidas co- rrectoras o de prevención.
-- Compromiso de gestión, diálogo e igualdad participativa entre todas las partes implicadas para aportar los recursos necesarios que permitan alcanzar los objeti- vos acordados.
+- Innovación y mejora continua para la implementación inmediata de medidas correctoras o de prevención.
+- Compromiso de gestión, diálogo e igualdad participativa entre todas las partes implicadas para aportar los recursos necesarios que permitan alcanzar los objetivos acordados.
 - Tiene naturaleza correctora, con el objetivo de eliminar discriminaciones futuras por razón de sexo.
 - Es dinámico y abierto a los cambios, en función de las necesidades que vayan surgiendo a partir de su seguimiento y evaluación”.`,
   },
@@ -431,8 +431,8 @@ El procedimiento terminará con un informe final, que incluirá la denuncia, la 
       "c) Es de aplicación en todas las sociedades que conforman el Grupo Renfe y ámbitos geográficos donde las diferentes empresas del Grupo Renfe tengan implantación.",
       "d) Es de aplicación en todas las sociedades que conforman el Grupo Renfe y ámbitos geográficos donde las diferentes empresas del Grupo Renfe tengan implantación y englobará a la totalidad de su plantilla de sexo femenino.",
     ],
-    correcta: "a) Es de aplicación en todas las sociedades que conforman el Grupo Renfe y ám- bitos geográficos donde las diferentes empresas del Grupo Renfe tengan im- plantación y englobará a la totalidad de su plantilla.",
-    comentario: `“Este Plan será de aplicación en todas las sociedades que conforman el Grupo Renfe y ámbitos geográficos donde las diferentes empresas del Grupo Renfe tengan implan- tación y englobará a la totalidad de su plantilla”.`,
+    correcta: "a) Es de aplicación en todas las sociedades que conforman el Grupo Renfe y ámbitos geográficos donde las diferentes empresas del Grupo Renfe tengan implantación y englobará a la totalidad de su plantilla.",
+    comentario: `“Este Plan será de aplicación en todas las sociedades que conforman el Grupo Renfe y ámbitos geográficos donde las diferentes empresas del Grupo Renfe tengan implantación y englobará a la totalidad de su plantilla”.`,
   },
   {
     pregunta: "37. ¿Cuál es la vigencia temporal del Plan de Igualdad del Grupo Renfe?",
@@ -443,7 +443,7 @@ El procedimiento terminará con un informe final, que incluirá la denuncia, la 
       "d) Cuatro años.",
     ],
     correcta: "d) Cuatro años.",
-    comentario: `“El plan establece una vigencia temporal de cuatro años, aunque tomando en considera- ción el sistema de evaluación continua que establece el propio plan, y con la finalidad de que se pueda evaluar el impacto de las acciones concretas y el resultado de las mismas, en tanto si cumplen o no con los objetivos marcados, se considera necesaria una revisión integral del plan una vez transcurridos dos años desde la implantación del mismo”.`,
+    comentario: `“El plan establece una vigencia temporal de cuatro años, aunque tomando en consideración el sistema de evaluación continua que establece el propio plan, y con la finalidad de que se pueda evaluar el impacto de las acciones concretas y el resultado de las mismas, en tanto si cumplen o no con los objetivos marcados, se considera necesaria una revisión integral del plan una vez transcurridos dos años desde la implantación del mismo”.`,
   },
   {
     pregunta: "38. ¿A qué corresponden las siglas MTIASL?",
@@ -501,7 +501,7 @@ F4. Comunicación y aprendizaje (...)  F5. Gestión de riesgos (...)  F6. Compro
       "d) Todas las anteriores son correctas.",
     ],
     correcta: "d) Todas las anteriores son correctas.",
-    comentario: `“Los principios de la Cultura de Seguridad se dirigen a todas las personas que traba- jan en el Grupo Renfe, así como a otras empresas y a sus empleados/as que trabajan para el Grupo, y a organismos o grupos de interés, independientemente de la posi- ción que ocupen y de las funciones que desempeñen”:`,
+    comentario: `“Los principios de la Cultura de Seguridad se dirigen a todas las personas que trabajan en el Grupo Renfe, así como a otras empresas y a sus empleados/as que trabajan para el Grupo, y a organismos o grupos de interés, independientemente de la posición que ocupen y de las funciones que desempeñen”:`,
   },
   {
     pregunta: "43. ¿A quiénes se dirigen los principios de la Cultura de Seguridad del Grupo Renfe?",
@@ -512,9 +512,9 @@ F4. Comunicación y aprendizaje (...)  F5. Gestión de riesgos (...)  F6. Compro
       "d) Todas las anteriores son correctas.",
     ],
     correcta: "d) Todas las anteriores son correctas.",
-    comentario: `“Los principios de la Cultura de Seguridad se dirigen a todas las personas que traba- jan en el Grupo Renfe, así como a otras empresas y a sus empleados/as que trabajan para el Grupo, y a organismos o grupos de interés, independientemente de la posi- ción que ocupen y de las funciones que desempeñen.
+    comentario: `“Los principios de la Cultura de Seguridad se dirigen a todas las personas que trabajan en el Grupo Renfe, así como a otras empresas y a sus empleados/as que trabajan para el Grupo, y a organismos o grupos de interés, independientemente de la posición que ocupen y de las funciones que desempeñen.
 Sociedades: EPE, Viajeros, Mercancías, Fab. y Mant. S. Participadas, Alquiler.
-Organización: Alta dirección, Estructura gestión operación, Mandos intermedios cua- dros, Personal Operativo.
+Organización: Alta dirección, Estructura gestión operación, Mandos intermedios cuadros, Personal Operativo.
 Grupos de interés: ADIF, Sindicatos, Proveedores/as, Socios/as, Puertos del Estado, Otras instituciones”.`,
   },
   {
@@ -527,8 +527,8 @@ Grupos de interés: ADIF, Sindicatos, Proveedores/as, Socios/as, Puertos del Est
     ],
     correcta: "c) Mejora de los sistemas informáticos para garantizar el equilibrio financiero.",
     comentario: `“LE.01. Refuerzo del compromiso y la responsabilidad con los principios de Cultura de Seguridad a fin de generar comportamientos seguros en la operación ferroviaria.
-LE.02. Capacitación de las personas para que puedan afrontar con éxito sus respon- sabilidades en seguridad.
-LE. 03. Implicación de toda la organización en la gestión de los riesgos de la opera- ción ferroviaria: la gestión de los riesgos nos compete a todos y todas.
+LE.02. Capacitación de las personas para que puedan afrontar con éxito sus responsabilidades en seguridad.
+LE. 03. Implicación de toda la organización en la gestión de los riesgos de la operación ferroviaria: la gestión de los riesgos nos compete a todos y todas.
 LE. 04. Mejora de los sistemas de relación con los grupos externos de interés y de la coordinación interna.
 LE.O5. Vigilancia y digitalización”.`,
   },
@@ -541,7 +541,7 @@ LE.O5. Vigilancia y digitalización”.`,
       "d) Mecanismo de Coordinación de Seguridad.",
     ],
     correcta: "b) Plan de Transformación de la Cultura de Seguridad Operacional.",
-    comentario: `“Para transformar la Cultura de Seguridad existente en el Grupo Renfe es necesario actualizar los sistemas de gestión vigentes para incluir los facilitadores que permitan alinear estas subculturas con la Cultura de Seguridad que se desea. EL objetivo del Plan de Transformación de la Cultura de Seguridad Operacional es realizar los cam- bios necesarios para lograr el alineamiento cultural”
+    comentario: `“Para transformar la Cultura de Seguridad existente en el Grupo Renfe es necesario actualizar los sistemas de gestión vigentes para incluir los facilitadores que permitan alinear estas subculturas con la Cultura de Seguridad que se desea. EL objetivo del Plan de Transformación de la Cultura de Seguridad Operacional es realizar los cambios necesarios para lograr el alineamiento cultural”
 `,
   },
   {
@@ -564,7 +564,7 @@ LE.O5. Vigilancia y digitalización”.`,
       "d) Focus groups (foros de discusión).",
     ],
     correcta: "d) Focus groups (foros de discusión).",
-    comentario: `“Los focus groups consisten en la reunión de un conjunto de clientes con el objetivo  de generar una discusión y un espacio de diálogo donde puedan surgir ideas de me- jora de los productos o servicios”.`,
+    comentario: `“Los focus groups consisten en la reunión de un conjunto de clientes con el objetivo  de generar una discusión y un espacio de diálogo donde puedan surgir ideas de mejora de los productos o servicios”.`,
   },
   {
     pregunta: "48. ¿Cómo se denominan las entrevistas en que se busca conocer en mayor profundidad a los clientes y obtener información de primera línea para evaluar la calidad percibida por los diferentes clientes y averiguar el grado de satisfacción, calidad o seguimiento de protocolos de atención?",
@@ -599,7 +599,7 @@ LE.O5. Vigilancia y digitalización”.`,
       "d) Historial del cliente.",
     ],
     correcta: "a) Arquetipo de cliente.",
-    comentario: `“Los arquetipos son una ficha visual que ayuda a empatizar con los clientes de una compañía entendiendo cómo es y lo que vive en su relación con la empresa obte-  niendo el detalle de los elementos de conexión y desconexión, así como los momen- tos clave de la relación”.`,
+    comentario: `“Los arquetipos son una ficha visual que ayuda a empatizar con los clientes de una compañía entendiendo cómo es y lo que vive en su relación con la empresa obte-  niendo el detalle de los elementos de conexión y desconexión, así como los momentos clave de la relación”.`,
   },
   {
     pregunta: "51. Dentro de las Herramientas para el diagnóstico de la Experiencia de Cliente, ¿Cómo se denomina la herramienta que sirve para representar gráficamente el detalle de la relación que viven los clientes con la compañía, a lo largo del tiempo ya través de todos los canales?",
@@ -622,7 +622,7 @@ LE.O5. Vigilancia y digitalización”.`,
       "d) Historial del cliente.",
     ],
     correcta: "c) Mapa de procesos (Service Blueprint).",
-    comentario: `“Lo definimos como una técnica para un análisis holístico, desde la perspectiva del cliente, integrando la estructura y procesos de la compañía, los cuales resultan claves en el ofrecimiento de una experiencia memorable para el cliente. Es una herramienta  que sirve para obtener una fotografía interna de lo que sucede de puertas hacia den- tro y que tiene impacto en el cliente”,`,
+    comentario: `“Lo definimos como una técnica para un análisis holístico, desde la perspectiva del cliente, integrando la estructura y procesos de la compañía, los cuales resultan claves en el ofrecimiento de una experiencia memorable para el cliente. Es una herramienta  que sirve para obtener una fotografía interna de lo que sucede de puertas hacia dentro y que tiene impacto en el cliente”,`,
   },
   {
     pregunta: "53. ¿Con cuál de las siguientes opciones se identifican los modelos de Voz de Cliente?",
@@ -632,8 +632,8 @@ LE.O5. Vigilancia y digitalización”.`,
       "c) Un programa de voz de cliente diseñado para hacer encuestas.",
       "d) Una herramienta de transformación organizacional que se enfoca en establecer los canales para canalizar las opiniones de los clientes.",
     ],
-    correcta: "d) Una herramienta de transformación organizacional que se enfoca en estable- cer los canales para canalizar las opiniones de los clientes.",
-    comentario: `“Un programa de Voz de Cliente es una herramienta de transformación organizacio- nal que se enfoca en establecer los canales para canalizar las opiniones de los clien- tes. Va más allá de tener una herramienta de escucha, es una herramienta de gestión.
+    correcta: "d) Una herramienta de transformación organizacional que se enfoca en establecer los canales para canalizar las opiniones de los clientes.",
+    comentario: `“Un programa de Voz de Cliente es una herramienta de transformación organizacional que se enfoca en establecer los canales para canalizar las opiniones de los clientes. Va más allá de tener una herramienta de escucha, es una herramienta de gestión.
 ¿Qué NO es un programa de voz de cliente?
 - No es hacer encuestas.
 -  Noes diseñar cuestionarios interminables.
@@ -650,7 +650,7 @@ LE.O5. Vigilancia y digitalización”.`,
       "d) Capturar información verdaderamente accionable.",
     ],
     correcta: "a) Configuración del pasillo de cliente.",
-    comentario: `“Para construir un modelo de Voz de Cliente sólido, hay algunos pasos imprescin- dibles que hay que tener en cuenta. El primero es definir un marco estratégico de medición: seleccionar las herramientas cuantitativas y cualitativas que utilizaremos según nuestros objetivos y las fuentes disponibles en la compañía. El siguiente paso importante es capturar información verdaderamente accionable.
+    comentario: `“Para construir un modelo de Voz de Cliente sólido, hay algunos pasos imprescindibles que hay que tener en cuenta. El primero es definir un marco estratégico de medición: seleccionar las herramientas cuantitativas y cualitativas que utilizaremos según nuestros objetivos y las fuentes disponibles en la compañía. El siguiente paso importante es capturar información verdaderamente accionable.
 También hay que asegurar el “Close The Loop” término que se refiere a cerrar el ciclo de retroalimentación garantizando que se tomen medidas adecuadas en respuesta a los comentarios, quejas o sugerencias de los clientes. Por último, es muy importante el apoyo en una tecnología adecuada que permita poder desarrollar un programa de Voz de Cliente potente y avanzado”,`,
   },
   {
@@ -673,7 +673,7 @@ También hay que asegurar el “Close The Loop” término que se refiere a cerr
       "d) Encuesta de satisfacción.",
     ],
     correcta: "a) Métrica.",
-    comentario: `“Una métrica se define como una medida cuantitativa del grado en que una estrate- gia, sistema, componente o proceso cumple un atributo dado, entendiendo como medida una indicación cuantitativa de la extensión, cantidad, dimensión, capacidad o tamaño de algunos atributos de un producto, proceso o servicio”.`,
+    comentario: `“Una métrica se define como una medida cuantitativa del grado en que una estrategia, sistema, componente o proceso cumple un atributo dado, entendiendo como medida una indicación cuantitativa de la extensión, cantidad, dimensión, capacidad o tamaño de algunos atributos de un producto, proceso o servicio”.`,
   },
   {
     pregunta: "57. Dentro de los indicadores clave de rendimiento en la Experiencia de Cliente, ¿con qué término hacemos referencia al tipo especial de métrica que debe estar alineada con una estrategia de comprensión del negocio?",
@@ -695,7 +695,7 @@ También hay que asegurar el “Close The Loop” término que se refiere a cerr
       "d) NPS (Net Promoter Score).",
     ],
     correcta: "d) NPS (Net Promoter Score).",
-    comentario: `“Nr. 1. NPS (Net Promoter Score) (...)  Básicamente el NPS es un índice que mide la propensión a la recomendación de los clientes de una empresa. Consiste en una sola pregunta: ¿con qué probabilidad reco- mendaría el producto o servicio a un familiar o amigo?”`,
+    comentario: `“Nr. 1. NPS (Net Promoter Score) (...)  Básicamente el NPS es un índice que mide la propensión a la recomendación de los clientes de una empresa. Consiste en una sola pregunta: ¿con qué probabilidad recomendaría el producto o servicio a un familiar o amigo?”`,
   },
   {
     pregunta: "59. Para calcular el NPS se pide a los clientes calificar en una escala de:",
@@ -717,7 +717,7 @@ También hay que asegurar el “Close The Loop” término que se refiere a cerr
       "d) NPS (Net Promoter Score).",
     ],
     correcta: "c) CES (Customer Effort Score).",
-    comentario: `“2, CES (Customer Effort Score) (...)  Es un indicador basado en medir y tratar de reducir el esfuerzo que los clientes deben hacer para relacionarse con una compañía, es un indicador muy interesante para me- dir la satisfacción con las interacciones del servicio que vive el cliente”.`,
+    comentario: `“2, CES (Customer Effort Score) (...)  Es un indicador basado en medir y tratar de reducir el esfuerzo que los clientes deben hacer para relacionarse con una compañía, es un indicador muy interesante para medir la satisfacción con las interacciones del servicio que vive el cliente”.`,
   },
   {
     pregunta: "61. Excepto por las causas previstas por la legislación vigente, ¿a qué tendrá derecho el cliente en caso de retraso en la llegada a destino por tiempo igual o superior a 60 minutos?",
@@ -739,12 +739,12 @@ También hay que asegurar el “Close The Loop” término que se refiere a cerr
       "d) Mediante la instrucción y la examinación.",
     ],
     correcta: "b) Mediante la comunicación y la formación.",
-    comentario: `“7.2.4. Programas de sensibilización, información y formación (...)  Divulgación del PIGGR Facilitar el conocimiento del Plan y la adquisición de compe- tencias para alcanzar un cambio cultural en materia de igualdad se materializará a través de dos vías:
+    comentario: `“7.2.4. Programas de sensibilización, información y formación (...)  Divulgación del PIGGR Facilitar el conocimiento del Plan y la adquisición de competencias para alcanzar un cambio cultural en materia de igualdad se materializará a través de dos vías:
 - Comunicación: Elaboración de un programa específico de comunicación y difusión:
 * Planifica los contenidos del Plan.
 *. Establece los canales más adecuados para su difusión y o Asigna las acciones  y su difusión en un calendario de previsiones.
 * Establece y administra los indicadores que sobre esta materia identifica el PIG.
-- Formación: Elaboración de un programa de formación anual específico que de- sarrolle transversalmente competencias en igualdad de género y que aplique la métrica necesaria para evaluar avances y logros.
+- Formación: Elaboración de un programa de formación anual específico que desarrolle transversalmente competencias en igualdad de género y que aplique la métrica necesaria para evaluar avances y logros.
 * Planifica contenidos y cursos que se determinen en función de los perfiles de  la plantilla/público objetivo.
 * Establece las metodologías más eficientes para cada tipo de curso.
 * Establece un calendario de imparticiones.
@@ -759,7 +759,7 @@ También hay que asegurar el “Close The Loop” término que se refiere a cerr
       "d) Análisis de medidas preventivas.",
     ],
     correcta: "c) Ciclo de mejora continua.",
-    comentario: `“Un ciclo de mejora continua debe tener periodicidad anual preferentemente, siendo un proceso iteractivo de ciclos que evalúe la madurez y solidez de la Cultura de Se- guridad durante el Plan de Transformación. Cada ciclo de mejora continua consta de cuatro fases (figura 10) que se describen a continuación (...)”`,
+    comentario: `“Un ciclo de mejora continua debe tener periodicidad anual preferentemente, siendo un proceso iteractivo de ciclos que evalúe la madurez y solidez de la Cultura de Seguridad durante el Plan de Transformación. Cada ciclo de mejora continua consta de cuatro fases (figura 10) que se describen a continuación (...)”`,
   },
   {
     pregunta: "64. En el trato con el cliente, ¿cuál es el mejor complemento para acompañar el aspecto que consiste en ser respetuoso, educado, amable o cortés?",

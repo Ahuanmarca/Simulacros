@@ -40,7 +40,7 @@ const preguntas_2025_04 = [
       "c) El producto AVLO se comercializa en clase Básica, plazas sentadas y con asignación de plaza.",
       "d) El producto AVLO se comercializa en clase Básica, plazas sentadas y sin asignación de plaza.",
     ],
-    correcta: "c) El producto AVLO se comercializa en clase Básica, plazas sentadas y con asig- nación de plaza.",
+    correcta: "c) El producto AVLO se comercializa en clase Básica, plazas sentadas y con asignación de plaza.",
     comentario: `“El producto AVLO se comercializa en clase Básica, plazas sentadas y con asignación de plaza”.`,
   },
   {
@@ -52,7 +52,7 @@ const preguntas_2025_04 = [
       "d) No existen billetes para los trenes AVLO,",
     ],
     correcta: "a) El billete de AVLO es nominativo, imprimiéndose en el billete el nombre del viajero.",
-    comentario: `“Todos los billetes son nominativos, imprimiéndose en el billete el nombre del viaje-  ro, por lo que es obligatorio introducir los datos personales solicitados en el momen- to de la compra”. :`,
+    comentario: `“Todos los billetes son nominativos, imprimiéndose en el billete el nombre del viaje-  ro, por lo que es obligatorio introducir los datos personales solicitados en el momento de la compra”. :`,
   },
   {
     pregunta: "6. ¿Cuál de los siguientes animales no está permitido en el servicio de AVLO?",
@@ -63,7 +63,7 @@ const preguntas_2025_04 = [
       "d) Conejos.",
     ],
     correcta: "c) Serpientes.",
-    comentario: `“Se admite un animal de compañía por viajero, siendo las mascotas admitidas: pe- rros, gatos, hurones, aves no de corral, cobayas, hámsteres y conejos”.`,
+    comentario: `“Se admite un animal de compañía por viajero, siendo las mascotas admitidas: perros, gatos, hurones, aves no de corral, cobayas, hámsteres y conejos”.`,
   },
   {
     pregunta: "7. ¿Qué peso máximo no debe exceder la mascota que porte el viajero en el servicio de AVLO?",
@@ -74,7 +74,7 @@ const preguntas_2025_04 = [
       "d) No debe exceder de 25 kg.",
     ],
     correcta: "b) No debe exceder de 10 kg.",
-    comentario: `“El peso máximo no debe exceder de 10 kg y el viaje lo deben efectuar obligato- riamente y durante todo el trayecto dentro de una jaula, transportín u otro tipo de contenedor cerrado, sin ocupar una plaza de asiento, a los pies o encima del viajero”.`,
+    comentario: `“El peso máximo no debe exceder de 10 kg y el viaje lo deben efectuar obligatoriamente y durante todo el trayecto dentro de una jaula, transportín u otro tipo de contenedor cerrado, sin ocupar una plaza de asiento, a los pies o encima del viajero”.`,
   },
   {
     pregunta: "8. El servicio CombinadoCercanías permite la utilización gratuita de los servicios de Cercanías, tanto en origen como en destino, en combinación con:",
@@ -85,7 +85,7 @@ const preguntas_2025_04 = [
       "d) Todas las anteriores son correctas.",
     ],
     correcta: "d) Todas las anteriores son correctas.",
-    comentario: `“CombinadoCercanías permite, con la compra de un billete AVE, Alvia, Euromed o In- tercity, la utilización gratuita de los servicios de Cercanías, tanto en origen como en destino, mediante: (...)”.`,
+    comentario: `“CombinadoCercanías permite, con la compra de un billete AVE, Alvia, Euromed o Intercity, la utilización gratuita de los servicios de Cercanías, tanto en origen como en destino, mediante: (...)”.`,
   },
   {
     pregunta: "9. En el servicio CombinadoCercanías, ¿durante qué periodo de tiempo, previo a la hora de salida de origen y siguiente a la hora de llegada a destino del tren AVE, Alvia, Euromed o Intercity, puede utilizarse el billete de Cercanías?",
@@ -108,15 +108,15 @@ const preguntas_2025_04 = [
     ],
     correcta: "a) Renfecitos.",
     comentario: `“A partir del 26 de junio de 2024 se cambia la denominación de los Puntos Renfe a “Renfecitos”, manteniendo su valor 1 Punto Renfe = 1 Renfecito. Esta sustitución se irá efectuando de forma paulatina, por lo que habrá soportes en los que por algún tiempo seguirán mostrándose las antiguas denominaciones”.
----------- TO FIX ----------`,
+`,
   },
   {
-    pregunta: "11. ¿Cuál de las siguientes opciones no pertenece a uno de los niveles de la tarjeta Más Renfe? Tarjeta Más Renfe Clásica. Tarjeta Más Renfe Plata. Tarjeta Más Renfe Oro. Tarjeta Más Renfe Diamante. a b C ao? E d =-",
+    pregunta: "11. ¿Cuál de las siguientes opciones no pertenece a uno de los niveles de la tarjeta Más Renfe?",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) Tarjeta Más Renfe Clásica.",
+      "b) Tarjeta Más Renfe Plata.",
+      "c) Tarjeta Más Renfe Oro.",
+      "d) Tarjeta Más Renfe Diamante.",
     ],
     correcta: "d) Tarjeta Más Renfe Diamante.",
     comentario: `“Niveles de la Tarjeta Más Renfe:
@@ -134,7 +134,7 @@ const preguntas_2025_04 = [
       "d) Entre 3.000 y 6.000.-€.",
     ],
     correcta: "b) Entre 1.000 y 3.000.-€.",
-    comentario: `“Tarjeta Más Renfe Plata  El Titular que realice un consumo entre 1.000 y 3.000 € en un periodo máximo de 12 meses consecutivos en viajes bonificables, pasará a ser Titular de la Tarjeta Más Renfe Plata, que recibirá automáticamente en su domicilio en formato físico (plástico), es- tando también disponible en formato PDF/PassBook a través de la página web de Renfe, apartado específico del Programa de Fidelización”`,
+    comentario: `“Tarjeta Más Renfe Plata  El Titular que realice un consumo entre 1.000 y 3.000 € en un periodo máximo de 12 meses consecutivos en viajes bonificables, pasará a ser Titular de la Tarjeta Más Renfe Plata, que recibirá automáticamente en su domicilio en formato físico (plástico), estando también disponible en formato PDF/PassBook a través de la página web de Renfe, apartado específico del Programa de Fidelización”`,
   },
   {
     pregunta: "13. ¿En qué periodo de tiempo debe el titular consumir más de 3.000.-€ para ser beneficiario de la Tarjeta Más Renfe Oro?",
@@ -145,7 +145,7 @@ const preguntas_2025_04 = [
       "d) En un periodo máximo de 16 meses.",
     ],
     correcta: "c) En un periodo máximo de 12 meses.",
-    comentario: `“Tarjeta Más Renfe Oro  El Titular que realice un consumo de más de 3.000 € en un periodo máximo de 12 meses consecutivos en viajes bonificables, pasará a ser Titular de la Tarjeta Más Renfe Oro, que recibirá automáticamente en su domicilio en formato físico (plástico), es- tando también disponible en formato PDF/PassBook a través de la página web www.
+    comentario: `“Tarjeta Más Renfe Oro  El Titular que realice un consumo de más de 3.000 € en un periodo máximo de 12 meses consecutivos en viajes bonificables, pasará a ser Titular de la Tarjeta Más Renfe Oro, que recibirá automáticamente en su domicilio en formato físico (plástico), estando también disponible en formato PDF/PassBook a través de la página web www.
 renfe.com, apartado específico del Programa de Fidelización”.`,
   },
   {
@@ -202,7 +202,7 @@ En determinados servicios AVE y Larga Distancia, Renfe ofrece el servicio de “
       "c) El viajero tiene derecho al reintegro del precio pagado por el billete o al cambio sin gastos del título de transporte para otro tren u otra fecha.",
       "d) El viajero no tiene derecho a ningún tipo de compensación por disponer de tiempo suficiente para adquirir otro medio de transporte.",
     ],
-    correcta: "c) El viajero tiene derecho al reintegro del precio pagado por el billete o al cam- bio sin gastos del título de transporte para otro tren u otra fecha.",
+    correcta: "c) El viajero tiene derecho al reintegro del precio pagado por el billete o al cambio sin gastos del título de transporte para otro tren u otra fecha.",
     comentario: `“Opciones del cliente en caso de cancelación del viaje  Si la cancelación se produce antes de las 48 horas, el viajero tiene derecho al reinte-  gro del precio pagado por el billete o al cambio sin gastos del título de transporte para otro tren u otra fecha”.`,
   },
   {
@@ -213,7 +213,7 @@ En determinados servicios AVE y Larga Distancia, Renfe ofrece el servicio de “
       "c) El viajero tiene derecho a que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas.",
       "d) El viajero no tiene derecho a ningún tipo de compensación por disponer de tiempo suficiente para adquirir otro medio de transporte.",
     ],
-    correcta: "c) El viajero tiene derecho a que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condicio- nes equivalentes a las pactadas.",
+    correcta: "c) El viajero tiene derecho a que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas.",
     comentario: `“Si la cancelación se produce en las 48 horas previas a la hora de salida que figura en el billete, el viajero tiene derecho a que se le reintegre el precio pagado o a que se le proporcione el transporte en otro tren u otro modo de transporte en condiciones equivalentes a las pactadas”.`,
   },
   {
@@ -258,7 +258,7 @@ En determinados servicios AVE y Larga Distancia, Renfe ofrece el servicio de “
       "d) A ADIF.",
     ],
     correcta: "b) A los Centros de Gestión.",
-    comentario: `“Gestión de reclamaciones  Los Centros de Gestión serán los responsables de decidir y comunicar en cada mo- mento, y en los casos relevantes en coordinación con los responsables de las Geren- cias y la Dirección de Experiencia de Cliente y Accesibilidad, la incidencia que puede ser objeto de indemnización”.`,
+    comentario: `“Gestión de reclamaciones  Los Centros de Gestión serán los responsables de decidir y comunicar en cada momento, y en los casos relevantes en coordinación con los responsables de las Gerencias y la Dirección de Experiencia de Cliente y Accesibilidad, la incidencia que puede ser objeto de indemnización”.`,
   },
   {
     pregunta: "24. ¿Quiénes pueden adquirir la Tarjeta Dorada?",
@@ -270,7 +270,7 @@ En determinados servicios AVE y Larga Distancia, Renfe ofrece el servicio de “
     ],
     correcta: "c) Los mayores de 60 años, pensionistas y personas con discapacidades importantes.",
     comentario: `“Descripción:
-Es una tarjeta nominativa e intransferible, que pueden adquirir los mayores de 60  años, pensionistas y personas con discapacidades importantes, que da derecho a ob- tener descuentos en las condiciones establecidas”,`,
+Es una tarjeta nominativa e intransferible, que pueden adquirir los mayores de 60  años, pensionistas y personas con discapacidades importantes, que da derecho a obtener descuentos en las condiciones establecidas”,`,
   },
   {
     pregunta: "25. ¿Cuál es el precio de compra o renovación de la Tarjeta Dorada por periodo de un año?",
@@ -282,7 +282,7 @@ Es una tarjeta nominativa e intransferible, que pueden adquirir los mayores de 6
     ],
     correcta: "b) 6 euros.",
     comentario: `“Precio:
-Los precios por compra o renovación de la tarjeta, en función de su periodo de vali- dez, son los siguientes:
+Los precios por compra o renovación de la tarjeta, en función de su periodo de validez, son los siguientes:
 =  laño:6euros.
 -  2años: 12 euros.
 -  3años: 15 euros (ahorro del 16%)”.`,
@@ -339,8 +339,8 @@ Los precios por compra o renovación de la tarjeta, en función de su periodo de
       "c) De 10 representantes, 8 por la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y 2 por la parte empresarial.",
       "d) De 10 representantes, 2 por la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y 8 por la parte empresarial.",
     ],
-    correcta: "b) De 8 representantes por cada una de las partes, estando constituida la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y distribuidos de manera proporcional a la representación que os- tentan en el Grupo.",
-    comentario: `“7.3. Procedimiento de modificación e interpretación del PIGGR (...)  La comisión de igualdad se compone de 8 representantes por cada una de las partes, estando constituida la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y distribuidos de manera proporcional a la repre- sentación que ostentan en el Grupo, en función de los resultados electorales y de acuerdo al Convenio Colectivo en vigor”.`,
+    correcta: "b) De 8 representantes por cada una de las partes, estando constituida la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y distribuidos de manera proporcional a la representación que ostentan en el Grupo.",
+    comentario: `“7.3. Procedimiento de modificación e interpretación del PIGGR (...)  La comisión de igualdad se compone de 8 representantes por cada una de las partes, estando constituida la parte social con las organizaciones sindicales pertenecientes al Comité General del Grupo Renfe y distribuidos de manera proporcional a la representación que ostentan en el Grupo, en función de los resultados electorales y de acuerdo al Convenio Colectivo en vigor”.`,
   },
   {
     pregunta: "31. ¿Cómo se denominan las medidas específicas, aplicables mientras subsista la desigualdad, aplicables en favor de las mujeres para corregir situaciones de desigualdad respecto a los hombres?",
@@ -352,7 +352,7 @@ Los precios por compra o renovación de la tarjeta, en función de su periodo de
     ],
     correcta: "c) Acción positiva.",
     comentario: `“8. Anexo: Glosario de términos.
-Acción Positiva  Son medidas específicas en favor de las mujeres para corregir situaciones de des- igualdad respecto a los hombres. El fi n es hacer efectivo el derecho constitucional a la igualdad. Son acciones temporales —aplicables mientras subsista la desigual- dad—, habrán de ser razonables y proporcionadas en relación a su objetivo. (art. 11 LOIEMH). (P. ej. “En igualdad de condiciones se priorizará la contratación de mujeres en aquellos puestos de trabajo en los que se encuentren subrepresentadas”)”.`,
+Acción Positiva  Son medidas específicas en favor de las mujeres para corregir situaciones de desigualdad respecto a los hombres. El fi n es hacer efectivo el derecho constitucional a la igualdad. Son acciones temporales —aplicables mientras subsista la desigualdad—, habrán de ser razonables y proporcionadas en relación a su objetivo. (art. 11 LOIEMH). (P. ej. “En igualdad de condiciones se priorizará la contratación de mujeres en aquellos puestos de trabajo en los que se encuentren subrepresentadas”)”.`,
   },
   {
     pregunta: "32. ¿Con qué concepto se hace referencia a las diferencias salariales entre mujeres y hombres, tanto en el desempeño de trabajos iguales como la producida en los trabajos “feminizados”?",
@@ -375,18 +375,18 @@ Acción Positiva  Son medidas específicas en favor de las mujeres para corregir
     ],
     correcta: "b) Brecha tecnológica.",
     comentario: `“Brecha tecnológica  Se utiliza para designar las desigualdades entre mujeres y hombres en la formación y en el uso de las nuevas tecnologías”..
----------- TO FIX ----------`,
+`,
   },
   {
-    pregunta: "34. ¿Con qué hacemos referencia a propiciar las condiciones para lograr un adecuado equilibrio entre las responsabilidades personales, familiares y laborales? — a b C d Descanso personal. Adaptación del puesto de trabajo. Equiparación. Conciliación.",
+    pregunta: "34. ¿Con qué hacemos referencia a propiciar las condiciones para lograr un adecuado equilibrio entre las responsabilidades personales, familiares y laborales?",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) Descanso personal.",
+      "b) Adaptación del puesto de trabajo.",
+      "c) Equiparación.",
+      "d) Conciliación.",
     ],
     correcta: "d) Conciliación.",
-    comentario: `“Conciliación Supone propiciar las condiciones para lograr un adecuado equilibrio entre las res- ponsabilidades personales, familiares y laborales”.`,
+    comentario: `“Conciliación Supone propiciar las condiciones para lograr un adecuado equilibrio entre las responsabilidades personales, familiares y laborales”.`,
   },
   {
     pregunta: "35. ¿Cómo se denomina a la recogida de datos e información estadística por sexo, que hace posible un análisis comparativo de la situación de las mujeres respecto a la de los hombres?",
@@ -397,7 +397,7 @@ Acción Positiva  Son medidas específicas en favor de las mujeres para corregir
       "d) Datos binarios.",
     ],
     correcta: "a) Datos desagregados/desglosados por sexo.",
-    comentario: `“Datos desagregados/desglosados por sexo  Recogida de datos e información estadística por sexo, que hace posible un análisis comparativo de la situación de las mujeres respecto a la de los hombres. El uso de        estos datos revela dónde se encuentran y cuáles son las posibles causas de discrimi- nación o desigualdad".`,
+    comentario: `“Datos desagregados/desglosados por sexo  Recogida de datos e información estadística por sexo, que hace posible un análisis comparativo de la situación de las mujeres respecto a la de los hombres. El uso de        estos datos revela dónde se encuentran y cuáles son las posibles causas de discriminación o desigualdad".`,
   },
   {
     pregunta: "36. ¿Con qué termino se denomina la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable?",
@@ -430,7 +430,7 @@ Acción Positiva  Son medidas específicas en favor de las mujeres para corregir
       "d) Equilibrio de género.",
     ],
     correcta: "d) Equilibrio de género.",
-    comentario: `“Equilibrio de género  Se refiere a la participación de aproximadamente el mismo número de mujeres y hombres dentro de una actividad u organización. Algunos ejemplos son: represen- taciones en comités, estructuras de toma de decisiones o proporción de mujeres y hombres en la plantilla”.`,
+    comentario: `“Equilibrio de género  Se refiere a la participación de aproximadamente el mismo número de mujeres y hombres dentro de una actividad u organización. Algunos ejemplos son: representaciones en comités, estructuras de toma de decisiones o proporción de mujeres y hombres en la plantilla”.`,
   },
   {
     pregunta: "39. ¿Cuál de las siguientes no es una de las cuatro fases de que consta el Ciclo de mejora continua?",
@@ -441,7 +441,7 @@ Acción Positiva  Son medidas específicas en favor de las mujeres para corregir
       "d) Gestión del riesgo.",
     ],
     correcta: "d) Gestión del riesgo.",
-    comentario: `“Un ciclo de mejora continua debe tener periodicidad anual preferentemente, siendo un proceso iteractivo de ciclos que evalúe la madurez y solidez de la Cultura de Se- guridad durante el Plan de Transformación. Cada ciclo de mejora continua consta de cuatro fases (figura 10) que se describen a continuación.
+    comentario: `“Un ciclo de mejora continua debe tener periodicidad anual preferentemente, siendo un proceso iteractivo de ciclos que evalúe la madurez y solidez de la Cultura de Seguridad durante el Plan de Transformación. Cada ciclo de mejora continua consta de cuatro fases (figura 10) que se describen a continuación.
 Fase 1. Análisis de la cultura.
 Fase 2. Diagnóstico de la cultura.
 Fase 3. Planificación de mejoras.
@@ -490,11 +490,11 @@ Fase 4. Implantación de actividades”.`,
       "c) Un comportamiento ejemplarizante mediante la coerción e imposición de medidas disciplinarias en orden a asegurar el estricto cumplimiento de las medidas de seguridad.",
       "d) Un comportamiento ejemplarizante pero consciente de los limitados recursos destinados a la seguridad y, por ende, del carácter falible de las medidas.",
     ],
-    correcta: "a) Un comportamiento ejemplarizante acorde con las responsabilidades de se- guridad a todos los niveles de la organización y especialmente, del personal directivo en la gestión de los recursos y en la organización.",
+    correcta: "a) Un comportamiento ejemplarizante acorde con las responsabilidades de seguridad a todos los niveles de la organización y especialmente, del personal directivo en la gestión de los recursos y en la organización.",
     comentario: `“Un ejercicio del liderazgo efectivo, tanto directivo como operativo.
-Posibles resistencias: falta de capacitación o desinterés para asumir las responsabili- dades en materia de seguridad.
+Posibles resistencias: falta de capacitación o desinterés para asumir las responsabilidades en materia de seguridad.
 Medidas: formación y motivación de las personas.
-Resultados deseados: un comportamiento ejemplarizante acorde con las responsa- bilidades de seguridad a todos los niveles de la organización y especialmente, del personal directivo en la gestión de los recursos y en la organización”.`,
+Resultados deseados: un comportamiento ejemplarizante acorde con las responsabilidades de seguridad a todos los niveles de la organización y especialmente, del personal directivo en la gestión de los recursos y en la organización”.`,
   },
   {
     pregunta: "44. ¿Cuál es la posible resistencia al cambio dentro del ámbito de la distribución de funciones y competencias de seguridad en todos los niveles de la organización?",
@@ -570,19 +570,19 @@ Posibles resistencias: falta de conocimientos en gestión de riesgos e incomodid
       "d) Feedback web.",
     ],
     correcta: "c) Experiencia de Cliente Digital.",
-    comentario: `“La Experiencia de Cliente Digital se refiere a una interacción entre un usuario/clien- te y una organización a través de tecnologías digitales como: sitios web, aplicaciones móviles, sitios de comercio electrónico, redes sociales y otros dispositivos inteligentes”.
----------- TO FIX ----------`,
+    comentario: `“La Experiencia de Cliente Digital se refiere a una interacción entre un usuario/cliente y una organización a través de tecnologías digitales como: sitios web, aplicaciones móviles, sitios de comercio electrónico, redes sociales y otros dispositivos inteligentes”.
+`,
   },
   {
-    pregunta: "50. ¿Cómo se denomina la entrega por la empresa de una experiencia unificada, integrada y conectada a través de todos los canales, ya sea que el cliente esté interactuando desde un dispositivo electrónico o en un lugar físico? a b C d _— Omnicanalidad. Soporte electrónico. Experiencia de Cliente Digital. Entorno digital.",
+    pregunta: "50. ¿Cómo se denomina la entrega por la empresa de una experiencia unificada, integrada y conectada a través de todos los canales, ya sea que el cliente esté interactuando desde un dispositivo electrónico o en un lugar físico?",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) Omnicanalidad.",
+      "b) Soporte electrónico.",
+      "c) Experiencia de Cliente Digital.",
+      "d) Entorno digital.",
     ],
     correcta: "a) Omnicanalidad.",
-    comentario: `“Hoy en día es de vital importancia que las empresas estén y se adapten a todos los canales, asegurando la OMNICANALIDAD: entrega de una experiencia unificada, integrada y conectada a través de todos los canales, ya sea que el cliente esté interac- tuando desde un dispositivo electrónico o en un lugar físico”.`,
+    comentario: `“Hoy en día es de vital importancia que las empresas estén y se adapten a todos los canales, asegurando la OMNICANALIDAD: entrega de una experiencia unificada, integrada y conectada a través de todos los canales, ya sea que el cliente esté interactuando desde un dispositivo electrónico o en un lugar físico”.`,
   },
   {
     pregunta: "51. ¿Con qué término nos referimos a la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana?",
@@ -593,7 +593,7 @@ Posibles resistencias: falta de conocimientos en gestión de riesgos e incomodid
       "d) Recursos 5G.",
     ],
     correcta: "c) Inteligencia Artificial (IA).",
-    comentario: `“La Inteligencia Artificial (IA) se refiere a la capacidad de las máquinas para realizar ta- reas que normalmente requieren inteligencia humana. Esto incluye la capacidad de aprender de la experiencia, adaptarse a nuevas situaciones, comprender y responder al lenguaje natural y procesar grandes cantidades de datos de manera eficiente”:`,
+    comentario: `“La Inteligencia Artificial (IA) se refiere a la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana. Esto incluye la capacidad de aprender de la experiencia, adaptarse a nuevas situaciones, comprender y responder al lenguaje natural y procesar grandes cantidades de datos de manera eficiente”:`,
   },
   {
     pregunta: "52. ¿Con qué término denominamos el asistente virtual diseñado para ayudar a los clientes a encontrar y comprar productos con el que los clientes pueden interactuar?",
@@ -604,7 +604,7 @@ Posibles resistencias: falta de conocimientos en gestión de riesgos e incomodid
       "d) Soporte electrónico.",
     ],
     correcta: "b) Chatbots.",
-    comentario: `“Otro ejemplo es el chatbot de Asistente Virtual de Ikea, diseñado para ayudar a los clientes a encontrar y comprar productos. Los clientes pueden interactuar con el asis- tente para buscar productos, obtener recomendaciones de diseño y recibir asistencia en la planificación de muebles para su hogar”.`,
+    comentario: `“Otro ejemplo es el chatbot de Asistente Virtual de Ikea, diseñado para ayudar a los clientes a encontrar y comprar productos. Los clientes pueden interactuar con el asistente para buscar productos, obtener recomendaciones de diseño y recibir asistencia en la planificación de muebles para su hogar”.`,
   },
   {
     pregunta: "53. ¿Cómo se denomina la capacidad de las empresas para utilizar datos sobre el comportamiento, las preferencias y las características de los clientes para ofrecer experiencias personalizadas y relevantes?",
@@ -615,7 +615,7 @@ Posibles resistencias: falta de conocimientos en gestión de riesgos e incomodid
       "d) Personalización basada en datos.",
     ],
     correcta: "d) Personalización basada en datos.",
-    comentario: `“La personalización basada en datos es otra área donde la tecnología está desem- peñando un papel crucial en la mejora de la Experiencia de Cliente. Se refiere a la capacidad de las empresas para utilizar datos sobre el comportamiento, las prefe- rencias y las características de los clientes para ofrecer experiencias personalizadas y relevantes. Un ejemplo destacado es el enfoque de Amazon en la personalización del comercio electrónico. Utilizando algoritmos de lA, Amazon analiza el historial de compras y navegación de un usuario para generar recomendaciones de productos que se adapten a sus intereses y necesidades”.`,
+    comentario: `“La personalización basada en datos es otra área donde la tecnología está desempeñando un papel crucial en la mejora de la Experiencia de Cliente. Se refiere a la capacidad de las empresas para utilizar datos sobre el comportamiento, las preferencias y las características de los clientes para ofrecer experiencias personalizadas y relevantes. Un ejemplo destacado es el enfoque de Amazon en la personalización del comercio electrónico. Utilizando algoritmos de lA, Amazon analiza el historial de compras y navegación de un usuario para generar recomendaciones de productos que se adapten a sus intereses y necesidades”.`,
   },
   {
     pregunta: "54. ¿Cómo se denomina la herramienta que utiliza datos sobre las compras y preferencias de los clientes para ofrecer ofertas y recompensas personalizadas?",
@@ -626,7 +626,7 @@ Posibles resistencias: falta de conocimientos en gestión de riesgos e incomodid
       "d) Personalización basada en datos.",
     ],
     correcta: "c) Programa de fidelización.",
-    comentario: `“Otro ejemplo es el programa de fidelización de Starbucks, que utiliza datos so- bre las compras y preferencias de los clientes para ofrecer ofertas y recompensas personalizadas. Los clientes reciben ofertas exclusivas y puntos de recompensa basados en sus hábitos de compra y visitas a tiendas, lo que aumenta la lealtad y el compromiso con la marca”.`,
+    comentario: `“Otro ejemplo es el programa de fidelización de Starbucks, que utiliza datos sobre las compras y preferencias de los clientes para ofrecer ofertas y recompensas personalizadas. Los clientes reciben ofertas exclusivas y puntos de recompensa basados en sus hábitos de compra y visitas a tiendas, lo que aumenta la lealtad y el compromiso con la marca”.`,
   },
   {
     pregunta: "55. ¿Cuál de las siguientes no corresponde a las estrategias para la resolución de problemas y conflictos con clientes?",
@@ -648,12 +648,12 @@ Posibles resistencias: falta de conocimientos en gestión de riesgos e incomodid
       "d) No interrumpir, es importante permitir que el cliente exprese sus preocupaciones completamente antes de responder.",
     ],
     correcta: "a) Trasladar al cliente que no es experto en la materia y puede estar equivocado.",
-    comentario: `“Escucha activa: una de las habilidades más importantes en la resolución de pro- blemas y conflictos es la capacidad de escuchar activamente al cliente. Esto implica prestar atención a lo que el cliente está diciendo, mostrando empatía hacia sus pre- ocupaciones y asegurándoles que sus problemas son importantes para la empresa.
+    comentario: `“Escucha activa: una de las habilidades más importantes en la resolución de problemas y conflictos es la capacidad de escuchar activamente al cliente. Esto implica prestar atención a lo que el cliente está diciendo, mostrando empatía hacia sus preocupaciones y asegurándoles que sus problemas son importantes para la empresa.
 Para practicar una escucha activa efectiva:
-- No interrumpir, es importante permitir que el cliente exprese sus preocupacio- nes completamente antes de responder.
-= Validar sus sentimientos, reconocer las emociones del cliente y demostrar empa- tía hacia su situación.
+- No interrumpir, es importante permitir que el cliente exprese sus preocupaciones completamente antes de responder.
+= Validar sus sentimientos, reconocer las emociones del cliente y demostrar empatía hacia su situación.
 - Repetir lo que han dicho, parafrasea lo que el cliente ha dicho para demostrar que se ha entendido correctamente.
-- Hacer preguntas clarificadoras, si no se está seguro de algo, preguntar para obte- ner más información y clarificar la situación”;`,
+- Hacer preguntas clarificadoras, si no se está seguro de algo, preguntar para obtener más información y clarificar la situación”;`,
   },
   {
     pregunta: "57. Dentro de las estrategias para la resolución de problemas y conflictos con clientes, ¿cuál de las siguientes no se encuentra entre las relacionadas con mantener la calma?",
@@ -667,7 +667,7 @@ Para practicar una escucha activa efectiva:
     comentario: `“Mantener la calma: es importante mantener la calma y la compostura, incluso en situaciones difíciles. Esto ayuda a evitar que la situación se agrave y permite abordar el problema de manera más efectiva. Algunas formas de mantener la calma incluyen:
 - Respirar profundamente y relajarse antes de actuar.
 Mantener un tono de voz tranquilo. Hablar en un tono de voz calmado y amable, incluso si el cliente está molesto o enojado.
-Evitar tomarlo como algo personal. Recordar que el cliente está molesto con la si- tuación, no con los empleados que le atienden. Mantener la distancia emocional para poder abordar el problema de manera objetiva”.`,
+Evitar tomarlo como algo personal. Recordar que el cliente está molesto con la situación, no con los empleados que le atienden. Mantener la distancia emocional para poder abordar el problema de manera objetiva”.`,
   },
   {
     pregunta: "58. Dentro de las estrategias para la resolución de problemas y conflictos con clientes, ¿cuál de las siguientes no se encuentra entre las relacionadas con asumir la responsabilidad y reconocer el problema?",
@@ -677,10 +677,10 @@ Evitar tomarlo como algo personal. Recordar que el cliente está molesto con la 
       "c) Proporcionar soluciones concretas para abordar el problema y restaurar la satisfacción del cliente.",
       "d) Tomar medidas correctivas para corregir el error y evitar que vuelva a ocurrir en el futuro.",
     ],
-    correcta: "a) Mostrar educadamente al cliente que el problema ha sido causado por su fal- ta de diligencia, sin que existe un comportamiento reprochable a la empresa.",
-    comentario: `“Asumir la responsabilidad y reconocer el problema: asumir la responsabilidad por los problemas o errores es una parte clave de la resolución efectiva de conflictos. Esto de- muestra al cliente que la empresa se preocupa por su satisfacción, estando dispuestos a hacer lo necesario para solucionar el problema. Al asumir la responsabilidad:
+    correcta: "a) Mostrar educadamente al cliente que el problema ha sido causado por su falta de diligencia, sin que existe un comportamiento reprochable a la empresa.",
+    comentario: `“Asumir la responsabilidad y reconocer el problema: asumir la responsabilidad por los problemas o errores es una parte clave de la resolución efectiva de conflictos. Esto demuestra al cliente que la empresa se preocupa por su satisfacción, estando dispuestos a hacer lo necesario para solucionar el problema. Al asumir la responsabilidad:
 - Ofrecer disculpas sinceras. Reconocer el problema y ofrecer una disculpa sincera por cualquier inconveniente que haya causado al cliente.
-- Proporcionar soluciones concretas para abordar el problema y restaurar la satis- facción del cliente.
+- Proporcionar soluciones concretas para abordar el problema y restaurar la satisfacción del cliente.
 - Tomar medidas correctivas para corregir el error y evitar que vuelva a ocurrir en el futuro”.`,
   },
   {
@@ -691,10 +691,10 @@ Evitar tomarlo como algo personal. Recordar que el cliente está molesto con la 
       "c) Designar un punto de contacto: designar a una persona o equipo responsable de manejar quejas y reclamaciones para garantizar una respuesta rápida y consistente.",
       "d) Comunicación Transparente: Mantener al cliente informado sobre el progreso de la resolución y proporcionar plazos realistas para la solución del problema.",
     ],
-    correcta: "b) Posponer la respuesta a la reclamación. Es probable que tras haber sido escu- chado el cliente no desee continuar con la misma.",
+    correcta: "b) Posponer la respuesta a la reclamación. Es probable que tras haber sido escuchado el cliente no desee continuar con la misma.",
     comentario: `“Algunas estrategias para una respuesta rápida y proactiva incluyen:
 - Establecer procedimientos claros: tener un proceso claro y bien definido para manejar quejas y reclamaciones, incluyendo tiempos de respuesta específicos.
-- Designar un punto de contacto: designar a una persona o equipo responsable  de manejar quejas y reclamaciones para garantizar una respuesta rápida y con- sistente.
+- Designar un punto de contacto: designar a una persona o equipo responsable  de manejar quejas y reclamaciones para garantizar una respuesta rápida y consistente.
 - Comunicación Transparente: Mantener al cliente informado sobre el progreso de la resolución y proporcionar plazos realistas para la solución del problema”.`,
   },
   {
@@ -732,7 +732,7 @@ Pase personal e intransferible que permite realizar 4, 6, 8, o 10 viajes en los 
       "d) Orientación sexual.",
     ],
     correcta: "b) Género.",
-    comentario: `“Género  Es un concepto que hace referencia a las diferencias sociales (por oposición a las bio- lógicas) entre hombres y mujeres que han sido aprendidas, cambian con el tiempo y presentan grandes variaciones tanto entre diversas culturas como dentro de una misma cultura”.`,
+    comentario: `“Género  Es un concepto que hace referencia a las diferencias sociales (por oposición a las biológicas) entre hombres y mujeres que han sido aprendidas, cambian con el tiempo y presentan grandes variaciones tanto entre diversas culturas como dentro de una misma cultura”.`,
   },
   {
     pregunta: "63. ¿Cuál es la posible resistencia al cambio en la vigilancia efectiva a través de indicadores de implantación y eficacia?",
@@ -744,7 +744,7 @@ Pase personal e intransferible que permite realizar 4, 6, 8, o 10 viajes en los 
     ],
     correcta: "d) Falta de capacidad para la definición y gestión de indicadores, menosprecio hacia la recogida de datos y la importancia de los indicadores que se obtienen de esos datos.",
     comentario: `“Una vigilancia efectiva a través de indicadores de implantación y eficacia.
-Posibles resistencias: falta de capacidad para la definición y gestión de indicadores, menosprecio hacia la recogida de datos y la importancia de los indicadores que se obtienen de esos datos, dificultad en la obtención de indicadores por la falta de in- tegración entre las aplicaciones de gestión y las fuentes de información relaciona- das con la operación y su vigilancia, falta de fuentes de información útiles, falta de confianza en los indicadores, obstrucción de la información necesaria para realizar el control de su desempeño profesional y bloqueo de los canales de información para convertirse en fuente de consulta imprescindible”.`,
+Posibles resistencias: falta de capacidad para la definición y gestión de indicadores, menosprecio hacia la recogida de datos y la importancia de los indicadores que se obtienen de esos datos, dificultad en la obtención de indicadores por la falta de integración entre las aplicaciones de gestión y las fuentes de información relacionadas con la operación y su vigilancia, falta de fuentes de información útiles, falta de confianza en los indicadores, obstrucción de la información necesaria para realizar el control de su desempeño profesional y bloqueo de los canales de información para convertirse en fuente de consulta imprescindible”.`,
   },
   {
     pregunta: "64. ¿Cuál de las siguientes no se encuentra entre estrategias efectivas que las empresas pueden utilizar para fidelizar a sus clientes y fortalecer su relación con ellos a largo plazo?",
@@ -755,10 +755,10 @@ Posibles resistencias: falta de capacidad para la definición y gestión de indi
       "d) Todas las anteriores son correctas.",
     ],
     correcta: "d) Todas las anteriores son correctas.",
-    comentario: `“Existen varias estrategias efectivas que las empresas pueden utilizar para fidelizar a  sus clientes y fortalecer su relación con ellos a largo plazo. Algunas de estas estrate- gias incluyen:
-Ofrecer programas de lealtad que recompensen a los clientes por realizar com- pras repetidas y fomenten la retención a largo plazo.
+    comentario: `“Existen varias estrategias efectivas que las empresas pueden utilizar para fidelizar a  sus clientes y fortalecer su relación con ellos a largo plazo. Algunas de estas estrategias incluyen:
+Ofrecer programas de lealtad que recompensen a los clientes por realizar compras repetidas y fomenten la retención a largo plazo.
 Utilizar datos de clientes para ofrecer ofertas y promociones personalizadas que se adapten a sus necesidades y preferencias individuales.
-Mantener una comunicación proactiva con los clientes a través de correos elec- trónicos, mensajes de texto y redes sociales para mantenerlos informados sobre nuevas ofertas, productos y eventos.
+Mantener una comunicación proactiva con los clientes a través de correos electrónicos, mensajes de texto y redes sociales para mantenerlos informados sobre nuevas ofertas, productos y eventos.
 Solicitar retroalimentación regularmente a los clientes sobre su experiencia con .to . ., . cd Y la empresa y utilizar esa información para mejorar los productos y servicios”.`,
   },
 ];

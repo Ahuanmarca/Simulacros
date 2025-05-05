@@ -27,15 +27,15 @@ const preguntas_2025_05 = [
 - Enchufes en cada asiento para carga de teléfonos y ordenadores.
 - Servicio PlayRenfe, conectividad, contenidos y servicios digitales bajo demanda en el propio dispositivo del cliente.
 —- Atención a bordo.
----------- TO FIX ----------`,
+`,
   },
   {
-    pregunta: "3. AVLO puede ofrecer el siguiente Servicio en Tierra: Bar Móvil. Enchufes en cada asiento para carga de teléfonos y ordenadores. Servicio PlayRenfe y conexión. Servicio de asistencia para personas con discapacidad o movilidad reducida. — a b c d a E",
+    pregunta: "3. AVLO puede ofrecer el siguiente Servicio en Tierra:",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) Bar Móvil.",
+      "b) Enchufes en cada asiento para carga de teléfonos y ordenadores.",
+      "c) Servicio PlayRenfe y conexión.",
+      "d) Servicio de asistencia para personas con discapacidad o movilidad reducida.",
     ],
     correcta: "d) Servicio de asistencia para personas con discapacidad o movilidad reducida.",
     comentario: `AVLO ofrece los siguientes Servicios en Tierra:
@@ -185,7 +185,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "d) Todas las respuestas anteriores son correctas.",
     ],
     correcta: "d) Todas las respuestas anteriores son correctas.",
-    comentario: `Tienen consideración de equipaje las maletas, bolsos de mano, maletines porta orde- nadores, sillas y coches de bebé plegados, y también plegados y dentro de su funda los patinetes eléctricos y las bicicletas urbanas.`,
+    comentario: `Tienen consideración de equipaje las maletas, bolsos de mano, maletines porta ordenadores, sillas y coches de bebé plegados, y también plegados y dentro de su funda los patinetes eléctricos y las bicicletas urbanas.`,
   },
   {
     pregunta: "16. Se trata de un equipaje de mano gratuito incluido en el billete de AVLO:",
@@ -195,7 +195,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "c) 1 bolso de mano, maletín o mochila de dimensiones máximas 100x27x54 cm.",
       "d) 1 maleta de cabina, o un patinete plegado dentro de su funda, de dimensiones máximas 55x35x25 cm.",
     ],
-    correcta: "b) 1 maleta de cabina, o un patinete plegado dentro de su funda, de dimensio- nes máximas 55x35x25 cm.",
+    correcta: "b) 1 maleta de cabina, o un patinete plegado dentro de su funda, de dimensiones máximas 55x35x25 cm.",
     comentario: `Equipaje de mano gratuito incluido en el billete
 - 1 bolso de mano, maletín o mochila de dimensiones máximas 36x27x25 cm y,
 - 1 maleta de cabina, o un patinete plegado dentro de su funda, de dimensiones máximas 55x35X25 cm.`,
@@ -219,8 +219,8 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "c) Siempre que sus dimensiones máximas sean de 45x60x25 cm, o cuyas dimensiones no supere, entre las tres 100 cm.",
       "d) Siempre que sus dimensiones máximas sean de 60x60x40 cm, o cuyas dimensiones no supere, entre las tres 150 cm.",
     ],
-    correcta: "a) Siempre que sus dimensiones máximas sean de 85x60x35 cm, o cuyas dimen- siones no supere, entre las tres 180 cm.",
-    comentario: `Se permitirá un equipaje adicional por viajero, al precio único establecido, siempre que sus dimensiones máximas sean de 85x60x35 cm, o cuyas dimensiones no supe- re, entre las tres 180 cm.`,
+    correcta: "a) Siempre que sus dimensiones máximas sean de 85x60x35 cm, o cuyas dimensiones no supere, entre las tres 180 cm.",
+    comentario: `Se permitirá un equipaje adicional por viajero, al precio único establecido, siempre que sus dimensiones máximas sean de 85x60x35 cm, o cuyas dimensiones no supere, entre las tres 180 cm.`,
   },
   {
     pregunta: "19. La opción de equipajes adicionales:",
@@ -230,7 +230,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "c) Tiene una limitación de 400 equipajes adicionales por cada composición sencilla (800 en doble).",
       "d) Tiene una limitación de 500 equipajes adicionales por cada composición sencilla (1000 en doble).",
     ],
-    correcta: "b) Tiene una limitación de 100 equipajes adicionales por cada composición sen- cilla (200 en doble).",
+    correcta: "b) Tiene una limitación de 100 equipajes adicionales por cada composición sencilla (200 en doble).",
     comentario: `Esta opción tiene una limitación de 100 equipajes adicionales por cada composición sencilla (200 en doble).`,
   },
   {
@@ -242,7 +242,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "d) Se hará por sorteo.",
     ],
     correcta: "c) Se hará por orden de solicitud.",
-    comentario: `La distribución de los espacios para equipajes adicionales se hará por orden de soli- citud, hasta agotar los espacios disponibles.`,
+    comentario: `La distribución de los espacios para equipajes adicionales se hará por orden de solicitud, hasta agotar los espacios disponibles.`,
   },
   {
     pregunta: "21. Todos los menores de 14 años:",
@@ -280,7 +280,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "d) No cuenta con mujeres.",
     ],
     correcta: "b) Por más hombres que mujeres.",
-    comentario: `A diciembre de 2020, la plantilla en la EPE se ha incrementado en 332 personas, dis- minuyendo ligeramente el porcentaje de representación femenina.
+    comentario: `A diciembre de 2020, la plantilla en la EPE se ha incrementado en 332 personas, disminuyendo ligeramente el porcentaje de representación femenina.
 - Hombres 728 (68,87 %)
 - Mujeres 329 (31,13 %)
 - Total 1.057`,
@@ -293,7 +293,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "c) “Mayores de 45 años”.",
       "d) “Mayores de 60 años”.",
     ],
-    correcta: "c) “Mayores de 45 años”,  Un aspecto importante de la plantilla del Grupo Renfe es la edad de sus trabajadoras y trabajadores. Tal y como se observa en las siguientes tablas, en la EPE, la mayor con- centración de personas se produce en el tramo denominado “Mayores de 45 años”, tanto en el análisis de 2017 como en su actualización de 2020.",
+    correcta: "c) “Mayores de 45 años”,  Un aspecto importante de la plantilla del Grupo Renfe es la edad de sus trabajadoras y trabajadores. Tal y como se observa en las siguientes tablas, en la EPE, la mayor concentración de personas se produce en el tramo denominado “Mayores de 45 años”, tanto en el análisis de 2017 como en su actualización de 2020.",
     comentario: ``,
   },
   {
@@ -349,7 +349,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "d) Administrativa, comercialización y postventa.",
     ],
     correcta: "a) Material, Gestión financiera y presupuestaria, asesoría jurídica, desarrollo de negocios y comercialización.",
-    comentario: `La sociedad Renfe Alquiler está dividida en las siguientes áreas: - Material - Gestión  financiera y presupuestaria - Asesoría Jurídica - Desarrollo de Negocios - Comercia- lización.`,
+    comentario: `La sociedad Renfe Alquiler está dividida en las siguientes áreas: - Material - Gestión  financiera y presupuestaria - Asesoría Jurídica - Desarrollo de Negocios - Comercialización.`,
   },
   {
     pregunta: "30. En 2020, en puestos de conducción hay una plantilla del:",
@@ -360,7 +360,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "d) 90 % hombres y 10 % mujeres.",
     ],
     correcta: "a) 70 % hombres y 30 % mujeres.",
-    comentario: `En 2020, siguen siendo los mismos colectivos los que aglutinan al mayor número de personas de Renfe Mercancías, el 72,72 % de la plantilla masculina se encuentra ads- crita al colectivo de conducción, frente al 30,69 % de la plantilla femenina, aumen- tando en este tiempo considerablemente el porcentaje de la plantilla de las mujeres en los puestos de conducción.`,
+    comentario: `En 2020, siguen siendo los mismos colectivos los que aglutinan al mayor número de personas de Renfe Mercancías, el 72,72 % de la plantilla masculina se encuentra adscrita al colectivo de conducción, frente al 30,69 % de la plantilla femenina, aumentando en este tiempo considerablemente el porcentaje de la plantilla de las mujeres en los puestos de conducción.`,
   },
   {
     pregunta: "31. En diciembre de 2020, la plantilla en Renfe Alquiler se incrementó en:",
@@ -404,18 +404,18 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
       "d) K11 y L24.",
     ],
     correcta: "b) K11,L12,L22 y G10.",
-    comentario: `- K11: Maquinista Jefe de Tren. Solo existe una mujer que permaneció en esta ca- tegoría un mes en 2021 al iniciar expatriación en diciembre de 2021. El importe corresponde a un mes y por eso es menor.
-- L12:Delas 2 mujeres que figuran en este colectivo una se incorporó en diciem- bre a esta sociedad.
+    comentario: `- K11: Maquinista Jefe de Tren. Solo existe una mujer que permaneció en esta categoría un mes en 2021 al iniciar expatriación en diciembre de 2021. El importe corresponde a un mes y por eso es menor.
+- L12:Delas 2 mujeres que figuran en este colectivo una se incorporó en diciembre a esta sociedad.
 -  L22: De los 3 registros de situaciones contractuales 2 pertenecen a una misma mujer con dos periodos contractuales diferentes por lo que sus percepciones se dividen entre los dos registros y una tercera tiene una reducción de jornada por guarda legal.
 -  G10:La diferencia es a favor del colectivo mujeres, dado que 2 de los 3 hombres que hay en la categoría solo figuran una parte del año en esta categoría y por tanto el importe efectivo no corresponde a todo el año.
----------- TO FIX ----------`,
+`,
   },
   {
     pregunta: "35. Marca en qué categorías se detecta que puede haber brecha salarial según el Informe de Auditoría Retributiva de Renfe Viajeros:",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
+      "a) G03.",
+      "b) K01.",
+      "c) A1 y A2.",
       "d) Son correctas las respuestas a) y b).",
     ],
     correcta: "d) Son correctas las respuestas a) y b).",
@@ -435,7 +435,7 @@ Se percibirá la diferencia entre el importe del billete original, exceptuando e
 > Enla categoría K20, las mujeres han sido promocionadas durante el 2021, han experimentado un cambio de sociedad o se han incorporado a la compañía en el transcurso del 2021.
 > Enla categoría K03: la única mujer ha estado en situación de IT durante 2021.
 En la categoría K31: la única mujer en esta categoría no ha estado activa durante el 2021 en esta sociedad, pero ha cobrado dietas por objetivos del año anterior.
-En la categoría K32: las dos mujeres en esta categoría han permanecido en situa- ción de Becarias al menos el primer trimestre del año.`,
+En la categoría K32: las dos mujeres en esta categoría han permanecido en situación de Becarias al menos el primer trimestre del año.`,
   },
   {
     pregunta: "37. El Concepto de Cultura de Seguridad surge:",
@@ -446,7 +446,7 @@ En la categoría K32: las dos mujeres en esta categoría han permanecido en situ
       "d) Recientemente.",
     ],
     correcta: "a) En el último tercio del siglo pasado.",
-    comentario: `El concepto de Cultura de Seguridad surge en el último tercio del siglo pasado de- bido al análisis de accidentes ocurridos en los sectores nuclear y petroquímico, y es extendido posteriormente al sector del transporte.`,
+    comentario: `El concepto de Cultura de Seguridad surge en el último tercio del siglo pasado debido al análisis de accidentes ocurridos en los sectores nuclear y petroquímico, y es extendido posteriormente al sector del transporte.`,
   },
   {
     pregunta: "38. El SGS es:",
@@ -458,15 +458,15 @@ En la categoría K32: las dos mujeres en esta categoría han permanecido en situ
     ],
     correcta: "b) El sistema de gestión de seguridad.",
     comentario: `El sistema de gestión de seguridad (SGS) es la gestión del conjunto de medidas que establece la empresa para garantizar que sus operaciones sean seguras.
----------- TO FIX ----------`,
+`,
   },
   {
     pregunta: "39. Es la gestión del conjunto de medidas que establece la empresa para garantizar que sus operaciones sean seguros:",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) El AGF.",
+      "b) EL SGS.",
+      "c) El AB.",
+      "d) LA PEE.",
     ],
     correcta: "b) El SGS.",
     comentario: `El sistema de gestión de seguridad (SGS) es la gestión del conjunto de medidas que establece la empresa para garantizar que sus operaciones sean seguras.`,
@@ -525,15 +525,15 @@ En la categoría K32: las dos mujeres en esta categoría han permanecido en situ
     ],
     correcta: "c) Seis principios.",
     comentario: `El Grupo Renfe ha definido seis principios, acordes a los atributos esenciales de la Declaración de una Cultura de Seguridad Europea firmada en Dubrovnik, que son los cimientos del modelo de Cultura de Seguridad de Grupo.
----------- TO FIX ----------`,
+`,
   },
   {
     pregunta: "45. El Principio de Grupo Renfe, relativo al Compromiso y al Liderazgo es el:",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) P1.",
+      "b) P2.",
+      "c) P5.",
+      "d) P7.",
     ],
     correcta: "b) P2.",
     comentario: `P1 - Seguridad como valor esencial
@@ -563,7 +563,7 @@ P6 - Aprendizaje y mejora continua`,
       "d) 2011.",
     ],
     correcta: "b) 1960.",
-    comentario: `La era de la distribución, que floreció en la década de 1960, se centró en la accesibili- dad y la globalización, con gigantes minoristas como Walmart y marcas automotrices como Toyota, que aprovecharon al máximo los avances en logística y transporte.`,
+    comentario: `La era de la distribución, que floreció en la década de 1960, se centró en la accesibilidad y la globalización, con gigantes minoristas como Walmart y marcas automotrices como Toyota, que aprovecharon al máximo los avances en logística y transporte.`,
   },
   {
     pregunta: "48. Atendiendo a la evolución histórica, la era de la información empezó en el:",
@@ -574,7 +574,7 @@ P6 - Aprendizaje y mejora continua`,
       "d) 2005.",
     ],
     correcta: "b) 1990.",
-    comentario: `La década de 1990 marcó el inicio de la era de la información, donde el acceso y la gestión de datos se convirtieron en un activo estratégico, permitiendo una persona- lización sin precedentes y dando lugar a empresas emblemáticas como Amazon y Google, que capitalizaron el poder de la información para satisfacer las necesidades individuales de los consumidores.`,
+    comentario: `La década de 1990 marcó el inicio de la era de la información, donde el acceso y la gestión de datos se convirtieron en un activo estratégico, permitiendo una personalización sin precedentes y dando lugar a empresas emblemáticas como Amazon y Google, que capitalizaron el poder de la información para satisfacer las necesidades individuales de los consumidores.`,
   },
   {
     pregunta: "49. La conveniencia y la simplicidad en las interacciones de un cliente con una empresa se conocen como:",
@@ -585,7 +585,7 @@ P6 - Aprendizaje y mejora continua`,
       "d) Aproximación.",
     ],
     correcta: "a) Accesibilidad y facilidad de uso.",
-    comentario: `La accesibilidad y facilidad de uso. Los clientes valoran la conveniencia y la simplici- dad en sus interacciones con una empresa.`,
+    comentario: `La accesibilidad y facilidad de uso. Los clientes valoran la conveniencia y la simplicidad en sus interacciones con una empresa.`,
   },
   {
     pregunta: "50. Son técnicas de investigación cualitativa:",
@@ -607,7 +607,7 @@ P6 - Aprendizaje y mejora continua`,
       "d) Los test.",
     ],
     correcta: "b) Los focus groups.",
-    comentario: `Los focus groups consisten en la reunión de un conjunto de clientes con el objetivo  de generar una discusión y un espacio de diálogo donde puedan surgir ideas de me- jora de los productos o servicios.`,
+    comentario: `Los focus groups consisten en la reunión de un conjunto de clientes con el objetivo  de generar una discusión y un espacio de diálogo donde puedan surgir ideas de mejora de los productos o servicios.`,
   },
   {
     pregunta: "52. Buscan obtener información de primera línea para evaluar la calidad percibida por los diferentes clientes y averiguar el grado de satisfacción, calidad o seguimiento de protocolos de atención:",
@@ -640,7 +640,7 @@ P6 - Aprendizaje y mejora continua`,
       "d) La nivelación del cliente.",
     ],
     correcta: "b) El pasillo del cliente.",
-    comentario: `Esta herramienta sirve para detectar los elementos críticos en la relación con el clien- te en el presente, comprendiendo su impacto en la satisfacción, prescripción, lealtad y vinculación. Además, permite diagnosticar la experiencia desde la perspectiva del cliente, evaluando tanto cualitativa como cuantitativamente dónde enfocar esfuer- zos y desarrollar acciones de mejora. Esta herramienta se ha convertido en un recur- so indispensable para la toma de decisiones orientadas a mejorar la Experiencia de Cliente en múltiples empresas de referencia nacional e internacional.`,
+    comentario: `Esta herramienta sirve para detectar los elementos críticos en la relación con el cliente en el presente, comprendiendo su impacto en la satisfacción, prescripción, lealtad y vinculación. Además, permite diagnosticar la experiencia desde la perspectiva del cliente, evaluando tanto cualitativa como cuantitativamente dónde enfocar esfuerzos y desarrollar acciones de mejora. Esta herramienta se ha convertido en un recurso indispensable para la toma de decisiones orientadas a mejorar la Experiencia de Cliente en múltiples empresas de referencia nacional e internacional.`,
   },
   {
     pregunta: "55. Permite diagnosticar la experiencia desde la perspectiva del cliente, evaluando tanto cualitativa como cuantitativamente dónde enfocar esfuerzos y desarrollar acciones de mejora: =_—",
@@ -651,7 +651,7 @@ P6 - Aprendizaje y mejora continua`,
       "d) La nivelación del cliente. ==",
     ],
     correcta: "b) El pasillo del cliente.",
-    comentario: `Esta herramienta sirve para detectar los elementos críticos en la relación con el clien- te en el presente, comprendiendo su impacto en la satisfacción, prescripción, lealtad y vinculación. Además, permite diagnosticar la experiencia desde la perspectiva del cliente, evaluando tanto cualitativa como cuantitativamente dónde enfocar esfuer- zos y desarrollar acciones de mejora. Esta herramienta se ha convertido en un recur- so indispensable para la toma de decisiones orientadas a mejorar la Experiencia de Cliente en múltiples empresas de referencia nacional e internacional.`,
+    comentario: `Esta herramienta sirve para detectar los elementos críticos en la relación con el cliente en el presente, comprendiendo su impacto en la satisfacción, prescripción, lealtad y vinculación. Además, permite diagnosticar la experiencia desde la perspectiva del cliente, evaluando tanto cualitativa como cuantitativamente dónde enfocar esfuerzos y desarrollar acciones de mejora. Esta herramienta se ha convertido en un recurso indispensable para la toma de decisiones orientadas a mejorar la Experiencia de Cliente en múltiples empresas de referencia nacional e internacional.`,
   },
   {
     pregunta: "56. Una técnica para un análisis holístico, desde la perspectiva del cliente, integrando la estructura y procesos de la compañía, los cuales resultan claves en el ofrecimiento de una experiencia memorable para el cliente:",
@@ -674,14 +674,14 @@ P6 - Aprendizaje y mejora continua`,
     ],
     correcta: "c) El mapa de procesos.",
     comentario: `El blueprint es una herramienta que permite visualizar de forma clara y detallada la complejidad de un servicio. Al mismo tiempo, facilita la alineación entre la Experiencia de Cliente y los procesos internos de la compañía, asegurando una integración efectiva entre ambas dimensiones. Este enfoque simultáneo, centrado tanto en las necesidades del cliente como en los objetivos internos de la empresa, permite identificar áreas de mejora y oportunidades de optimización que beneficien a ambas partes, promoviendo así una experiencia de servicio más eficiente y satisfactoria.
----------- TO FIX ----------`,
+`,
   },
   {
     pregunta: "58. Cerrar el ciclo de retroalimentación garantizando que se tomen medidas adecuadas en respuesta a los comentarios, quejas o sugerencias de los clientes se conoce como: Close The Loop.",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
+      "a) Clop.",
+      "b) Rob.",
+      "c) Close The Loop.",
       "d) Todas las respuestas anteriores son correctas.",
     ],
     correcta: "c) Close The Loop.",
@@ -729,18 +729,18 @@ P6 - Aprendizaje y mejora continua`,
       "d) Al tener 500 trabajadores en plantilla debe tener un plan de igualdad.",
     ],
     correcta: "b) Cuenta con un Plan de Igualdad.",
-    comentario: `Aunque la plantilla de la sociedad Renfe Alquiler de Material Ferroviario no es supe- rior a los 50 trabajadores, y por lo tanto no está obligada a la elaboración de un Plan de Igualdad y, por ende, realizar la correspondiente auditoría retributiva, para tener un tratamiento similar a la de las otras sociedades que conforman el Grupo Renfe, se ha elaborado la misma partiendo de su registro retributivo.
----------- TO FIX ----------`,
+    comentario: `Aunque la plantilla de la sociedad Renfe Alquiler de Material Ferroviario no es superior a los 50 trabajadores, y por lo tanto no está obligada a la elaboración de un Plan de Igualdad y, por ende, realizar la correspondiente auditoría retributiva, para tener un tratamiento similar a la de las otras sociedades que conforman el Grupo Renfe, se ha elaborado la misma partiendo de su registro retributivo.
+`,
   },
   {
     pregunta: "63. El Principio de Grupo Renfe, relativo a la Seguridad como valor esencial es:",
     opciones: [
-      "a) [FALTA OPCIÓN A]",
-      "b) [FALTA OPCIÓN B]",
-      "c) [FALTA OPCIÓN C]",
-      "d) [FALTA OPCIÓN D]",
+      "a) P1.",
+      "b) P2.",
+      "c) P5.",
+      "d) P7.",
     ],
-    correcta: "a) JPpi:",
+    correcta: "a) P1.",
     comentario: `P1 - Seguridad como valor esencial
 P2 - Compromiso y liderazgo
 P3 - Responsabilidad personal
