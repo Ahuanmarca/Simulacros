@@ -5,6 +5,7 @@ const datasets = {
   "2025-03": cuestionario_completo.filter(item => item.origen === "2025-03"),
   "2025-04": cuestionario_completo.filter(item => item.origen === "2025-04"),
   "2025-05": cuestionario_completo.filter(item => item.origen === "2025-05"),
+  "leyes": cuestionario_completo.filter(item => item.etiquetas.includes("leyes")),
 };
 
 // const errores = {};
