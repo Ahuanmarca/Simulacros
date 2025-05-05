@@ -1,0 +1,12 @@
+Libros / temas en Renfe
+
+- Condiciones generales
+- Plan de igualdad de género
+- Cultura de seguridad
+- Experiencia de cliente
+
+La app de simulacros debería poder ofrecer simulacros centrados
+en únicamente uno de los libros / temas.
+
+A futuro, estandarizar en "temas" la división más grande, pues
+el material no siempre estará dividido en libros.
