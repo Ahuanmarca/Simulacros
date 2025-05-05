@@ -88,6 +88,10 @@ async function main() {
     console.log(`🔖 Etiquetas disponibles: ${verde}${[...etiquetasGlobales].sort().join(" ")}${reset}`);
 
     const respuesta = await preguntar("\nEscribe las etiquetas que deseas agregar (separadas por espacio): ");
+    if (respuesta.trim() === '!salir') {
+      console.log('\n🛑 Finalizando sesión antes de completar todos los ítems...');
+      break;
+    }
     const nuevas = respuesta.trim().split(/\s+/).filter(Boolean);
 
     if (!Array.isArray(item.etiquetas)) item.etiquetas = [];

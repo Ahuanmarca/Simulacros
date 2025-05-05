@@ -11,7 +11,8 @@ const cuestionario_completo = [
     "comentario": "“Los Servicios Comerciales son aquellos que atienden las necesidades de demanda  de movilidad del mercado y se prestan en régimen de libre competencia y pluralidad de oferta.\nLos servicios considerados comerciales son:\n- Alta Velocidad-Larga Distancia.\n- Larga Distancia.\nTrenes Turísticos, cuyas Condiciones Generales de contratación se encuentran a disposición de los clientes en la web de Renfe”.",
     "libro": "Condiciones Generales",
     "etiquetas": [
-      "ez"
+      "ez",
+      "debug"
     ],
     "origen": "2025-01",
     "aciertos_consecutivos": 0,
@@ -773,7 +774,8 @@ const cuestionario_completo = [
     "comentario": "“Para realizar el registro retributivo conforme con lo indicado en el 28.2 del Estatuto de los Trabajadores y el RD 902/2020 se han revisado las descripciones de los Puestos Tipo de la sociedad con el detalle de las funciones y responsabilidades de cada puesto”.",
     "libro": "Plan de Igualdad de Género",
     "etiquetas": [
-      "leyes"
+      "leyes",
+      "debug"
     ],
     "origen": "2025-01",
     "aciertos_consecutivos": 0,
@@ -980,7 +982,9 @@ const cuestionario_completo = [
     "correcta": "b) Sistema de Gestión de Seguridad (SGS).",
     "comentario": "“Un Sistema de Gestión de Seguridad (  SGS) es la gestión del conjunto de medidas que establece la empresa para garantiz  ar que sus operaciones sean seguras”.",
     "libro": "Cultura de Seguridad",
-    "etiquetas": [],
+    "etiquetas": [
+      "debug"
+    ],
     "origen": "2025-01",
     "aciertos_consecutivos": 0,
     "fallos_totales": 0,
@@ -1339,7 +1343,8 @@ const cuestionario_completo = [
     "comentario": "“En la era de la producción, que comenzó en 1900, el enfoque estaba en la eficiencia y la producción en masa, liderada por visionarios como Henry Ford y Boeing, quienes revolucionaron la industria con sus innovaciones en fabricación. Esta época se caracterizó por la estandarización de productos y la optimización de procesos, lo que permitió a las empresas alcanzar economías de escala y reducir costes, dando lugar a la proliferación de bienes asequibles para  las masas y estableciendo las bases para la economía de consumo que conocemos hoy en día”.",
     "libro": "Experiencia de Cliente",
     "etiquetas": [
-      "ez"
+      "ez",
+      "debug"
     ],
     "origen": "2025-01",
     "aciertos_consecutivos": 0,
