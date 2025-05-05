@@ -1,11 +1,10 @@
 // AQUI
 const datasets = {
-  "2025-01": preguntas_2025_01,
-  "2025-02": preguntas_2025_02,
-  "2025-03": preguntas_2025_03,
-  "2025-04": preguntas_2025_04,
-  "2025-05": preguntas_2025_05,
-  test: test,
+  "2025-01": cuestionario_completo.filter(item => item.origen === "2025-01"),
+  "2025-02": cuestionario_completo.filter(item => item.origen === "2025-02"),
+  "2025-03": cuestionario_completo.filter(item => item.origen === "2025-03"),
+  "2025-04": cuestionario_completo.filter(item => item.origen === "2025-04"),
+  "2025-05": cuestionario_completo.filter(item => item.origen === "2025-05"),
 };
 
 // const errores = {};

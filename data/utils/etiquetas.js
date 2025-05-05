@@ -107,14 +107,6 @@ async function main() {
     if (!Array.isArray(item.etiquetas)) item.etiquetas = [];
   }
 
-  // Guardar nuevo archivo
-  // const { name, ext, dir } = path.parse(archivo);
-  // const nuevoNombre = path.join(dir, `${name}_etiqueta${ext}`);
-  // const nuevoContenido = `const ${nombreVariable} = ${JSON.stringify(preguntas, null, 2)};\n`;
-
-  // fs.writeFileSync(nuevoNombre, nuevoContenido, 'utf-8');
-  // console.log(`\n✅ Archivo guardado como: ${nuevoNombre}`);
-
   const nuevoContenido = `const ${nombreVariable} = ${JSON.stringify(preguntas, null, 2)};\n`;
   fs.writeFileSync(archivo, nuevoContenido, 'utf-8');
   console.log(`\n✅ Archivo actualizado: ${archivo}`);
