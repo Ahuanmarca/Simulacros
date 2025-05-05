@@ -4,10 +4,11 @@ const readline = require('readline');
 
 // Colores para resaltado en terminal
 const verde = '\x1b[32m';
+const amarillo = '\x1b[33m';
 const reset = '\x1b[0m';
 const separador = '\x1b[90m' + '-'.repeat(60) + reset;
 
-// Interfaz CLI
+// CLI
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
@@ -28,8 +29,25 @@ function guardarEtiquetasJSON(etiquetas, ruta) {
   fs.writeFileSync(ruta, JSON.stringify([...etiquetas].sort(), null, 2), 'utf-8');
 }
 
-async function main() {
+function parseArgs() {
   const archivo = process.argv[2];
+  let etiquetasFiltro = [];
+
+  const eIndex = process.argv.indexOf('-e');
+  if (eIndex !== -1 && process.argv[eIndex + 1]) {
+    etiquetasFiltro = process.argv[eIndex + 1].split(/\s+/);
+  }
+
+  return { archivo, etiquetasFiltro };
+}
+
+function tieneTodasLasEtiquetas(item, etiquetasBuscadas) {
+  if (!Array.isArray(item.etiquetas)) return false;
+  return etiquetasBuscadas.every(e => item.etiquetas.includes(e));
+}
+
+async function main() {
+  const { archivo, etiquetasFiltro } = parseArgs();
   if (!archivo) {
     console.error("❌ Debes indicar el archivo JS como argumento.");
     process.exit(1);
@@ -53,6 +71,10 @@ async function main() {
 
   // Segundo loop: asignar etiquetas nuevas
   for (const item of preguntas) {
+    if (etiquetasFiltro.length > 0 && !tieneTodasLasEtiquetas(item, etiquetasFiltro)) {
+      continue;
+    }
+
     console.log(`\n${separador}`);
     console.log("📘 Pregunta:");
     console.log(item.pregunta);
@@ -61,13 +83,9 @@ async function main() {
     console.log("\n📝 Comentario:");
     console.log(item.comentario || "(sin comentario)");
 
-    // console.log(`\n🔖 Etiquetas existentes: ${verde}${[...etiquetasGlobales].sort().join(" ")}${reset}`);
-
-    const amarillo = '\x1b[33m';
     const etiquetasItem = Array.isArray(item.etiquetas) ? [...item.etiquetas].sort() : [];
     console.log(`\n🏷️ Etiquetas del ítem:     ${amarillo}${etiquetasItem.join(" ")}${reset}`);
     console.log(`🔖 Etiquetas disponibles: ${verde}${[...etiquetasGlobales].sort().join(" ")}${reset}`);
-    
 
     const respuesta = await preguntar("\nEscribe las etiquetas que deseas agregar (separadas por espacio): ");
     const nuevas = respuesta.trim().split(/\s+/).filter(Boolean);
